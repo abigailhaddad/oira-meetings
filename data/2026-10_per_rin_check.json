@@ -1,0 +1,275 @@
+{
+ "pulled": "2026-11-08 17:42:03 EST",
+ "results": [
+  {
+   "rin": "0584-AF17",
+   "month_search_count": 6,
+   "per_rin_count": 6,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 23,
+   "per_rin_rows_parsed": 23
+  },
+  {
+   "rin": "0651-AD89",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 31,
+   "per_rin_rows_parsed": 31
+  },
+  {
+   "rin": "0910-AG30",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 1,
+   "per_rin_rows_parsed": 1
+  },
+  {
+   "rin": "0910-ZD60",
+   "month_search_count": 12,
+   "per_rin_count": 12,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 32,
+   "per_rin_rows_parsed": 32
+  },
+  {
+   "rin": "0910-ZD80",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 1,
+   "per_rin_rows_parsed": 1
+  },
+  {
+   "rin": "0910-ZD94",
+   "month_search_count": 4,
+   "per_rin_count": 4,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 4,
+   "per_rin_rows_parsed": 4
+  },
+  {
+   "rin": "0938-AV82",
+   "month_search_count": 13,
+   "per_rin_count": 13,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 22,
+   "per_rin_rows_parsed": 22
+  },
+  {
+   "rin": "0938-AV83",
+   "month_search_count": 10,
+   "per_rin_count": 10,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 13,
+   "per_rin_rows_parsed": 13
+  },
+  {
+   "rin": "0938-AV90",
+   "month_search_count": 6,
+   "per_rin_count": 6,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 11,
+   "per_rin_rows_parsed": 11
+  },
+  {
+   "rin": "0938-AV97",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 1,
+   "per_rin_rows_parsed": 1
+  },
+  {
+   "rin": "1018-BJ06",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 1,
+   "per_rin_rows_parsed": 1
+  },
+  {
+   "rin": "1117-AB40",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 27,
+   "per_rin_rows_parsed": 27
+  },
+  {
+   "rin": "1205-AC21",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 1,
+   "per_rin_rows_parsed": 1
+  },
+  {
+   "rin": "1210-AB37",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 12,
+   "per_rin_rows_parsed": 12
+  },
+  {
+   "rin": "1210-AC43",
+   "month_search_count": 2,
+   "per_rin_count": 2,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 2,
+   "per_rin_rows_parsed": 2
+  },
+  {
+   "rin": "1557-AF41",
+   "month_search_count": 2,
+   "per_rin_count": 2,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 2,
+   "per_rin_rows_parsed": 2
+  },
+  {
+   "rin": "1670-AA04",
+   "month_search_count": 2,
+   "per_rin_count": 2,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 2,
+   "per_rin_rows_parsed": 2
+  },
+  {
+   "rin": "1901-AB75",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 1,
+   "per_rin_rows_parsed": 1
+  },
+  {
+   "rin": "2060-AW72",
+   "month_search_count": 4,
+   "per_rin_count": 4,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 4,
+   "per_rin_rows_parsed": 4
+  },
+  {
+   "rin": "2060-AW73",
+   "month_search_count": 7,
+   "per_rin_count": 7,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 22,
+   "per_rin_rows_parsed": 22
+  },
+  {
+   "rin": "2120-AL82",
+   "month_search_count": 5,
+   "per_rin_count": 5,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 62,
+   "per_rin_rows_parsed": 62
+  },
+  {
+   "rin": "2126-AC63",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 3,
+   "per_rin_rows_parsed": 3
+  },
+  {
+   "rin": "2127-AM69",
+   "month_search_count": 2,
+   "per_rin_count": 2,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 3,
+   "per_rin_rows_parsed": 3
+  },
+  {
+   "rin": "2130-AC82",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 2,
+   "per_rin_rows_parsed": 2
+  },
+  {
+   "rin": "3010-AA10",
+   "month_search_count": 14,
+   "per_rin_count": 14,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 58,
+   "per_rin_rows_parsed": 58
+  },
+  {
+   "rin": "3037-AA24",
+   "month_search_count": 1,
+   "per_rin_count": 1,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 2,
+   "per_rin_rows_parsed": 2
+  },
+  {
+   "rin": "3170-AB39",
+   "month_search_count": 3,
+   "per_rin_count": 3,
+   "match": true,
+   "only_in_month_search": [],
+   "only_in_per_rin": [],
+   "per_rin_found_all_time": 7,
+   "per_rin_rows_parsed": 7
+  }
+ ]
+}

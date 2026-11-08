@@ -1,0 +1,2088 @@
+{
+ "found_banner": 104,
+ "pulled": "2026-11-08 17:33:02 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1540923",
+   "rin": "2126-AC63",
+   "meeting_datetime": "10/30/2026 02:00 PM",
+   "agency": "2126-DOT/FMCSA",
+   "rule_title": "Transparency in Property Broker Transactions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2126-AC63&meetingId=1540923&acronym=2126-DOT/FMCSA"
+  },
+  {
+   "meeting_id": "1596023",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/30/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1596023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1593723",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/30/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1593723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1533723",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/30/2026 11:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1533723&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1591173",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/30/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1591173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1540973",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/30/2026 10:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1540973&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1568974",
+   "rin": "3170-AB39",
+   "meeting_datetime": "10/29/2026 03:30 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1568974&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1535123",
+   "rin": "3170-AB39",
+   "meeting_datetime": "10/29/2026 03:00 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1535123&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1536323",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/29/2026 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1536323&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1535823",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/29/2026 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1535823&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1533423",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/29/2026 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1533423&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1518723",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/29/2026 11:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518723&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1518674",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/29/2026 11:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518674&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1583773",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/29/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1583773&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1535873",
+   "rin": "1018-BJ06",
+   "meeting_datetime": "10/29/2026 10:00 AM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Northern Spotted Owl",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BJ06&meetingId=1535873&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1578673",
+   "rin": "1670-AA04",
+   "meeting_datetime": "10/28/2026 02:30 PM",
+   "agency": "1670-DHS/CISA",
+   "rule_title": "Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1670-AA04&meetingId=1578673&acronym=1670-DHS/CISA"
+  },
+  {
+   "meeting_id": "1518573",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/28/2026 02:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518573&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1531023",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/27/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1531023&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1529224",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/27/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1529224&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1588623",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/27/2026 02:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1588523",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/27/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1518373",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/27/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518373&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1583923",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/27/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1583923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1577123",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/27/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1577123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1518523",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/27/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518523&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1588574",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/27/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1588574&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1576424",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/26/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1576424&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1573573",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/26/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1573573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1533824",
+   "rin": "3170-AB39",
+   "meeting_datetime": "10/26/2026 02:00 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1533824&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1578573",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/26/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1578573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1571173",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/26/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1571173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1558573",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/26/2026 12:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1558573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1576423",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/26/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1576423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1581123",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/23/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1581123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1588573",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/23/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588573&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1528824",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/23/2026 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1528824&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1576723",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/23/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1576723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1571073",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/23/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1571073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1568923",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/23/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1568923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1518323",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/22/2026 01:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518323&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1573773",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/22/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573773&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1573623",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/22/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1548473",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/22/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1548473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1581023",
+   "rin": "1670-AA04",
+   "meeting_datetime": "10/21/2026 03:30 PM",
+   "agency": "1670-DHS/CISA",
+   "rule_title": "Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1670-AA04&meetingId=1581023&acronym=1670-DHS/CISA"
+  },
+  {
+   "meeting_id": "1586023",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/21/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1586023&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1573523",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/21/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1551273",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/21/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1551273&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1515723",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/20/2026 03:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515723&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1518273",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/20/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518273&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1516023",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/20/2026 01:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1516023&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1568673",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/20/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1568673&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1576823",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/20/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1576823&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1568723",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/20/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1568723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1568623",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/19/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1568623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1515973",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/19/2026 02:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515973&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1515773",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/19/2026 02:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515773&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1551024",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/19/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1551024&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1533724",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/19/2026 11:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1533724&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1528274",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/19/2026 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1528274&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1558623",
+   "rin": "1117-AB40",
+   "meeting_datetime": "10/16/2026 02:00 PM",
+   "agency": "1117-DOJ/DEA",
+   "rule_title": "Special Registrations for Telemedicine and Limited State Telemedicine Registrations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1117-AB40&meetingId=1558623&acronym=1117-DOJ/DEA"
+  },
+  {
+   "meeting_id": "1529623",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/16/2026 01:30 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1529623&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1535023",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/16/2026 01:00 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1535023&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1566173",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/16/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1566173&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1573774",
+   "rin": "0910-AG30",
+   "meeting_datetime": "10/15/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Sunlamp Products; Amendment to the Performance Standard",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AG30&meetingId=1573774&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1526823",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/15/2026 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1526823&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1568573",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/15/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1568573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1566423",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/15/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1566423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1525973",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/15/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1525973&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1529324",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/15/2026 10:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1529324&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1533923",
+   "rin": "1557-AF41",
+   "meeting_datetime": "10/14/2026 03:30 PM",
+   "agency": "1557-TREAS/OCC",
+   "rule_title": "Regulations on Implementing the GENIUS Act for Entities Subject to OCC Jurisdiction",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1557-AF41&meetingId=1533923&acronym=1557-TREAS/OCC"
+  },
+  {
+   "meeting_id": "1528623",
+   "rin": "0938-AV97",
+   "meeting_datetime": "10/14/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Comprehensive Regulations to Uncover Suspicious Healthcare (CRUSH) (CMS-6098)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV97&meetingId=1528623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1561023",
+   "rin": "1210-AB37",
+   "meeting_datetime": "10/14/2026 02:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1561023&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1550923",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/14/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1550923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1527023",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/14/2026 10:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1527023&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1528723",
+   "rin": "1901-AB75",
+   "meeting_datetime": "10/13/2026 03:30 PM",
+   "agency": "1901-DOE/ENDEP",
+   "rule_title": "Revisions to Occupational Radiation Protection Regulations to Support Reform of Nuclear Reactor Testing",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1901-AB75&meetingId=1528723&acronym=1901-DOE/ENDEP"
+  },
+  {
+   "meeting_id": "1551124",
+   "rin": "0910-ZD80",
+   "meeting_datetime": "10/13/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD80&meetingId=1551124&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1527024",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/13/2026 11:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1527024&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1515623",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/13/2026 10:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515623&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1521623",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/09/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1521623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1524673",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/08/2026 03:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1524673&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1528923",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/08/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1528923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1534773",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/08/2026 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1534773&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1524823",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/08/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1524823&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1515625",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/08/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515625&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1515624",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/08/2026 10:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515624&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1533323",
+   "rin": "1557-AF41",
+   "meeting_datetime": "10/07/2026 03:00 PM",
+   "agency": "1557-TREAS/OCC",
+   "rule_title": "Regulations on Implementing the GENIUS Act for Entities Subject to OCC Jurisdiction",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1557-AF41&meetingId=1533323&acronym=1557-TREAS/OCC"
+  },
+  {
+   "meeting_id": "1528873",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/07/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1528873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1530823",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/07/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1530823&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1526923",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/06/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1526923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1526873",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/06/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1526873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1545973",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/06/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1545973&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1545875",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/06/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1545875&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1524373",
+   "rin": "1210-AC43",
+   "meeting_datetime": "10/05/2026 03:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Definition of an \"Employer\" Under Section 3(5) of ERISA -- Association Health Plans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AC43&meetingId=1524373&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1530923",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/05/2026 02:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1530923&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1525923",
+   "rin": "0651-AD89",
+   "meeting_datetime": "10/05/2026 01:00 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1525923&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1523773",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/05/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1523773&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1558874",
+   "rin": "2130-AC82",
+   "meeting_datetime": "10/02/2026 03:00 PM",
+   "agency": "2130-DOT/FRA",
+   "rule_title": "Amendments to Brake System Safety Standards Governing Operations Using Electronic Air Brake Slip System",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2130-AC82&meetingId=1558874&acronym=2130-DOT/FRA"
+  },
+  {
+   "meeting_id": "1525773",
+   "rin": "1210-AC43",
+   "meeting_datetime": "10/02/2026 02:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Definition of an \"Employer\" Under Section 3(5) of ERISA -- Association Health Plans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AC43&meetingId=1525773&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1551023",
+   "rin": "3037-AA24",
+   "meeting_datetime": "10/02/2026 01:00 PM",
+   "agency": "3037-CPBSD",
+   "rule_title": "Revise Central Nonprofit Agencies' Requirements to Charge Fees & Subcontracting in the AbilityOne Program",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3037-AA24&meetingId=1551023&acronym=3037-CPBSD"
+  },
+  {
+   "meeting_id": "1524525",
+   "rin": "1205-AC21",
+   "meeting_datetime": "10/02/2026 11:00 AM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC21&meetingId=1524525&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1523573",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/02/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1523573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1543323",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/02/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1543323&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1548324",
+   "rin": "2127-AM69",
+   "meeting_datetime": "10/01/2026 11:30 AM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Amendments to FMVSS No. 127; Light Vehicle Automatic Emergency Braking",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-AM69&meetingId=1548324&acronym=2127-DOT/NHTSA"
+  },
+  {
+   "meeting_id": "1548373",
+   "rin": "2127-AM69",
+   "meeting_datetime": "10/01/2026 11:00 AM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Amendments to FMVSS No. 127; Light Vehicle Automatic Emergency Braking",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-AM69&meetingId=1548373&acronym=2127-DOT/NHTSA"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1540923",
+   "rin": "2126-AC63",
+   "meeting_datetime": "10/30/2026 02:00 PM",
+   "agency": "2126-DOT/FMCSA",
+   "rule_title": "Transparency in Property Broker Transactions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2126-AC63&meetingId=1540923&acronym=2126-DOT/FMCSA"
+  },
+  {
+   "meeting_id": "1596023",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/30/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1596023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1593723",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/30/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1593723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1533723",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/30/2026 11:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1533723&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1591173",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/30/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1591173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1540973",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/30/2026 10:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1540973&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1568974",
+   "rin": "3170-AB39",
+   "meeting_datetime": "10/29/2026 03:30 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1568974&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1535123",
+   "rin": "3170-AB39",
+   "meeting_datetime": "10/29/2026 03:00 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1535123&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1536323",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/29/2026 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1536323&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1535823",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/29/2026 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1535823&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1533423",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/29/2026 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1533423&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1518723",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/29/2026 11:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518723&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1518674",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/29/2026 11:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518674&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1583773",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/29/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1583773&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1535873",
+   "rin": "1018-BJ06",
+   "meeting_datetime": "10/29/2026 10:00 AM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Endangered and Threatened Wildlife and Plants; Critical Habitat Designation for Northern Spotted Owl",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BJ06&meetingId=1535873&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1578673",
+   "rin": "1670-AA04",
+   "meeting_datetime": "10/28/2026 02:30 PM",
+   "agency": "1670-DHS/CISA",
+   "rule_title": "Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1670-AA04&meetingId=1578673&acronym=1670-DHS/CISA"
+  },
+  {
+   "meeting_id": "1518573",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/28/2026 02:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518573&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1531023",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/27/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1531023&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1529224",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/27/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1529224&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1588623",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/27/2026 02:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1588523",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/27/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1518373",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/27/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518373&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1583923",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/27/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1583923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1577123",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/27/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1577123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1518523",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/27/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518523&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1588574",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/27/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1588574&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1576424",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/26/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1576424&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1573573",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/26/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1573573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1533824",
+   "rin": "3170-AB39",
+   "meeting_datetime": "10/26/2026 02:00 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1533824&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1578573",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/26/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1578573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1571173",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/26/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1571173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1558573",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/26/2026 12:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1558573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1576423",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/26/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1576423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1581123",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/23/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1581123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1588573",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/23/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588573&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1528824",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/23/2026 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1528824&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1576723",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/23/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1576723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1571073",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/23/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1571073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1568923",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/23/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1568923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1518323",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/22/2026 01:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518323&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1573773",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/22/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573773&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1573623",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/22/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1548473",
+   "rin": "2060-AW72",
+   "meeting_datetime": "10/22/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Treatment of Data Influenced by Exceptional Events: Rule Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW72&meetingId=1548473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1581023",
+   "rin": "1670-AA04",
+   "meeting_datetime": "10/21/2026 03:30 PM",
+   "agency": "1670-DHS/CISA",
+   "rule_title": "Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) Reporting Requirements",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1670-AA04&meetingId=1581023&acronym=1670-DHS/CISA"
+  },
+  {
+   "meeting_id": "1586023",
+   "rin": "0910-ZD94",
+   "meeting_datetime": "10/21/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Interim Access Policy for Compounding Using Certain Peptides",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1586023&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1573523",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/21/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1551273",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/21/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1551273&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1515723",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/20/2026 03:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515723&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1518273",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/20/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518273&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1516023",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/20/2026 01:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1516023&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1568673",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/20/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1568673&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1576823",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/20/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1576823&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1568723",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/20/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1568723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1568623",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/19/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1568623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1515973",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/19/2026 02:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515973&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1515773",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/19/2026 02:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515773&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1551024",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/19/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1551024&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1533724",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/19/2026 11:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1533724&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1528274",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/19/2026 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1528274&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1558623",
+   "rin": "1117-AB40",
+   "meeting_datetime": "10/16/2026 02:00 PM",
+   "agency": "1117-DOJ/DEA",
+   "rule_title": "Special Registrations for Telemedicine and Limited State Telemedicine Registrations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1117-AB40&meetingId=1558623&acronym=1117-DOJ/DEA"
+  },
+  {
+   "meeting_id": "1529623",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/16/2026 01:30 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1529623&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1535023",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/16/2026 01:00 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1535023&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1566173",
+   "rin": "0938-AV83",
+   "meeting_datetime": "10/16/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1566173&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1573774",
+   "rin": "0910-AG30",
+   "meeting_datetime": "10/15/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Sunlamp Products; Amendment to the Performance Standard",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AG30&meetingId=1573774&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1526823",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/15/2026 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1526823&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1568573",
+   "rin": "0938-AV82",
+   "meeting_datetime": "10/15/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1568573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1566423",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/15/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1566423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1525973",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/15/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1525973&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1529324",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/15/2026 10:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1529324&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1533923",
+   "rin": "1557-AF41",
+   "meeting_datetime": "10/14/2026 03:30 PM",
+   "agency": "1557-TREAS/OCC",
+   "rule_title": "Regulations on Implementing the GENIUS Act for Entities Subject to OCC Jurisdiction",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1557-AF41&meetingId=1533923&acronym=1557-TREAS/OCC"
+  },
+  {
+   "meeting_id": "1528623",
+   "rin": "0938-AV97",
+   "meeting_datetime": "10/14/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Comprehensive Regulations to Uncover Suspicious Healthcare (CRUSH) (CMS-6098)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV97&meetingId=1528623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1561023",
+   "rin": "1210-AB37",
+   "meeting_datetime": "10/14/2026 02:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1561023&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1550923",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/14/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1550923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1527023",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/14/2026 10:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1527023&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1528723",
+   "rin": "1901-AB75",
+   "meeting_datetime": "10/13/2026 03:30 PM",
+   "agency": "1901-DOE/ENDEP",
+   "rule_title": "Revisions to Occupational Radiation Protection Regulations to Support Reform of Nuclear Reactor Testing",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1901-AB75&meetingId=1528723&acronym=1901-DOE/ENDEP"
+  },
+  {
+   "meeting_id": "1551124",
+   "rin": "0910-ZD80",
+   "meeting_datetime": "10/13/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD80&meetingId=1551124&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1527024",
+   "rin": "0584-AF17",
+   "meeting_datetime": "10/13/2026 11:00 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1527024&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1515623",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/13/2026 10:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515623&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1521623",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/09/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1521623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1524673",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/08/2026 03:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1524673&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1528923",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/08/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1528923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1534773",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/08/2026 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1534773&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1524823",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/08/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1524823&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1515625",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/08/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515625&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1515624",
+   "rin": "3010-AA10",
+   "meeting_datetime": "10/08/2026 10:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515624&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1533323",
+   "rin": "1557-AF41",
+   "meeting_datetime": "10/07/2026 03:00 PM",
+   "agency": "1557-TREAS/OCC",
+   "rule_title": "Regulations on Implementing the GENIUS Act for Entities Subject to OCC Jurisdiction",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1557-AF41&meetingId=1533323&acronym=1557-TREAS/OCC"
+  },
+  {
+   "meeting_id": "1528873",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/07/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1528873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1530823",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/07/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1530823&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1526923",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/06/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1526923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1526873",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/06/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1526873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1545973",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/06/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1545973&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1545875",
+   "rin": "0938-AV90",
+   "meeting_datetime": "10/06/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare Drug Price Negotiation Program (CMS-4215)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1545875&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1524373",
+   "rin": "1210-AC43",
+   "meeting_datetime": "10/05/2026 03:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Definition of an \"Employer\" Under Section 3(5) of ERISA -- Association Health Plans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AC43&meetingId=1524373&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1530923",
+   "rin": "2120-AL82",
+   "meeting_datetime": "10/05/2026 02:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1530923&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1525923",
+   "rin": "0651-AD89",
+   "meeting_datetime": "10/05/2026 01:00 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1525923&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1523773",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "10/05/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1523773&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1558874",
+   "rin": "2130-AC82",
+   "meeting_datetime": "10/02/2026 03:00 PM",
+   "agency": "2130-DOT/FRA",
+   "rule_title": "Amendments to Brake System Safety Standards Governing Operations Using Electronic Air Brake Slip System",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2130-AC82&meetingId=1558874&acronym=2130-DOT/FRA"
+  },
+  {
+   "meeting_id": "1525773",
+   "rin": "1210-AC43",
+   "meeting_datetime": "10/02/2026 02:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Definition of an \"Employer\" Under Section 3(5) of ERISA -- Association Health Plans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AC43&meetingId=1525773&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1551023",
+   "rin": "3037-AA24",
+   "meeting_datetime": "10/02/2026 01:00 PM",
+   "agency": "3037-CPBSD",
+   "rule_title": "Revise Central Nonprofit Agencies' Requirements to Charge Fees & Subcontracting in the AbilityOne Program",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3037-AA24&meetingId=1551023&acronym=3037-CPBSD"
+  },
+  {
+   "meeting_id": "1524525",
+   "rin": "1205-AC21",
+   "meeting_datetime": "10/02/2026 11:00 AM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC21&meetingId=1524525&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1523573",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/02/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1523573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1543323",
+   "rin": "2060-AW73",
+   "meeting_datetime": "10/02/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Additional Reconsideration of Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW73&meetingId=1543323&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1548324",
+   "rin": "2127-AM69",
+   "meeting_datetime": "10/01/2026 11:30 AM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Amendments to FMVSS No. 127; Light Vehicle Automatic Emergency Braking",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-AM69&meetingId=1548324&acronym=2127-DOT/NHTSA"
+  },
+  {
+   "meeting_id": "1548373",
+   "rin": "2127-AM69",
+   "meeting_datetime": "10/01/2026 11:00 AM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Amendments to FMVSS No. 127; Light Vehicle Automatic Emergency Braking",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-AM69&meetingId=1548373&acronym=2127-DOT/NHTSA"
+  }
+ ]
+}

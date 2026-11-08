@@ -1,0 +1,75 @@
+# Proof file: spot-check against the live site
+
+Sample of 20 meetings and 33 documents from 2026-10, drawn with `random.seed(20261108)` (8 random meetings that have documents, 3 random meetings with none) plus deliberately chosen edge cases (the `why` column). This is a SAMPLE, not a full verification.
+Method: each meeting page was fetched a second time and parsed with a separately written regex parser (the main scripts use BeautifulSoup); each document was downloaded a second time and its SHA-256 compared; page counts compared between poppler `pdfinfo` and `pypdf`.
+
+## Meetings (our saved value vs. live page re-fetched)
+
+| meeting | why sampled | date ours / live | requestor ours / live | docs ours / live | attendees ours / live | all match |
+|---|---|---|---|---|---|---|
+| [1533923](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1557-AF41&meetingId=1533923) | random (with documents) | 10/14/2026 03:30 PM / 10/14/2026 03:30 PM | American Bankers Association / American Bankers Association | 1 / 1 | 10 / 10 | yes |
+| [1551273](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1551273) | random (with documents) | 10/21/2026 10:00 AM / 10/21/2026 10:00 AM | Caly / Caly | 2 / 2 | 12 / 12 | yes |
+| [1528274](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1528274) | random (with documents) | 10/19/2026 10:30 AM / 10/19/2026 10:30 AM | FoodTrition Solutions LLC / FoodTrition Solutions LLC | 3 / 3 | 12 / 12 | yes |
+| [1529623](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1529623) | random (with documents) | 10/16/2026 01:30 PM / 10/16/2026 01:30 PM | J.T.M. Provisions Co., Inc. dba J.T.M. Food Group / J.T.M. Provisions Co., Inc. dba J.T.M. Food Group | 1 / 1 | 4 / 4 | yes |
+| [1545973](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV90&meetingId=1545973) | random (with documents) | 10/06/2026 11:30 AM / 10/06/2026 11:30 AM | PhRMA / PhRMA | 4 / 4 | 9 / 9 | yes |
+| [1568673](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1568673) | random (with documents) | 10/20/2026 11:00 AM / 10/20/2026 11:00 AM | Liberty Partners Group / Liberty Partners Group | 3 / 3 | 15 / 15 | yes |
+| [1515623](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515623) | random (with documents) | 10/13/2026 10:00 AM / 10/13/2026 10:00 AM | ASC Group, Inc. / ASC Group, Inc. | 1 / 1 | 6 / 6 | yes |
+| [1581023](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1670-AA04&meetingId=1581023) | random (with documents) | 10/21/2026 03:30 PM / 10/21/2026 03:30 PM | National Association of Manufacturers / National Association of Manufacturers | 1 / 1 | 9 / 9 | yes |
+| [1588523](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD94&meetingId=1588523) | random (no documents) | 10/27/2026 02:00 PM / 10/27/2026 02:00 PM | Alliance for Pharmacy Compounding / Alliance for Pharmacy Compounding | 0 / 0 | 10 / 10 | yes |
+| [1535023](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1535023) | random (no documents) | 10/16/2026 01:00 PM / 10/16/2026 01:00 PM | National Pork Producers Council / National Pork Producers Council | 0 / 0 | 5 / 5 | yes |
+| [1518523](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1518523) | random (no documents) | 10/27/2026 10:30 AM / 10/27/2026 10:30 AM | Chronicle Heritage / Chronicle Heritage | 0 / 0 | 5 / 5 | yes |
+| [1573623](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1573623) | edge: scanned/no-text PDF | 10/22/2026 11:00 AM / 10/22/2026 11:00 AM | Michael Best Strategies / Michael Best Strategies | 1 / 1 | 13 / 13 | yes |
+| [1528824](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1528824) | edge: PDF without filename header | 10/23/2026 01:00 PM / 10/23/2026 01:00 PM | Food is Medicine Institute at Tufts University / Food is Medicine Institute at Tufts University | 4 / 4 | 18 / 18 | yes |
+| [1573774](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AG30&meetingId=1573774) | edge: pptx | 10/15/2026 03:30 PM / 10/15/2026 03:30 PM | Covington & Burling LLP / Covington & Burling LLP | 1 / 1 | 16 / 16 | yes |
+| [1515773](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515773) | edge: docx | 10/19/2026 02:00 PM / 10/19/2026 02:00 PM | National Alliance of Preservation Commissions / National Alliance of Preservation Commissions | 1 / 1 | 6 / 6 | yes |
+| [1528723](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1901-AB75&meetingId=1528723) | edge: xlsx | 10/13/2026 03:30 PM / 10/13/2026 03:30 PM | The Breakthrough Institute / The Breakthrough Institute | 5 / 5 | 7 / 7 | yes |
+| [1526823](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1526823) | edge: most documents | 10/15/2026 01:30 PM / 10/15/2026 01:30 PM | Nutrition scientists at University of California / Nutrition scientists at University of California | 5 / 5 | 15 / 15 | yes |
+| [1524673](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1524673) | edge: status Scheduled | 10/08/2026 03:30 PM / 10/08/2026 03:30 PM | United Aerial Firefighters Association (UAFA) / United Aerial Firefighters Association (UAFA) | 0 / 0 | 0 / 0 | yes |
+| [1515973](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1515973) | edge: status No Show | 10/19/2026 02:30 PM / 10/19/2026 02:30 PM | Preservation Alliance of West Virginia / Preservation Alliance of West Virginia | 0 / 0 | 6 / 6 | yes |
+| [1533723](https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1533723) | edge: last meeting of month by date | 10/30/2026 11:30 AM / 10/30/2026 11:30 AM | Betsy Booren / Betsy Booren | 0 / 0 | 0 / 0 | yes |
+
+## Documents (first download vs. second download)
+
+| document | meeting | file name | size | SHA-256 (first 12) | second-fetch SHA matches | pages pdfinfo / pypdf | text poppler / pypdf |
+|---|---|---|---|---|---|---|---|
+| [1428892](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1428892) | 1533923 | Deposit Flight and the MMF Parallel.docx | 19159 | d24d8e8dc11c | True |  /  | yes / n/a |
+| [1431543](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431543) | 1551273 | Calyxo_CMS_OPPS_ASC_CY27_PR_Cmt_ltr.pdf | 283568 | 017989ba469a | True | 7 / 7 | yes / yes |
+| [1431542](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431542) | 1551273 | Calyxo_OMB_issue_brief.pdf | 147501 | 2f7dd46aac27 | True | 1 / 1 | yes / yes |
+| [1431346](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431346) | 1528274 | That Post on Food Policy The Invisible Food Science Behind a Safe Nutritious Food Supply Dr. RC Post FoodTritionSolutions LLC September 18 2026.pdf | 253538 | ab0df5ea3a62 | True | 9 / 9 | yes / yes |
+| [1431345](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431345) | 1528274 | That Post on Food Policy- Food Policy Needs an Evidence Architecture Robert C. Post PhD FoodTrition Solutions LLC July 30 2026 Commentary.pdf | 2207159 | 5385e7ac3e48 | True | 8 / 8 | yes / yes |
+| [1431342](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431342) | 1528274 | OIRA_UPF_Submission on White Paper_Dr_Robert_Post_FoodTrition_Solutions_October 19 2026.pdf | 143960 | 9b9d25ff4f71 | True | 8 / 8 | yes / yes |
+| [1429192](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1429192) | 1529623 | JTM_OMB_Testimony 10-16-26.pdf | 193397 | 572673277dbe | True | 6 / 6 | yes / yes |
+| [1416442](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1416442) | 1545973 | CMS-2026-2080-0152_attachment_1.pdf | 940619 | d34a04480e93 | True | 78 / 78 | yes / yes |
+| [1416443](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1416443) | 1545973 | 2026-10-6 EO 12866 Meeting on MDPNP Proposed Rule  - PhRMA .pdf | 335773 | 3efb0e1432de | True | 7 / 7 | yes / yes |
+| [1416444](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1416444) | 1545973 | CMS-2026-2080-0151_attachment_1.pdf | 998837 | 74869d9c02c4 | True | 40 / 40 | yes / yes |
+| [1416445](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1416445) | 1545973 | The Challenge of R&D Cost Reporting Under the IRA - Blue Matter Consulting copy.pdf | 5917195 | 5e6e56e82812 | True | 3 / 3 | yes / yes |
+| [1431442](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431442) | 1568673 | Fixing-the-Radiotherapy-Crosswalk-to-Protect-Patient-Access FINAL.pptx | 5292416 | 58177968a878 | True | 18 /  | yes / n/a |
+| [1431443](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431443) | 1568673 | American College of Radiation Oncology CY 2027 HOPPS Comment Letter FINAL (CMS-1850-P).pdf | 773506 | 12027bc39070 | True | 8 / 8 | yes / yes |
+| [1431444](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431444) | 1568673 | ACRO CY 2027 PFS Proposed Rule Comment Letter (CMS-1848-P).pdf | 508581 | 5dfc0189ac97 | True | 9 / 9 | yes / yes |
+| [1423842](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423842) | 1515623 | RIN 3010-AA10; E.O. 12866 - ASC Group Inc_.pdf | 591868 | 8f1c5e4ef2e5 | True | 4 / 4 | yes / yes |
+| [1423992](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423992) | 1581023 | 20240702 CIRCIA - NAM submission FINAL.pdf | 295990 | b4db780fa97a | True | 9 / 9 | yes / yes |
+| [1436342](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1436342) | 1573623 | SWFP Comment Letter CMS.pdf | 5308319 | 44be9c9683e5 | True | 5 / 5 | no / no |
+| [1436692](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1436692) | 1528824 | OMB-OIRA meeting_HHS-FDA proposed definition of UPF talking points_23 October 2026_for upload.pdf | 284722 | 441ff7ce64d7 | True | 6 / 6 | yes / yes |
+| [1436693](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1436693) | 1528824 | (no filename header; title: AJPH.2026.UPF vs. Diet Quality in Relation to Cardiometabolic Health and All-Cause Mortality NHANES 1999–2018) | 879513 | 271b37871c38 | True | 10 / 10 | yes / yes |
+| [1436694](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1436694) | 1528824 | Summary of Food is Medicine Institute response to FDA-USDA RFI on ultra-processed foods_Oct 2025.pdf | 221412 | 620fcd25f769 | True | 1 / 1 | yes / yes |
+| [1436695](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1436695) | 1528824 | UPF science, medical, and nutrition experts sign-on letter to OMB_October 23, 2026_FINAL.pdf | 135234 | 8d9124ebb6c1 | True | 9 / 9 | yes / yes |
+| [1426342](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1426342) | 1573774 | ASA OMB OIRA MEETING - FDA 1998-N-0880 - RIN 0910-AG30.pptx | 414120 | 46c0ef24a47a | True | 7 /  | yes / n/a |
+| [1431492](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1431492) | 1515773 | NAPC OIRA Meeting Comments.docx | 3157318 | 4e22d040d519 | True |  /  | yes / n/a |
+| [1423942](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423942) | 1528723 | Sample-Size-Invariant Bias Wall.pdf | 430470 | b3879a1f265a | True | 23 / 23 | yes / yes |
+| [1423943](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423943) | 1528723 | Detectability Frontier of Low-Dose Radiation Epidemiology.pdf | 520577 | a802568affa1 | True | 14 / 14 | yes / yes |
+| [1423944](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423944) | 1528723 | BTI_Current State of Radiation Regulation.pdf | 177152 | ba48d6eb996e | True | 7 / 7 | yes / yes |
+| [1423945](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423945) | 1528723 | BTI-Radiation-Regulation-Spreadsheet.xlsx | 71613 | 0a6bee803691 | True |  /  | yes / n/a |
+| [1423946](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1423946) | 1528723 | Breakthrough Institute Comment on Reforming and Modernizing the NRC Radiation Protection Framework.pdf | 427234 | af9cbdaed316 | True | 43 / 43 | yes / yes |
+| [1429042](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1429042) | 1526823 | schmidt-2026-tobacco-industry-contributions.pdf | 1633807 | 2075a7b3529a | True | 10 / 10 | yes / yes |
+| [1429043](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1429043) | 1526823 | niederdeppe-et-al-2026-public-awareness-and-support-for-governmental-intervention-to-address-harms-associated-with.pdf | 1358204 | 7a31420abc39 | True | 11 / 11 | yes / yes |
+| [1429044](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1429044) | 1526823 | Ellison et al. - 2026 - The politics of processed foods Consumer perceptions of policies targeting ultra-processed foods.pdf | 627516 | c347a02be6a1 | True | 13 / 13 | yes / yes |
+| [1429045](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1429045) | 1526823 | Paraje_e011312.full.pdf | 2837424 | f7a97f7cabfc | True | 11 / 11 | yes / yes |
+| [1429046](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=1429046) | 1526823 | USDA.UPF MTG_2026_Final.pdf | 199080 | fc4f02c8968c | True | 8 / 8 | yes / yes |
+
+## Count reconciliation (full month, not a sample)
+
+- Live banner 'Number Of Records Found' re-read at 2026-11-08 17:43:02 EST: 104.
+- Our month list: 104 unique meeting ids (view-all pass and 10-per-page paginated pass returned identical id sets).
+- Same search split into 5 date sub-ranges: banners sum to 104, union of ids = 104, identical to the month list: True. Day before (09/30) and day after (11/01) boundary checks returned 1 and 0 meetings (outside the month).
+- Per-RIN cross-check (27 RINs, searched with no date filter, October rows counted): 104 meetings, id sets equal for every RIN: True. Limit: this can only find meetings on RINs already in the month list.
+- EO review XML (rules under review + completed YTD, RUNDATE 2026-11-08): 27 of 27 month RINs appear. The XML has no meeting records, so this is plausibility only, not a count check.
