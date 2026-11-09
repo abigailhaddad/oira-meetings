@@ -32,3 +32,7 @@ Step 07 reads `data/datadawn_2026-10_window.json`, a pull from the public DataDa
 All numbers live in `data/`, `FINDINGS.md` and `PROOF.md`, not here.
 
 Full-range run: `cd scripts && ../.venv/bin/python run_backfill.py` (resumable; skips months with a `data/<month>_DONE.json`), then `11_summarize.py`, `12_recheck_bad_docs.py`, `10_final_spot_check.py`, `13_add_requestor_client.py`, `14_proof_final_section.py`.
+
+## Weekly refresh
+
+`.github/workflows/refresh.yml` runs Wednesdays. `scripts/refresh.py` re-reads the previous month and this month, merges into https://huggingface.co/datasets/abigailhaddad/oira-eo12866-meetings (new data wins by meeting and document id; nothing is removed), and uploads only if something was added or changed. `python scripts/refresh.py --dry-run` does everything but the upload. See HANDOFF.md.
