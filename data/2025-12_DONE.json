@@ -1,0 +1,32 @@
+{
+ "tag": "2025-12",
+ "start": "12/01/2025",
+ "end": "12/31/2025",
+ "banner": 53,
+ "viewall_rows": 53,
+ "unique_ids": 53,
+ "meetings_fetched": 53,
+ "split_banner_sum": 53,
+ "split_union": 53,
+ "split_union_eq_month": true,
+ "docs_listed": 53,
+ "docs_downloaded_ok": 53,
+ "docs_failed": [],
+ "docs_no_text": [
+  "1048242",
+  "1043395",
+  "1043398",
+  "1038293",
+  "1023292",
+  "1023242",
+  "1023244",
+  "1020742",
+  "1020743",
+  "1020744",
+  "1020745",
+  "1020746"
+ ],
+ "bytes": 83565453,
+ "requests_this_month": 116,
+ "finished": "2026-11-08 19:10:29 EST"
+}

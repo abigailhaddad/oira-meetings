@@ -1,0 +1,528 @@
+{
+ "found_banner": 42,
+ "pulled": "2026-11-08 19:32:03 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "946373",
+   "rin": "0938-AV53",
+   "meeting_datetime": "05/29/2025 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Home Health Prospective Payment System Rate and Durable Medical Equipment, Prosthetics, Orthotics, and Supplies Competitive Bidding Program Updates (CMS-1828)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV53&meetingId=946373&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "951423",
+   "rin": "0938-AV50",
+   "meeting_datetime": "05/29/2025 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Revisions to Payment Policies Under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1832)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV50&meetingId=951423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "938973",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/29/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=938973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "939023",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/29/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=939023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959124",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/29/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959124&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "948874",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/28/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=948874&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "948873",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/28/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=948873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "956573",
+   "rin": "2120-AL33",
+   "meeting_datetime": "05/28/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=956573&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "958923",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/28/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=958923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "958973",
+   "rin": "2060-AW46",
+   "meeting_datetime": "05/27/2025 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Partial Waiver of 2024 Cellulosic Biofuel Volume Requirement",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW46&meetingId=958973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "953973",
+   "rin": "9000-AO77",
+   "meeting_datetime": "05/27/2025 01:30 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=953973&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "959274",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/27/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959274&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "958873",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/27/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=958873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "956574",
+   "rin": "2120-AL82",
+   "meeting_datetime": "05/27/2025 11:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=956574&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "953924",
+   "rin": "0331-ZA09",
+   "meeting_datetime": "05/23/2025 11:00 AM",
+   "agency": "0331-CEQ",
+   "rule_title": "Guidance on Emergencies and the National Environmental Policy Act",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0331-ZA09&meetingId=953924&acronym=0331-CEQ"
+  },
+  {
+   "meeting_id": "943873",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/22/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=943873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "946423",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/22/2025 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=946423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "946424",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/22/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=946424&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "958874",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/22/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=958874&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "956473",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/21/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=956473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "943923",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/21/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=943923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "951373",
+   "rin": "1210-AC30",
+   "meeting_datetime": "05/20/2025 02:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Transparency in Coverage",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AC30&meetingId=951373&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "941424",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/20/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=941424&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "956523",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/20/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=956523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "941373",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/19/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=941373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "938874",
+   "rin": "0938-AV61",
+   "meeting_datetime": "05/19/2025 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Patient Protection and Affordable Care Act;  Marketplace Integrity and Affordability (CMS-9884)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV61&meetingId=938874&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "941423",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/16/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=941423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "938873",
+   "rin": "0938-AV52",
+   "meeting_datetime": "05/16/2025 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Changes to the End-Stage Renal Disease (ESRD) Prospective Payment System and Quality Incentive Program (CMS-1830)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV52&meetingId=938873&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "933873",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/15/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=933873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "944023",
+   "rin": "0694-AJ90",
+   "meeting_datetime": "05/14/2025 02:30 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Rescinding: Framework for Artificial Intelligence Diffusion",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ90&meetingId=944023&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "936474",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/14/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=936474&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "936423",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/13/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=936423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "928973",
+   "rin": "0938-AV51",
+   "meeting_datetime": "05/13/2025 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1834)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV51&meetingId=928973&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "936473",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/12/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=936473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "928873",
+   "rin": "9000-AO77",
+   "meeting_datetime": "05/09/2025 01:30 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=928873&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "938923",
+   "rin": "9000-AO77",
+   "meeting_datetime": "05/09/2025 11:30 AM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=938923&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "936373",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/09/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=936373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "906373",
+   "rin": "1004-AF02",
+   "meeting_datetime": "05/06/2025 10:30 AM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Rescission of the Management and Protection of the National Petroleum Reserve in Alaska Regulations, issued May 7, 2024",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF02&meetingId=906373&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "923873",
+   "rin": "0938-AV50",
+   "meeting_datetime": "05/02/2025 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Revisions to Payment Policies Under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1832)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV50&meetingId=923873&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "916573",
+   "rin": "1004-AF02",
+   "meeting_datetime": "05/02/2025 01:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Rescission of the Management and Protection of the National Petroleum Reserve in Alaska Regulations, issued May 7, 2024",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF02&meetingId=916573&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "918873",
+   "rin": "9000-AO77",
+   "meeting_datetime": "05/01/2025 01:00 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=918873&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "913873",
+   "rin": "0710-AB56",
+   "meeting_datetime": "05/01/2025 11:00 AM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Reissuance and Modification of Nationwide Permits",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-AB56&meetingId=913873&acronym=0710-DOD/COE"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "946373",
+   "rin": "0938-AV53",
+   "meeting_datetime": "05/29/2025 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Home Health Prospective Payment System Rate and Durable Medical Equipment, Prosthetics, Orthotics, and Supplies Competitive Bidding Program Updates (CMS-1828)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV53&meetingId=946373&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "951423",
+   "rin": "0938-AV50",
+   "meeting_datetime": "05/29/2025 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Revisions to Payment Policies Under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1832)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV50&meetingId=951423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "938973",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/29/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=938973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "939023",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/29/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=939023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959124",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/29/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959124&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "948874",
+   "rin": "2060-AW55",
+   "meeting_datetime": "05/28/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=948874&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "948873",
+   "rin": "2060-AW68",
+   "meeting_datetime": "05/28/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=948873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "956573",
+   "rin": "2120-AL33",
+   "meeting_datetime": "05/28/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=956573&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "958923",
+   "rin": "2060-AW23",
+   "meeting_datetime": "05/28/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=958923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "958973",
+   "rin": "2060-AW46",
+   "meeting_datetime": "05/27/2025 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Partial Waiver of 2024 Cellulosic Biofuel Volume Requirement",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW46&meetingId=958973&acronym=2060-EPA/OAR"
+  }
+ ]
+}

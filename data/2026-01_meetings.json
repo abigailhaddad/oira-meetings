@@ -1,0 +1,5613 @@
+{
+ "pulled": "2026-11-08 19:02:46 EST",
+ "meetings": [
+  {
+   "meeting_id": "1279174",
+   "rin": "1235-AA46",
+   "meeting_datetime": "01/30/2026 03:00 PM",
+   "list_meeting_datetime": "01/30/2026 03:00 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Monument Advocacy",
+   "requestor_name": "Samantha Huray",
+   "n_documents": 2,
+   "n_attendees": 11,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1279174&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1274073",
+   "rin": "0348-AB93",
+   "meeting_datetime": "01/30/2026 02:30 PM",
+   "list_meeting_datetime": "01/30/2026 02:30 PM",
+   "agency": "0348-OMB",
+   "rule_title": "American Security Drone Act of 2023; Unmanned Aircraft System List of Associated Elements",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "American Road & Transportation Builders Association",
+   "requestor_name": "Prianka Sharma",
+   "n_documents": 0,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0348-AB93&meetingId=1274073&acronym=0348-OMB"
+  },
+  {
+   "meeting_id": "1274074",
+   "rin": "1235-AA46",
+   "meeting_datetime": "01/30/2026 02:30 PM",
+   "list_meeting_datetime": "01/30/2026 02:30 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Independent Work Coalition",
+   "requestor_name": "Kathryn Farrell",
+   "n_documents": 1,
+   "n_attendees": 17,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1274074&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1269573",
+   "rin": "1205-AC30",
+   "meeting_datetime": "01/30/2026 01:00 PM",
+   "list_meeting_datetime": "01/30/2026 01:00 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Haroon Khan",
+   "requestor_name": "Haroon Khan",
+   "n_documents": 1,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1269573&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1264173",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/30/2026 10:30 AM",
+   "list_meeting_datetime": "01/30/2026 10:30 AM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Golden Law and Brown, Goldstein & Levy",
+   "requestor_name": "Deborah Golden",
+   "n_documents": 0,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1264173&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1281673",
+   "rin": "3150-AL00",
+   "meeting_datetime": "01/30/2026 10:30 AM",
+   "list_meeting_datetime": "01/30/2026 10:30 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Regulatory Framework for Fusion Machines [NRC-2023-0071]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Fusion Industry Association",
+   "requestor_name": "Andrew Holland",
+   "n_documents": 0,
+   "n_attendees": 15,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL00&meetingId=1281673&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1239023",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/30/2026 10:00 AM",
+   "list_meeting_datetime": "01/30/2026 10:00 AM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Ascend Justice",
+   "requestor_name": "Sara Block",
+   "n_documents": 0,
+   "n_attendees": 15,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1239023&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1266873",
+   "rin": "1205-AC30",
+   "meeting_datetime": "01/29/2026 03:30 PM",
+   "list_meeting_datetime": "01/29/2026 03:30 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Azra Khalid",
+   "requestor_name": "Azra Khalid",
+   "n_documents": 1,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1266873&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1267073",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/29/2026 03:00 PM",
+   "list_meeting_datetime": "01/29/2026 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Change the Chamber",
+   "requestor_name": "Evey Mengelkoch",
+   "n_documents": 1,
+   "n_attendees": 6,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1267073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1269123",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/29/2026 02:30 PM",
+   "list_meeting_datetime": "01/29/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Manufacturers of Emission Controls Association",
+   "requestor_name": "Michael Geller",
+   "n_documents": 1,
+   "n_attendees": 4,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1266974",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "01/29/2026 11:00 AM",
+   "list_meeting_datetime": "01/29/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Alston & Bird",
+   "requestor_name": "Jane Lucas",
+   "n_documents": 1,
+   "n_attendees": 22,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1266974&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1274023",
+   "rin": "1235-AA46",
+   "meeting_datetime": "01/29/2026 10:30 AM",
+   "list_meeting_datetime": "01/29/2026 10:30 AM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "U.S. Chamber of Commerce",
+   "requestor_name": "Marc Freedman",
+   "n_documents": 6,
+   "n_attendees": 10,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1274023&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1264374",
+   "rin": "0938-AV93",
+   "meeting_datetime": "01/28/2026 03:30 PM",
+   "list_meeting_datetime": "01/28/2026 03:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Amending the Indirect Hold Harmless Threshold of Health Care-Related Taxes (CMS-2452)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "America's Essential Hospitals",
+   "requestor_name": "Robert Nelb",
+   "n_documents": 2,
+   "n_attendees": 5,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV93&meetingId=1264374&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1269073",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/28/2026 02:30 PM",
+   "list_meeting_datetime": "01/28/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Daren Bakst",
+   "requestor_name": "Daren Bakst",
+   "n_documents": 5,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1269023",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/28/2026 02:00 PM",
+   "list_meeting_datetime": "01/28/2026 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Medical Society Consortium on Climate and Health",
+   "requestor_name": "Lisa Patel",
+   "n_documents": 1,
+   "n_attendees": 15,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1271674",
+   "rin": "1235-AA46",
+   "meeting_datetime": "01/28/2026 01:30 PM",
+   "list_meeting_datetime": "01/28/2026 01:30 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "FFG Group",
+   "requestor_name": "Thereza Cevidanes",
+   "n_documents": 0,
+   "n_attendees": 13,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1271674&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1264223",
+   "rin": "1235-AA46",
+   "meeting_datetime": "01/28/2026 01:00 PM",
+   "list_meeting_datetime": "01/28/2026 01:00 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "National Association of REALTORS",
+   "requestor_name": "Nia Duggins",
+   "n_documents": 0,
+   "n_attendees": 12,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1264223&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1269473",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/27/2026 03:30 PM",
+   "list_meeting_datetime": "01/27/2026 03:30 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "ACLU of Southern California",
+   "requestor_name": "Christine Parker",
+   "n_documents": 4,
+   "n_attendees": 5,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1269473&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1259273",
+   "rin": "1218-AD73",
+   "meeting_datetime": "01/27/2026 02:00 PM",
+   "list_meeting_datetime": "01/27/2026 02:00 PM",
+   "agency": "1218-DOL/OSHA",
+   "rule_title": "Walking-Working Surfaces \u2013 Fixed ladders",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Conn Maciel Carey LLP for the American Petroleum Institute (API)",
+   "requestor_name": "Eric Conn",
+   "n_documents": 0,
+   "n_attendees": 14,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1218-AD73&meetingId=1259273&acronym=1218-DOL/OSHA"
+  },
+  {
+   "meeting_id": "1266623",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/27/2026 01:30 PM",
+   "list_meeting_datetime": "01/27/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Union of Concerned Scientists",
+   "requestor_name": "Alyssa Tsuchiya",
+   "n_documents": 7,
+   "n_attendees": 5,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266623&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1267074",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/27/2026 11:30 AM",
+   "list_meeting_datetime": "01/27/2026 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Earthjustice",
+   "requestor_name": "Hana Vizcarra",
+   "n_documents": 0,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1267074&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1267023",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/27/2026 11:00 AM",
+   "list_meeting_datetime": "01/27/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "MEMA. The Vehicle Suppliers Association",
+   "requestor_name": "Emily Sobel",
+   "n_documents": 1,
+   "n_attendees": 5,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1267023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1266923",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/26/2026 02:30 PM",
+   "list_meeting_datetime": "01/26/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Climate Action Campaign",
+   "requestor_name": "Madeline Page",
+   "n_documents": 0,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1266823",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/26/2026 02:00 PM",
+   "list_meeting_datetime": "01/26/2026 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Clean Air Task Force",
+   "requestor_name": "Frank Sturges",
+   "n_documents": 0,
+   "n_attendees": 6,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266823&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1239024",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/26/2026 01:30 PM",
+   "list_meeting_datetime": "01/26/2026 01:30 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Women's Justice Institute",
+   "requestor_name": "Alexis Mansfield",
+   "n_documents": 0,
+   "n_attendees": 12,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1239024&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1266773",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/23/2026 11:30 AM",
+   "list_meeting_datetime": "01/23/2026 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Alliance of Nurses for Healthy Environments",
+   "requestor_name": "Milagros R. Elia",
+   "n_documents": 0,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266773&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1266724",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/23/2026 11:00 AM",
+   "list_meeting_datetime": "01/23/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Moms Clean Air Force",
+   "requestor_name": "Elizabeth Bechard",
+   "n_documents": 0,
+   "n_attendees": 10,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266724&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1264273",
+   "rin": "0938-ZC01",
+   "meeting_datetime": "01/23/2026 10:30 AM",
+   "list_meeting_datetime": "01/23/2026 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Advance Notice of Methodological Changes for Calendar Year (CY) 2027 for Medicare Advantage (MA) Capitation Rates and Part C and Part D Payment Policies",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "requestor": "FARMACIA ISLA VERDE, LLC",
+   "requestor_name": "ELLIOT PACHECO",
+   "n_documents": 6,
+   "n_attendees": 18,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0938-ZC01&meetingId=1264273&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1261523",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/22/2026 03:00 PM",
+   "list_meeting_datetime": "01/22/2026 03:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "FGS Global for Pivot Bio",
+   "requestor_name": "Thomas Mills",
+   "n_documents": 0,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1261523&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1266673",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/22/2026 03:00 PM",
+   "list_meeting_datetime": "01/22/2026 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Environmental Defense Fund",
+   "requestor_name": "Peter Zalzal",
+   "n_documents": 0,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266673&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1269673",
+   "rin": "1840-AD98",
+   "meeting_datetime": "01/22/2026 10:00 AM",
+   "list_meeting_datetime": "01/22/2026 10:00 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Reimagining and Improving Student Education (RISE)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "American Association of Colleges of Nursing",
+   "requestor_name": "Josh Adams",
+   "n_documents": 1,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD98&meetingId=1269673&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1259073",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/21/2026 03:00 PM",
+   "list_meeting_datetime": "01/21/2026 03:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "requestor": "YANG ZHANG",
+   "requestor_name": "YANG ZHANG",
+   "n_documents": 0,
+   "n_attendees": 1,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1259073&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1259474",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/21/2026 02:30 PM",
+   "list_meeting_datetime": "01/21/2026 02:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Bracewell LLP",
+   "requestor_name": "Ihna Varner",
+   "n_documents": 0,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1259474&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1266573",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/21/2026 02:30 PM",
+   "list_meeting_datetime": "01/21/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "American Lung Association",
+   "requestor_name": "Laura Bender",
+   "n_documents": 1,
+   "n_attendees": 10,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1266523",
+   "rin": "2060-AW71",
+   "meeting_datetime": "01/21/2026 02:00 PM",
+   "list_meeting_datetime": "01/21/2026 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Natural Resources Defense Council",
+   "requestor_name": "Meredith Hankins",
+   "n_documents": 0,
+   "n_attendees": 5,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1266523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1241673",
+   "rin": "2060-AW63",
+   "meeting_datetime": "01/21/2026 01:30 PM",
+   "list_meeting_datetime": "01/21/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Interstate Transport Plan Review for the 2015 Ozone NAAQS - Phase 1",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Environmental Defense Fund",
+   "requestor_name": "Noha Haggag",
+   "n_documents": 0,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW63&meetingId=1241673&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1244023",
+   "rin": "1218-AD73",
+   "meeting_datetime": "01/21/2026 01:00 PM",
+   "list_meeting_datetime": "01/21/2026 01:00 PM",
+   "agency": "1218-DOL/OSHA",
+   "rule_title": "Walking-Working Surfaces \u2013 Fixed ladders",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Conn Maciel Carey LLP",
+   "requestor_name": "Eric Conn",
+   "n_documents": 1,
+   "n_attendees": 10,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1218-AD73&meetingId=1244023&acronym=1218-DOL/OSHA"
+  },
+  {
+   "meeting_id": "1241623",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/20/2026 03:30 PM",
+   "list_meeting_datetime": "01/20/2026 03:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Clean Fuels Alliance America",
+   "requestor_name": "Kate Shenk",
+   "n_documents": 0,
+   "n_attendees": 12,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1241623&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1241674",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/20/2026 02:30 PM",
+   "list_meeting_datetime": "01/20/2026 02:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "National Grain and Feed Association",
+   "requestor_name": "Berit Foss",
+   "n_documents": 1,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1241674&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1251573",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "01/16/2026 02:30 PM",
+   "list_meeting_datetime": "01/16/2026 02:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Healthy Food America",
+   "requestor_name": "James Krieger",
+   "n_documents": 1,
+   "n_attendees": 16,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1251573&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1241523",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/16/2026 02:00 PM",
+   "list_meeting_datetime": "01/16/2026 02:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Invariant",
+   "requestor_name": "Landon Stropko",
+   "n_documents": 0,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1241523&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1246524",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "01/16/2026 01:30 PM",
+   "list_meeting_datetime": "01/16/2026 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "SciPinion",
+   "requestor_name": "Vanessa Feher Castagna",
+   "n_documents": 1,
+   "n_attendees": 16,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1246524&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1239374",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/16/2026 01:30 PM",
+   "list_meeting_datetime": "01/16/2026 01:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Renewable Fuels Association",
+   "requestor_name": "Jared Mullendore",
+   "n_documents": 0,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239374&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1239273",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/15/2026 02:00 PM",
+   "list_meeting_datetime": "01/15/2026 02:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Aemetis, Inc.",
+   "requestor_name": "Eric McAfee",
+   "n_documents": 1,
+   "n_attendees": 9,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239273&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1246523",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "01/15/2026 01:30 PM",
+   "list_meeting_datetime": "01/15/2026 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Food is Medicine Institute at Tufts University",
+   "requestor_name": "Dariush Mozaffarian",
+   "n_documents": 4,
+   "n_attendees": 17,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1246523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1239223",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/15/2026 01:30 PM",
+   "list_meeting_datetime": "01/15/2026 01:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "FFG Group",
+   "requestor_name": "Thereza Cevidanes",
+   "n_documents": 0,
+   "n_attendees": 12,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239223&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1259373",
+   "rin": "1840-AD98",
+   "meeting_datetime": "01/15/2026 11:00 AM",
+   "list_meeting_datetime": "01/15/2026 11:00 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Reimagining and Improving Student Education (RISE)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Association of Public and Land-grant Universities",
+   "requestor_name": "MacGregor Obergfell",
+   "n_documents": 0,
+   "n_attendees": 6,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD98&meetingId=1259373&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1259123",
+   "rin": "1840-AD98",
+   "meeting_datetime": "01/15/2026 10:30 AM",
+   "list_meeting_datetime": "01/15/2026 10:30 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Reimagining and Improving Student Education (RISE)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "National Defense Committee",
+   "requestor_name": "Bob Carey",
+   "n_documents": 0,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD98&meetingId=1259123&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1244223",
+   "rin": "1205-AC30",
+   "meeting_datetime": "01/14/2026 03:30 PM",
+   "list_meeting_datetime": "01/14/2026 03:30 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Institute for Progress",
+   "requestor_name": "Jeremy Neufeld",
+   "n_documents": 3,
+   "n_attendees": 13,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1244223&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1239323",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/14/2026 02:30 PM",
+   "list_meeting_datetime": "01/14/2026 02:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Growth Energy",
+   "requestor_name": "Chris Bliley",
+   "n_documents": 2,
+   "n_attendees": 8,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239323&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1239324",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/14/2026 02:00 PM",
+   "list_meeting_datetime": "01/14/2026 02:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Continuum Ag",
+   "requestor_name": "Mitchell Hora",
+   "n_documents": 1,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239324&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1259423",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/14/2026 01:30 PM",
+   "list_meeting_datetime": "01/14/2026 01:30 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Southern Poverty Law Center",
+   "requestor_name": "Kelly Knapp",
+   "n_documents": 0,
+   "n_attendees": 4,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1259423&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1234073",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/14/2026 01:00 PM",
+   "list_meeting_datetime": "01/14/2026 01:00 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Sister Warriors Freedom Coalition",
+   "requestor_name": "Emily Wonder",
+   "n_documents": 1,
+   "n_attendees": 5,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1234073&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1239224",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/13/2026 02:30 PM",
+   "list_meeting_datetime": "01/13/2026 02:30 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "FGS Global",
+   "requestor_name": "Catharine Ransom",
+   "n_documents": 0,
+   "n_attendees": 16,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239224&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1239173",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/13/2026 02:00 PM",
+   "list_meeting_datetime": "01/13/2026 02:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "WM (Waste Management)",
+   "requestor_name": "Michael Jensen",
+   "n_documents": 1,
+   "n_attendees": 10,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239173&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1241573",
+   "rin": "1218-AD73",
+   "meeting_datetime": "01/13/2026 11:00 AM",
+   "list_meeting_datetime": "01/13/2026 11:00 AM",
+   "agency": "1218-DOL/OSHA",
+   "rule_title": "Walking-Working Surfaces \u2013 Fixed ladders",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "American Fuel and Petrochemical Manufacturers",
+   "requestor_name": "Leslie Bellas",
+   "n_documents": 1,
+   "n_attendees": 13,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1218-AD73&meetingId=1241573&acronym=1218-DOL/OSHA"
+  },
+  {
+   "meeting_id": "1241723",
+   "rin": "2050-AH37",
+   "meeting_datetime": "01/12/2026 03:30 PM",
+   "list_meeting_datetime": "01/12/2026 03:30 PM",
+   "agency": "2050-EPA/OLEM",
+   "rule_title": "Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Earthjustice",
+   "requestor_name": "Liz Ruben",
+   "n_documents": 0,
+   "n_attendees": 20,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=2050-AH37&meetingId=1241723&acronym=2050-EPA/OLEM"
+  },
+  {
+   "meeting_id": "1239373",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "01/12/2026 02:30 PM",
+   "list_meeting_datetime": "01/12/2026 02:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Flavor and Extract Manufacturers Association of the United States",
+   "requestor_name": "John Hallagan",
+   "n_documents": 0,
+   "n_attendees": 19,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1239373&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1239073",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "01/12/2026 02:00 PM",
+   "list_meeting_datetime": "01/12/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Environmental Working Group",
+   "requestor_name": "Scott Faber",
+   "n_documents": 0,
+   "n_attendees": 17,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1239073&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1259173",
+   "rin": "1840-AD98",
+   "meeting_datetime": "01/12/2026 02:00 PM",
+   "list_meeting_datetime": "01/12/2026 02:00 PM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Reimagining and Improving Student Education (RISE)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "American Association of Nurse Practitioners",
+   "requestor_name": "Franklin Harrington",
+   "n_documents": 0,
+   "n_attendees": 10,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD98&meetingId=1259173&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1239123",
+   "rin": "1545-BR30",
+   "meeting_datetime": "01/12/2026 01:00 PM",
+   "list_meeting_datetime": "01/12/2026 01:00 PM",
+   "agency": "1545-TREAS/IRS",
+   "rule_title": "Section 45Z Clean Fuel Production Credit",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "FGS Global",
+   "requestor_name": "Anthony Reed",
+   "n_documents": 0,
+   "n_attendees": 12,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1545-BR30&meetingId=1239123&acronym=1545-TREAS/IRS"
+  },
+  {
+   "meeting_id": "1236524",
+   "rin": "1004-AF05",
+   "meeting_datetime": "01/09/2026 01:00 PM",
+   "list_meeting_datetime": "01/09/2026 01:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Oil and Gas Leasing Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Taxpayers for Common Sense",
+   "requestor_name": "Tyler Work",
+   "n_documents": 5,
+   "n_attendees": 11,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF05&meetingId=1236524&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1236673",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/09/2026 10:30 AM",
+   "list_meeting_datetime": "01/09/2026 10:30 AM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Uptown People's Law Center",
+   "requestor_name": "Maggie Bourke",
+   "n_documents": 1,
+   "n_attendees": 4,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1236673&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1234023",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/09/2026 10:00 AM",
+   "list_meeting_datetime": "01/09/2026 10:00 AM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Orthwein Law, PC",
+   "requestor_name": "Jennifer Orthwein",
+   "n_documents": 0,
+   "n_attendees": 3,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1234023&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1236573",
+   "rin": "1004-AF05",
+   "meeting_datetime": "01/08/2026 03:00 PM",
+   "list_meeting_datetime": "01/08/2026 03:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Oil and Gas Leasing Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Western Organization of Resource Councils",
+   "requestor_name": "Sarah Hunkins",
+   "n_documents": 3,
+   "n_attendees": 16,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF05&meetingId=1236573&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1236523",
+   "rin": "1004-AF41",
+   "meeting_datetime": "01/08/2026 11:00 AM",
+   "list_meeting_datetime": "01/08/2026 11:00 AM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Revisions to Regulations Regarding Oil and Gas Leasing; Fees, Rentals, and Royalties",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "Taxpayers for Common Sense",
+   "requestor_name": "Tyler Work",
+   "n_documents": 4,
+   "n_attendees": 14,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF41&meetingId=1236523&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1224173",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/06/2026 02:00 PM",
+   "list_meeting_datetime": "01/06/2026 02:00 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "American Civil Liberties Union",
+   "requestor_name": "Arli Christian",
+   "n_documents": 8,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1224173&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1196523",
+   "rin": "1120-AB82",
+   "meeting_datetime": "01/06/2026 01:30 PM",
+   "list_meeting_datetime": "01/06/2026 01:30 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "requestor": "The Parzival Group",
+   "requestor_name": "Liliana Coronado",
+   "n_documents": 10,
+   "n_attendees": 7,
+   "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1196523&acronym=1120-DOJ/BOP"
+  }
+ ],
+ "documents": [
+  {
+   "meeting_id": "1279174",
+   "document_id": "1090892",
+   "title": "Flex_Association_App_Based_Economy_April_2023_ANALYSIS_FINAL"
+  },
+  {
+   "meeting_id": "1279174",
+   "document_id": "1090893",
+   "title": "Prepared Remarks Flex Association Regarding- RIN 1235-AA46"
+  },
+  {
+   "meeting_id": "1274074",
+   "document_id": "1090842",
+   "title": "IC CRA Letter of Support_final (1) - Adobe cloud storage"
+  },
+  {
+   "meeting_id": "1269573",
+   "document_id": "1090742",
+   "title": "New H1B Wage Rule_HK"
+  },
+  {
+   "meeting_id": "1266873",
+   "document_id": "1086092",
+   "title": "Revising H-1B Wage Rules to Reflect Market Wages and Protect U.S. Workers"
+  },
+  {
+   "meeting_id": "1267073",
+   "document_id": "1088292",
+   "title": "CTC_OIRA_EPA Meeting - Endangerment Finding and Vehicle Emissions Standard"
+  },
+  {
+   "meeting_id": "1269123",
+   "document_id": "1088242",
+   "title": "MECA GHG+Motor_Vehicle_Reconsideration--OMB FRM 01292026"
+  },
+  {
+   "meeting_id": "1266974",
+   "document_id": "1086093",
+   "title": "CHPA_GRAS_Position_2026_OMB_01_28"
+  },
+  {
+   "meeting_id": "1274023",
+   "document_id": "1090792",
+   "title": "Department of Labor\u2019s Independent Contractor Proposal Takes Aim at Broad Array of Sole Proprietors _ U.S. Chamber of Commerce"
+  },
+  {
+   "meeting_id": "1274023",
+   "document_id": "1090793",
+   "title": "USCC comments on first Trump IC NPRM"
+  },
+  {
+   "meeting_id": "1274023",
+   "document_id": "1090794",
+   "title": "USCC Independent Contractor reg comments submitted"
+  },
+  {
+   "meeting_id": "1274023",
+   "document_id": "1090795",
+   "title": "Ex. A - Ready_fire_aim_report_on_the_gig_economy"
+  },
+  {
+   "meeting_id": "1274023",
+   "document_id": "1090796",
+   "title": "U.S. Chamber Praises Pause on Enforcement of Biden-Era Independent Contractor Rule\u00a0 _ U.S. Chamber of Commerce"
+  },
+  {
+   "meeting_id": "1274023",
+   "document_id": "1090797",
+   "title": "DOL\u2019s New Independent Contractor Rule Creates Uncertainty, Bias _ U.S. Chamber of Commerce"
+  },
+  {
+   "meeting_id": "1264374",
+   "document_id": "1080742",
+   "title": "AEH ltr to CMS SDPs Dec 2025 FINAL signed"
+  },
+  {
+   "meeting_id": "1264374",
+   "document_id": "1080743",
+   "title": "AEH ltr to CMS Provider Taxes Dec 2025_FINAL signed"
+  },
+  {
+   "meeting_id": "1269073",
+   "document_id": "1085992",
+   "title": "CEISubmittedEndangermenEPA-HQ-OAR-2025-0194-1413_attachment_1"
+  },
+  {
+   "meeting_id": "1269073",
+   "document_id": "1085993",
+   "title": "Marlo Lewis The Endangerment Findings disqualifying systemic biases part 1 - Competitive Enterprise Institute"
+  },
+  {
+   "meeting_id": "1269073",
+   "document_id": "1085994",
+   "title": "Marlo Lewis The Endangerment Findings disqualifying systemic biases part 2 - Competitive Enterprise Institute"
+  },
+  {
+   "meeting_id": "1269073",
+   "document_id": "1085995",
+   "title": "PLFEPA-HQ-OAR-2025-0194-1402_attachment_1"
+  },
+  {
+   "meeting_id": "1269073",
+   "document_id": "1085996",
+   "title": "Marlo Lewis Politicos failed critique of DOEs climate science report  whos misleading on hurricanes_ - Competitive Enterprise Institute"
+  },
+  {
+   "meeting_id": "1269023",
+   "document_id": "1085892",
+   "title": "Updated Attendee List"
+  },
+  {
+   "meeting_id": "1269473",
+   "document_id": "1085842",
+   "title": "NCTE - The Report of the 2015 US Transgender Survey"
+  },
+  {
+   "meeting_id": "1269473",
+   "document_id": "1085843",
+   "title": "Jenness - Violence in California Correctional Facilities, An Empirical Examination of Sexual Assault"
+  },
+  {
+   "meeting_id": "1269473",
+   "document_id": "1085844",
+   "title": "JDI - Trump administration omits data about trans people from prison sexual violence reports"
+  },
+  {
+   "meeting_id": "1269473",
+   "document_id": "1085845",
+   "title": "Smith - Promise Amid Peril, PREA's Efforts to Regulate an End to Prison Rape"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085942",
+   "title": "Comments of the Union of Concerned  Scientists Regarding the Proposed  Repeal of Vehicle Greenhouse Gas  Emissions Standards"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085943",
+   "title": "Environmental justice networks and allies comment on the reconsideration of the endangerment finding and greenhouse gas vehicle standards"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085944",
+   "title": "UCS comments on the DOE climate working group report"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085945",
+   "title": "UCS comments on EF repeal proposal"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085946",
+   "title": "Joint comments submitted by the Institute for Policy Integrity at New York University on the treatment of the social cost of greenhouse gases in the EPA\u2019s proposal"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085947",
+   "title": "Sign-on letter on the EF from more than 1,000 scientists, public health experts and economists"
+  },
+  {
+   "meeting_id": "1266623",
+   "document_id": "1085948",
+   "title": "EDF, UCS File Lawsuit Against Trump Administration Secret Convening of Climate Skeptics, Use of Their Hidden \u201cScience\u201d Report in Attempt to Overturn Endangerment Finding"
+  },
+  {
+   "meeting_id": "1267023",
+   "document_id": "1085742",
+   "title": "MEMA Comments Reconsideration of GHG Standards_FINAL_October 2025"
+  },
+  {
+   "meeting_id": "1264273",
+   "document_id": "1083695",
+   "title": "Rep. Hernandez Letter to CMS re_ Medicare Advantage for Puerto Rico"
+  },
+  {
+   "meeting_id": "1264273",
+   "document_id": "1083696",
+   "title": "GOVERNOR JENNIFFER GONZALEZ COLON - LETTER TO R. KENNEDY JR AND DR. OZ - NOV 10, 2025"
+  },
+  {
+   "meeting_id": "1264273",
+   "document_id": "1083697",
+   "title": "Senate Chair TRS Letter Robert Kennedy, Jr. & Mehmet Oz January 23, 20026"
+  },
+  {
+   "meeting_id": "1264273",
+   "document_id": "1083692",
+   "title": "Medicare Circularity in Puerto Rico's Healthcare Industry_Con Anejos_February 28 2024-min"
+  },
+  {
+   "meeting_id": "1264273",
+   "document_id": "1083693",
+   "title": "EO_12866_OIRA_CY2027_PUERTO RICO HEALTHCARE_Presentation"
+  },
+  {
+   "meeting_id": "1264273",
+   "document_id": "1083694",
+   "title": "PUERTO RICO HEALTH CARE COMMUNITY LETTER - MA RATES 2027 - NOV 22, 2025"
+  },
+  {
+   "meeting_id": "1269673",
+   "document_id": "1083342",
+   "title": "AACN Supplemental Data Final"
+  },
+  {
+   "meeting_id": "1266573",
+   "document_id": "1083242",
+   "title": "Resources from OMB Meeting on GHG Endangerment Finding and Vehicles -1.21.26"
+  },
+  {
+   "meeting_id": "1244023",
+   "document_id": "1055742",
+   "title": "Rulemaking Petition to OSHA re Ladder Retrofit Requirements-1"
+  },
+  {
+   "meeting_id": "1241674",
+   "document_id": "1080744",
+   "title": "01.20.2026_ NGFA Letter Post-OMB Section 45Z Meeting"
+  },
+  {
+   "meeting_id": "1251573",
+   "document_id": "1078342",
+   "title": "GRAS Reform OIRA meeting 1.16.26"
+  },
+  {
+   "meeting_id": "1246524",
+   "document_id": "1078443",
+   "title": "01.16.26_SciPinion_OMB 12866 Meeting_GRAS Proposed Rule"
+  },
+  {
+   "meeting_id": "1239273",
+   "document_id": "1063342",
+   "title": "Dairy RNG Letter to Treasury re 45ZCF-GREET"
+  },
+  {
+   "meeting_id": "1246523",
+   "document_id": "1078242",
+   "title": "Comment to Docket No. FDA-2024-N-3609_Mozaffarian (Food Chemicals)_January 2025"
+  },
+  {
+   "meeting_id": "1246523",
+   "document_id": "1078243",
+   "title": "Pomeranz & Mozaffarian.2025.Nature Food commentary.US federal and state actions to improve ingredient safety"
+  },
+  {
+   "meeting_id": "1246523",
+   "document_id": "1078244",
+   "title": "OMB-OIRA meeting_FDA GRAS proposed rule_Food is Medicine Institute summary_15 Jan 2026_to share"
+  },
+  {
+   "meeting_id": "1246523",
+   "document_id": "1078245",
+   "title": "Pomeranz et al.AJPH 2024.Regulation of added substances in the food supply by FDA"
+  },
+  {
+   "meeting_id": "1244223",
+   "document_id": "1075792",
+   "title": "1-12-26 Attached IFP Prevailing Wage proposal"
+  },
+  {
+   "meeting_id": "1244223",
+   "document_id": "1075793",
+   "title": "1.14.26 IFP Presentation on Experience Benchmarked Worker Protections"
+  },
+  {
+   "meeting_id": "1244223",
+   "document_id": "1075794",
+   "title": "1-12-26 IFP Letter Evidence Based Prevailing Wages"
+  },
+  {
+   "meeting_id": "1239323",
+   "document_id": "1075942",
+   "title": "Growth-Energy-45Z-Comments-Post-OBBB_CB09042025"
+  },
+  {
+   "meeting_id": "1239323",
+   "document_id": "1075943",
+   "title": "Growth-Energy-45Z-comments4102025"
+  },
+  {
+   "meeting_id": "1239324",
+   "document_id": "1075892",
+   "title": "Completing_45Z_OnePager.docx (1)"
+  },
+  {
+   "meeting_id": "1234073",
+   "document_id": "1075795",
+   "title": "Report: CA Women's Prisons Sexual Abuse Response and Prevention Working Group"
+  },
+  {
+   "meeting_id": "1239173",
+   "document_id": "1075742",
+   "title": "Section 45Z - Issues with Notice 2025-10"
+  },
+  {
+   "meeting_id": "1241573",
+   "document_id": "1070742",
+   "title": "Walking-Working OMB Presentation"
+  },
+  {
+   "meeting_id": "1236524",
+   "document_id": "1068342",
+   "title": "Fair Royalty Rates Raise Revenue for American Taxpayers and Don\u2019t Discourage Oil and Gas Production"
+  },
+  {
+   "meeting_id": "1236524",
+   "document_id": "1068343",
+   "title": "Modernized Oil & Gas Leasing Fair Market Rates Earn Taxpayers Valuable Revenue"
+  },
+  {
+   "meeting_id": "1236524",
+   "document_id": "1068344",
+   "title": "Federal Onshore Oil & Gas Leasing 2024 Year in Review"
+  },
+  {
+   "meeting_id": "1236524",
+   "document_id": "1068345",
+   "title": "Noncompetitive Leasing Undermines Fair Returns for American Taxpayers"
+  },
+  {
+   "meeting_id": "1236524",
+   "document_id": "1068346",
+   "title": "TCS Comments to Office of Management and Budget, Department of the Interior, and Bureau of Land Management on the Forthcoming Oil and Gas Leasing Proposed Rule (RIN 1004-AF05)"
+  },
+  {
+   "meeting_id": "1236673",
+   "document_id": "1068292",
+   "title": "UPLC 12866 PREA Submission"
+  },
+  {
+   "meeting_id": "1236573",
+   "document_id": "1065742",
+   "title": "Burdens Letter to DOI RE_ Bonding (2)"
+  },
+  {
+   "meeting_id": "1236573",
+   "document_id": "1065743",
+   "title": "OIRA comment 1-8-26"
+  },
+  {
+   "meeting_id": "1236573",
+   "document_id": "1065744",
+   "title": "HHRG-118-II06-Wstate-VasquezB-20230919"
+  },
+  {
+   "meeting_id": "1236523",
+   "document_id": "1068242",
+   "title": "Modernized Oil & Gas Leasing Fair Market Rates Earn Taxpayers Valuable Revenue"
+  },
+  {
+   "meeting_id": "1236523",
+   "document_id": "1068243",
+   "title": "Noncompetitive Leasing Undermines Fair Returns for American Taxpayers"
+  },
+  {
+   "meeting_id": "1236523",
+   "document_id": "1068244",
+   "title": "Federal Onshore Oil & Gas Leasing 2024 Year in Review"
+  },
+  {
+   "meeting_id": "1236523",
+   "document_id": "1068245",
+   "title": "Fair Royalty Rates Raise Revenue for American Taxpayers and Don\u2019t Discourage Oil and Gas Production"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060742",
+   "title": "Appropriate Placement and Treatment of Trans Prisoners"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060743",
+   "title": "Moore Amici Re: Sexual Harassment"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060744",
+   "title": "DOJ Findings Georgia Prisons Failure to Comply with PREA Standards"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060745",
+   "title": "DOJ Report Violent Victimization By Gender Identity 2017-2020"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060746",
+   "title": "Vera Report Trans Lives Behind Bars"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060747",
+   "title": "2020 Report LGBTQ Detainees"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060748",
+   "title": "Dr. Thompson History of BOP, PREA, Trans Offender Manual Standards"
+  },
+  {
+   "meeting_id": "1224173",
+   "document_id": "1060749",
+   "title": "Dee Farmer PREA Remarks"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063292",
+   "title": "LGBTI Policy Review and Development Guide"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063293",
+   "title": "NIC Transgender Persons in Custody - The Legal Landscape"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063294",
+   "title": "Declaration of Ashley Diamond 2021"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063295",
+   "title": "LGBTI Policy Review and Development Guide"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063296",
+   "title": "PoliciestoIncreaseSafetyandRespectforTransgenderPrisoners"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063297",
+   "title": "Transgender-and-Gender-Diverse-Health-Care-in-Correctional-Settings-2020"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063298",
+   "title": "sf_cchung_statement"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063299",
+   "title": "Treatment of Transgender Incarcerated Individuals MD Dept of Public Safety and Correctional Svcs"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063300",
+   "title": "lgbti-policy-review-guide-2"
+  },
+  {
+   "meeting_id": "1196523",
+   "document_id": "1063301",
+   "title": "FINAL-REPORT-of-the-TASK-FORCE-081522"
+  }
+ ],
+ "attendees": [
+  {
+   "meeting_id": "1279174",
+   "name": "Laurel Havas",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Claire Monteiro",
+   "affiliation": "OMB/EIML",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Amy Hunter",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Daniel Navarrete",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Jennifer Stocker",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Monty Navarro",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Chris Jones",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Brian Smith",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Robert Jackson",
+   "affiliation": "Flex Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Kristin Sharp",
+   "affiliation": "Flex Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1279174",
+   "name": "Molly Conway",
+   "affiliation": "Conway Capitol Consulting",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "Cheri Benedict",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "Rich Juliano",
+   "affiliation": "American Road & Transportation Builders Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "Prianka Sharma",
+   "affiliation": "American Road & Transportation Builders Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "Skip Powe",
+   "affiliation": "Alabama Road Builders Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "Whitney Williams",
+   "affiliation": "Carolinas Associated General Contractors",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "Susan Minson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "CAROL BALES",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274073",
+   "name": "charles santangelo",
+   "affiliation": "DHS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Kristen Swearingen",
+   "affiliation": "Coalition Chair",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Kathryn Farrell",
+   "affiliation": "Coalition Management",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Josh Ulman",
+   "affiliation": "Coalition Management",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Ed Egee",
+   "affiliation": "Coalition Chair",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Kristen Swearingen",
+   "affiliation": "Coalition Chair",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Brian Smith",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Jennifer Stocker",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Monty Navarro",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Brian Smith",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Jennifer Stocker",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Amy Hunter",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Monty Navarro",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Claire Monterio",
+   "affiliation": "OMB/EIML",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Chris Jones",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Laura Moskowitz",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Daniel Navarrete",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274074",
+   "name": "Laurel Havas",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Mr. Haroon Khan",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Monica Berry",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Lorenzo Liboni",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Becky Nielson",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Al Herrera",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Hong Kim",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Lety Sierra",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Erica Zielewski",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269573",
+   "name": "Brian Smith",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Atty. Jessie Weber",
+   "affiliation": "Brown Goldenstein & Levy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Atty. Eve Hill",
+   "affiliation": "Brown Goldenstein & Levy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Atty. bex kolins",
+   "affiliation": "Golden Law",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Atty. Deborah Golden",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Atty. Lauren DiMartino",
+   "affiliation": "Brown Goldenstein & Levy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Yasmine Di Giulio",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Celeste Simon",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Bob Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264173",
+   "name": "Paul Irby",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Mr. Andrew Holland",
+   "affiliation": "Fusion Industry Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Mr. Sid Fowler",
+   "affiliation": "Fusion Industry Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Sid Fowler",
+   "affiliation": "Pillsbury Winthrop Shaw Pittman LLP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Andrew Holland",
+   "affiliation": "Fusion Industry Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Jacob Garcia",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Ron Raunikar",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Allyce Bolger",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "David Suchy",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Cindy Bladey",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Reuben Siegman",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Betsy Mellenbrink",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Jeff Merrifield",
+   "affiliation": "Pillsbury Winthrop Shaw Pittman LLP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Sheldon Clark",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Ed Harvey",
+   "affiliation": "NRC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1281673",
+   "name": "Tony Striner",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Margarita Castillo",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Jessica Cokins",
+   "affiliation": "Ascend Justice",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Sara Gilloon",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Angelica Gonzalez-Lopez",
+   "affiliation": "Ascend Justice",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Alexis Mansfield",
+   "affiliation": "Ascend Justice",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Danielle Parisi Ruffatto",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Lauren Schroeder",
+   "affiliation": "Ascend Justice",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Kimberly Washington",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Mary Kate Winn",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Zaynab Zaman",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Yasmine Di Giulio",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Robert Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Daniel Croakes",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Paul Irby",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239023",
+   "name": "Sara Block",
+   "affiliation": "Ascend Justice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Azra Khalid",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Phillip Pollman",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Cole Clark",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Lety Sierra",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Julia Pollack",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Monica Berry",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Brian Smith",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Mitchell Barth",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266873",
+   "name": "Patricia Coil",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267073",
+   "name": "Kevin Bolon",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267073",
+   "name": "Matias Fernandez",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267073",
+   "name": "Kameron C. Raynor",
+   "affiliation": "Change the Chamber",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267073",
+   "name": "Evey Mengelkoch",
+   "affiliation": "Change the Chamber",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267073",
+   "name": "Conor Fay",
+   "affiliation": "Change the Chamber",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267073",
+   "name": "Debra Rowe",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269123",
+   "name": "Dr. Michael Geller",
+   "affiliation": "Manufacturers of Emission Controls Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269123",
+   "name": "Kevin Brown",
+   "affiliation": "Manufacturers of Emission Controls Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269123",
+   "name": "James Sanchez",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269123",
+   "name": "Sofie Miller",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Diane McEnroe",
+   "affiliation": "Sidley Austin, LLP",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Barry Ritz",
+   "affiliation": "Nestle",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Duffy MacKay",
+   "affiliation": "Consumer Healthcare Products Association",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "David Spangler",
+   "affiliation": "Consumer Healthcare Products Association",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Jane Lucas",
+   "affiliation": "Alston & Bird",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Maria Petrey",
+   "affiliation": "Proctor and Gamble",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Julie Wise",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Alexandra Beliveau",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Carie Jasperse",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Carrol Bascus",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Chris Kampmeyer",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Christian Brown",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Daniel Jedzinak",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Elizabeth Cash",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Jane Wargo",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Jasper Hicks",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Jeremiah Fasano",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Kristi Muldoon Jacobs",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Marla Keller",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Paulette Gaynor",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Cara Welch",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266974",
+   "name": "Joanne Davenport",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Laurel Havas",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Anges Huang",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Amy Hunter",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Daniel Naverrete",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Brian Smith",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Jennifer Stocker",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Stephen Davis",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Claire Monteiro",
+   "affiliation": "OMB/EIML",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Chris Jones",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1274023",
+   "name": "Monty Navarro",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264374",
+   "name": "Phillip Pollman",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264374",
+   "name": "Julie Kozminski",
+   "affiliation": "America's Essential Hospitals",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264374",
+   "name": "Robert Nelb",
+   "affiliation": "America's Essential Hospitals",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264374",
+   "name": "Sandra George",
+   "affiliation": "Eyman Partners, Washington Counsel for America's Essential Hospitals",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264374",
+   "name": "Sarah Mutinsky",
+   "affiliation": "Eyman Partners, Washington Counsel for America's Essential Hospitals",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "Matthew Adams",
+   "affiliation": "Competitive Enterprise Institute",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "Frank Garrison",
+   "affiliation": "Pacific Legal Foundation",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "John Nagle",
+   "affiliation": "Pacific Legal Foundation",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "Marlo Lewis",
+   "affiliation": "Competitive Enterprise Institute",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "Daren Bakst",
+   "affiliation": "Competitive Enterprise Institute",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269073",
+   "name": "Bill Charmley",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Robert Feder",
+   "affiliation": "MSCCH",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Shweta Arya",
+   "affiliation": "MSCCH",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Ashley McClure",
+   "affiliation": "MSCCH",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Larry Junck",
+   "affiliation": "MSCCH",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Neelu Tummala",
+   "affiliation": "MSCCH",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Caren Solomon",
+   "affiliation": "MSCCH",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Ethan Sims",
+   "affiliation": "MSCCH",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Lisa Patel",
+   "affiliation": "Medical Society Consortium on Climate and Health",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Lisa Del Buono",
+   "affiliation": "Michigan Clinicians for Climate Action",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Alexander Rabin",
+   "affiliation": "Michigan Clinicians for Climate Action",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Anne Mellinger Birdsong",
+   "affiliation": "Georgia Clinicians for Climate Action",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Teresa Homsi",
+   "affiliation": "Michigan Clinicians for Climate Action",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "Dr. Rob McClean",
+   "affiliation": "American College of Physicians",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269023",
+   "name": "James Sanchez",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "LeeAnn Goheen",
+   "affiliation": "NATSO, SIGMA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Thereza Cevidanes",
+   "affiliation": "NATSO, SIGMA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Jacob Olson",
+   "affiliation": "RaceTrac",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Laurel Havas",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Amy Hunter",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Daniel Naverrete",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Elizabeth Ashley",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Brian Smith",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Dean Romhilt",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Jennifer Stocker",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Stephen Davis",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Claire Monteiro",
+   "affiliation": "OMB/EIML",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1271674",
+   "name": "Monty Navarro",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Caitlin Vannoy",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Laurel Havas",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Anges Huang",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Amy Hunter",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Daniel Naverrete",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Elizabeth Ashley",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Brian Smith",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Dean Romhilt",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Jennifer Stocker",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Laura Moskowitz",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Stephen Davis",
+   "affiliation": "DOL/WHD",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264223",
+   "name": "Claire Monteiro",
+   "affiliation": "OMB/EIML",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269473",
+   "name": "Christine Parker",
+   "affiliation": "ACLU of Southern California",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269473",
+   "name": "Amanda Goad",
+   "affiliation": "ACLU of Southern California",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269473",
+   "name": "Yasmine Di Giulio",
+   "affiliation": "OMB",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1269473",
+   "name": "Celeste Simon",
+   "affiliation": "OMB",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1269473",
+   "name": "Robert Hinchman",
+   "affiliation": "DOJ",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Andrew Stow",
+   "affiliation": "Manager, Operations Health and Safety at Phillips 66",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Emily Scott",
+   "affiliation": "Conn Maciel Carey LLP - Counsel for API",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Keith Petka",
+   "affiliation": "Director, Refining and Health, Safety, & Environment at API",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Grace Soderberg",
+   "affiliation": "Sr. Counsel at API",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Tim Steffek",
+   "affiliation": "Sr. Policy Advisor, at API",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Eric J. Conn",
+   "affiliation": "Conn Maciel Carey LLP - Counsel for API",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Kelsi Feltz",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Bruce Lundegren",
+   "affiliation": "SBA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "David Chicca",
+   "affiliation": "DOL/OSHA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Leo Thuman",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Eve Stocker",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Lyda Harris",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Jackson Avery",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259273",
+   "name": "Will Zettler",
+   "affiliation": "DOL/OSHA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266623",
+   "name": "Alyssa Tsuchiya",
+   "affiliation": "Union of Concerned Scientists",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266623",
+   "name": "Rachel Cleetus",
+   "affiliation": "Union of Concerned Scientists",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266623",
+   "name": "Julie McNamara",
+   "affiliation": "Union of Concerned Scientists",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266623",
+   "name": "Elizabeth Miller",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266623",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Annie Fox",
+   "affiliation": "Clean Air Council",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Larry Hafetz",
+   "affiliation": "Clean Air Council",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Marvin Brown",
+   "affiliation": "Earthjustice",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Hana Vizcarra",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Paige Knappenberger",
+   "affiliation": "Physicians for Social Responsibility",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267074",
+   "name": "Mikayla Steele",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267023",
+   "name": "Mikayla Steele",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267023",
+   "name": "Jennifer Lewis",
+   "affiliation": "MEMA. The Vehicle Suppliers Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267023",
+   "name": "Ana Meuwissen",
+   "affiliation": "MEMA. The Vehicle Suppliers Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267023",
+   "name": "Emily Sobel",
+   "affiliation": "MEMA. The Vehicle Suppliers Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1267023",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Alejandro Oms",
+   "affiliation": "Climate Action Campaign",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Julie McNamara",
+   "affiliation": "Union of Concerned Scientists",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Lisa Hoyos",
+   "affiliation": "League of Conservation Voters",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Madeline Page",
+   "affiliation": "Climate Action Campaign",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Darien Davis",
+   "affiliation": "League of Conservation Voters",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Jacob Garcia",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Elizabeth Miller",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266923",
+   "name": "Lisa Hoyos",
+   "affiliation": "League of Conservation Voters",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1266823",
+   "name": "Frank Sturges",
+   "affiliation": "Clean Air Task Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266823",
+   "name": "Veronica Saltzman",
+   "affiliation": "Clean Air Task Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266823",
+   "name": "Shaun Goho",
+   "affiliation": "Clean Air Task Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266823",
+   "name": "Jacob Garcia",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266823",
+   "name": "Elizabeth Miller",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266823",
+   "name": "Dalton Grace-Wiggins",
+   "affiliation": "Clean Air Task Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Elizabeth Cruz",
+   "affiliation": "WJI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Colette Payne",
+   "affiliation": "Women's Justice Institute",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Charlis Harris",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Alyssa Benedict",
+   "affiliation": "WJI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Alexis Mansfield",
+   "affiliation": "WJI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Dyanna Winchester",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Sandra Brown",
+   "affiliation": "WJI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Deanne Benos",
+   "affiliation": "Women's Justice Institute",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Yasmine Di Giulio",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Robert Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Paul Irby",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239024",
+   "name": "Celeste Simon",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Cara Cook",
+   "affiliation": "Alliance of Nurses for Healthy Environments",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Cristina Watkins",
+   "affiliation": "Alliance of Nurses for Healthy Environments",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Milagros Elia",
+   "affiliation": "Alliance of Nurses for Healthy Environments",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Sarah Green",
+   "affiliation": "National Association of Pediatric Nurse Practitioners",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Sarah Bucic",
+   "affiliation": "Alliance of Nurses for Healthy Environments",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Hannah Noel",
+   "affiliation": "Alliance of Nurses for Healthy Environments",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Dave Mason",
+   "affiliation": "National League of Nursing",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266773",
+   "name": "Elizabeth Miller",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Elizabeth Bechard",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Kiya Stanford",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Elizabeth Hauptman",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Melody Reis",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Rachel Meyer",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Bobby Cook",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Laurie Anderson",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Vanessa Lynch",
+   "affiliation": "Moms Clean Air Force",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Elizabeth Miller",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266724",
+   "name": "Kim Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Jamie Wilson",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Atty. Luis Pizarro",
+   "affiliation": "Puerto Rico Chamber of Comerce",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Christina Carrere",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Flavio Menasce",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Jinha Yoon",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Maggie DeSisto",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Casey McBuney",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Cindy Falconi",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Diane Spitalinic",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Jenny Wool",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "John Walker",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "LaTasha DouglaS",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Monica Reed-Asante",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Rebecca Harrington",
+   "affiliation": "CMS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Rebecca Hirshorn",
+   "affiliation": "HHS",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Dr. Jose Vargas",
+   "affiliation": "Varmed Management, LLC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Atty. Luis Pizarro",
+   "affiliation": "Puerto Rico Chamber of Comerce",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1264273",
+   "name": "Elliot Pacheco",
+   "affiliation": "Farmacia Isla Verde, LLC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Mr. Marty Muenzmaier",
+   "affiliation": "Pivot Bio",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Mrs. Emily I. Thomas",
+   "affiliation": "Pivot Bio",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Mr. Thomas Mills",
+   "affiliation": "FGS Global",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Mr. Anthony Reed",
+   "affiliation": "FGS Global",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Heidi Cohen",
+   "affiliation": "Treasury Department",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1261523",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Treasury Department",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Stephanie Jones",
+   "affiliation": "Environmental Defense Fund",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Ellen Robo",
+   "affiliation": "Environmental Defense Fund",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Peter Zaldo",
+   "affiliation": "Environmental Defense Fund",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Matias Fernandez",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Jessica Brakora",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Stephanie Jones",
+   "affiliation": "Environmental Defense Fund",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Ryland Li",
+   "affiliation": "Environmental Defense Fund",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1266673",
+   "name": "Alice Henderson",
+   "affiliation": "Environmental Defense Fund",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Rachel Minahan",
+   "affiliation": "American Association of Colleges of Nursing",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "James Fleischmann",
+   "affiliation": "Consultants",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Josh Adams",
+   "affiliation": "AACN",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Katherine Sydor",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Tamy Abernathy",
+   "affiliation": "ED",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Jeff Andrade",
+   "affiliation": "ED",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1269673",
+   "name": "Madi Kirven",
+   "affiliation": "ED",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259073",
+   "name": "Yang Zhang",
+   "affiliation": "SELF",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Ihna Varner",
+   "affiliation": "Bracewell LLP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Geoff Dietz",
+   "affiliation": "RNG Coalition",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Timothy Urban",
+   "affiliation": "Bracewell LLP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Heidi Cohen",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Sarah Jane. Bever-Chritton",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259474",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Doris Browne, MD",
+   "affiliation": "National Medical Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Jonathan Patz, MD",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Emily Thompson",
+   "affiliation": "American Lung Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Nissa Shaffi",
+   "affiliation": "Allergy & Asthma Network",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Gary Ewart",
+   "affiliation": "American Thoracic Society",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Jenna Riemenschneider",
+   "affiliation": "Asthma and Allergy Foundation of America",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Donald Hoppert",
+   "affiliation": "American Public Health Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Shyamala Rajan",
+   "affiliation": "American Lung Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Jessica Brakora",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266573",
+   "name": "Sofie Miller",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266523",
+   "name": "David Doniger",
+   "affiliation": "NRDC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266523",
+   "name": "Cathy Harris",
+   "affiliation": "NRDC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266523",
+   "name": "Meredith Hankins",
+   "affiliation": "NRDC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266523",
+   "name": "Jessica Bakora",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1266523",
+   "name": "Sofie Miller",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Zachary Fabish",
+   "affiliation": "Sierra Club",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Seth Johnson",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Kevin Breiner",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Noha Haggag",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Mike Ciccarone",
+   "affiliation": "OMB OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Gwyn Sofka",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Tom Uher",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241673",
+   "name": "Dan Schramm",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Eric J. Conn",
+   "affiliation": "Conn Maciel Carey LLP - Counsel for the Employers OSHA Modernization Coalition",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Emily Scott",
+   "affiliation": "Conn Maciel Carey LLP - Counsel for Employers OSHA Modernization Coalition",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Kelsi Feltz",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Bruce Lundegren",
+   "affiliation": "SBA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "David Chicca",
+   "affiliation": "DOL/OSHA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Lyda Harris",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Maddy Flamm",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "David McFadden",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Eve Stocker",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244023",
+   "name": "Will Zettler",
+   "affiliation": "DOL/OSHA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Dave Walton",
+   "affiliation": "Iowa Soybean Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Kurt Kovarik",
+   "affiliation": "Clean Fuels Alliance America",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Kent Engelbrecht",
+   "affiliation": "ADM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Courtney Lawrenson",
+   "affiliation": "Ag Processing Inc.",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Mike Rath",
+   "affiliation": "Darling Ingredients Inc.",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Ryan Pederson",
+   "affiliation": "North Dakota Soybean Council",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Paul Teta",
+   "affiliation": "Kolmar Americas",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Kate Shenk",
+   "affiliation": "Clean Fuels Alliance America",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Heidi Cohen",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241623",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Alex Hunt",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Heidi Cohen",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Allison Rivera",
+   "affiliation": "NGFA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Berit Foss",
+   "affiliation": "NGFA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Chris Malone",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Beth Stubbins",
+   "affiliation": "Scoular",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241674",
+   "name": "Scott Strickland",
+   "affiliation": "Consolidated Grain",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Julie Wise",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Alexandra Beliveau",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Carie Jasperse",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Carrol Bascus",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Chris Kampmeyer",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Christian Brown",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Jane Wargo",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Jeremiah Fasano",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Kristi Muldoon Jacobs",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Paulette Gaynor",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Carrie Doupnik",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Jasper Hicks",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Elizabeth Cash",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Marla Keller",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Dr. James Krieger",
+   "affiliation": "Healthy Food America",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1251573",
+   "name": "Thomas Gremillion",
+   "affiliation": "Consumer Federation of America",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Robert Walther",
+   "affiliation": "POET",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Josh Wilson",
+   "affiliation": "POET",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Landon Stropko",
+   "affiliation": "Invariant/POET",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Tim Urban",
+   "affiliation": "Bracewell/POET",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Heidi Cohen",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Krishna P. Vallabhaneni",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241523",
+   "name": "Sarah Jane. Bever-Chritton",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Julie Wise",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Alexandra Beliveau",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Carie Jasperse",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Carrol Bascus",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Chris Kampmeyer",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Christian Brown",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Jane Wargo",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Jeremiah Fasano",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Kristi Muldoon Jacobs",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Paulette Gaynor",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Carrie Doupnik",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Jasper Hicks",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Dr. Dennis Keefe",
+   "affiliation": "Exponent",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Dr. Richard Canady",
+   "affiliation": "NeutralScience",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Dr. Sean Hays",
+   "affiliation": "President, SciPinion",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246524",
+   "name": "Dr. Vanessa Feher Castagna",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Heidi Cohen",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Sarah Jane. Bever-Chritton",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Troy Bredenkamp",
+   "affiliation": "SVP, Government and Public Affairs, Renewable Fuels Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Jared Mullendore",
+   "affiliation": "Policy Counsel and Dir. Gov. Affairs, Renewable Fuels Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239374",
+   "name": "Geoff Cooper",
+   "affiliation": "President and CEO, Renewable Fuels Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Mr. Rob Macias",
+   "affiliation": "Aemetis, Inc. - VP of Dairy RNG",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Miss Elizabeth McAfee",
+   "affiliation": "Government Affairs for Aemetis",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Mr. Andy Foster",
+   "affiliation": "Aemetis, Inc. - President",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Mr. Jim Miller",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Mr. Eric McAfee",
+   "affiliation": "Aemetis, Inc. - Chairman/CEO",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Heidi Cohen",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239273",
+   "name": "Sarah Jane . Bever-Chritton",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Alexandra Beliveau",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Carie Jasperse",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Carrol Bascus",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Chris Kampmeyer",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Christian Brown",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Daniel Jedzinak",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Julie Wise",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Elizabeth Cash",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Jane Wargo",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Elizabeth Ashley",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Jeremiah Fasano",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Kristi Muldoon Jacobs",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Marla Keller",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Paulette Gaynor",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Cara Welch",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Dr. Dariush Mozaffarian",
+   "affiliation": "Food is Medicine Institute at Tufts University",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1246523",
+   "name": "Ms. Emily A. Callahan",
+   "affiliation": "Food is Medicine Institute at Tufts University",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Gavin Gretter",
+   "affiliation": "Love's Family of Companies",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Thereza Cevidanes",
+   "affiliation": "NATSO, SIGMA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Michael Junk",
+   "affiliation": "QuikTrip",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Nathan Lakers",
+   "affiliation": "Pilot Company",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "David Fialkov",
+   "affiliation": "NATSO, SIGMA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Matt Durand",
+   "affiliation": "National Association of Convenience Stores",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Jacob Olson",
+   "affiliation": "RaceTrac",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Kevin Yeager",
+   "affiliation": "QuikTrip",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Leeann Goheen",
+   "affiliation": "NATSO, SIGMA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Raymond AlQaisi",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239223",
+   "name": "Sarah Jane. Bever-Chritton",
+   "affiliation": "Department of the Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259373",
+   "name": "Shagufta Ahmed",
+   "affiliation": "EOP/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259373",
+   "name": "Tamy Abernathy",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259373",
+   "name": "Madison Kirven",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259373",
+   "name": "Jeff Andrade",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259373",
+   "name": "MacGregor Obergfell",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259373",
+   "name": "Craig Lindwarm",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Shagufta Ahmed",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Noah Mann",
+   "affiliation": "EOP/OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Tamy Abernathy",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Jeff Andrade",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Jeff Phillips",
+   "affiliation": "NDC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Mr. Tom Fitzsimmons",
+   "affiliation": "National Defense Committee",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259123",
+   "name": "Mr. Bob Carey",
+   "affiliation": "National Defense Committee",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Jeremy Neufeld",
+   "affiliation": "Institute for Progress",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Connor O'Brien",
+   "affiliation": "Institute for Progress",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Phillip Pollman",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Eric Bledsoe",
+   "affiliation": "DPC",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Leticia Sierra",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Alexander Frei",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Hong Kim",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Brian Smith",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Mitchell Barth",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Monica Berry",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Julia Pollack",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Patricia Coil",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1244223",
+   "name": "Sheng Li",
+   "affiliation": "DOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Joe Kakesh",
+   "affiliation": "Growth Energy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Chris Bliley",
+   "affiliation": "Growth Energy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "John Fuher",
+   "affiliation": "Growth Energy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Alex Hunt",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Alex Goodenough",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Sarah Bever-Chritton",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239323",
+   "name": "Heidi Cohen",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Mitchell Hora",
+   "affiliation": "Continuum Ag",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Brad McDonald",
+   "affiliation": "Continuum Ag",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Mitchell Hora",
+   "affiliation": "Continuum Ag",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Alex Goodenough",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Alex Hunt",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239324",
+   "name": "Sarah Bever-Critton",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259423",
+   "name": "Kelly Knapp",
+   "affiliation": "Southern Poverty Law Center",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259423",
+   "name": "Michael McManus",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259423",
+   "name": "Celeste Simon",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259423",
+   "name": "Bob Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234073",
+   "name": "Michael McManus",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234073",
+   "name": "Celeste Simon",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234073",
+   "name": "Eric Gormsen",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234073",
+   "name": "Niki Martinez",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234073",
+   "name": "April Grayson",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Corey McCray",
+   "affiliation": "NOPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Catharine Ransom",
+   "affiliation": "FGS Global on behalf of Fuels America",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Devin Mogler",
+   "affiliation": "NOPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Kate Shenk",
+   "affiliation": "Clean Fuels Alliance America",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Dustin Marquis",
+   "affiliation": "Marquis Energy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Chelsey Robinson",
+   "affiliation": "Bayer",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Bobby Frederick",
+   "affiliation": "Cargill",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Joe Kakesh",
+   "affiliation": "Growth Energy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Jared Hill",
+   "affiliation": "Bunge",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Jared Mullendore",
+   "affiliation": "Renewable Fuels Association",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Chris Knutson",
+   "affiliation": "Green Plains",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Alex Hunt",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Alex Goodenough",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239224",
+   "name": "Sarah Bever Chritton",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Troy Rovella",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Ibn Salaam",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Mark Goldman",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Michael Jensen",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Mark Lockett",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Chris Craig",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Mark Lockett",
+   "affiliation": "WM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Alex Hunt",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239173",
+   "name": "Alex Goodenough",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. George Shawver",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. Justin Mecham",
+   "affiliation": "Valero Energy",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Ms. Lara Swett",
+   "affiliation": "American Fuel & Petrochemical Manufacturers",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Ms. Leslie Bellas",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Ms. Kelsi Feltz",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Ms. Libby Ashley",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Ms. Lyda Harris",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. Bruce Lundegren",
+   "affiliation": "SBA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Ms. Eve Stocker",
+   "affiliation": "DOL/SOL",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. David Chicca",
+   "affiliation": "DOL/OSHA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. Will Zettler",
+   "affiliation": "DOL/OSHA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. Sheng Li",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241573",
+   "name": "Mr. Al Herrera",
+   "affiliation": "DOL/OASP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Stephanie Herron",
+   "affiliation": "Environmental Justice Health Alliance for Chemical Policy Reform",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Jane Williams",
+   "affiliation": "California Communities Against Toxics",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Darius Sivin",
+   "affiliation": "International Union, UAW",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Harley Stokes",
+   "affiliation": "BlueGreen Alliance",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Liz Ruben",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "James Savage",
+   "affiliation": "United Steelworkers International Union",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Kristine Pordesimo",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Kristina Guarino",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Rebecca Broussard",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Nathan Wittstruck",
+   "affiliation": "EPA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Christopher Gamache",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Tiffany Crawford",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Neil Carman",
+   "affiliation": "Sierra Club",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Jennifer Hadayia",
+   "affiliation": "Air Alliance Houston",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Darya Minovi",
+   "affiliation": "Union of Concerned Scientists",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Maya Nye",
+   "affiliation": "Coming Clean",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Paul Orum",
+   "affiliation": "SELF",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Adam Kron",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Molly Prothero",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1241723",
+   "name": "Emma Cheuse",
+   "affiliation": "Earthjustice",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Tony Pavel",
+   "affiliation": "Flavor and Extract Manufacturers Association of the United States",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Christie Harman",
+   "affiliation": "Flavor and Extract Manufacturers Association of the U.S.",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "John Hallagan",
+   "affiliation": "Flavor and Extract Manufacturers Association of the U.S.",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Sean Taylor",
+   "affiliation": "Flavor and Extract Manufacturers Association of the U.S.",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Pat Quinn",
+   "affiliation": "Flavor and Extract Manufacturers Association of the U.S.",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Julie Wise",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Alexandra Beliveau",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Carie Jasperse",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Carrol Bascus",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Chris Kampmeyer",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Christian Brown",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Daniel Jedzinak",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Elizabeth Cash",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Jane Wargo",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Jasper Hicks",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Jeremiah Fasano",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Kristi Muldoon Jacobs",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Marla Keller",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239373",
+   "name": "Paulette Gaynor",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Carrol Bascus",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Julie Wise",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Alexandra Beliveau",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Chris Kampmeyer",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Christian Brown",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Daniel Jedzinak",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Elizabeth Cash",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Jane Wargo",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Jasper Hicks",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Jeremiah Fasano",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Kristi Muldoon Jacobs",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Marla Keller",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Paulette Gaynor",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Cara Welch",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Megan Velez",
+   "affiliation": "FDA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Melanie Benesh",
+   "affiliation": "NONE",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1239073",
+   "name": "Scott Faber",
+   "affiliation": "NONE",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Tamy Abernathy",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Shagufta Ahmed",
+   "affiliation": "EOP/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Noah Mann",
+   "affiliation": "EOP/OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Katherine Sydor",
+   "affiliation": "EOP/OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Madison Kirven",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Jeff Andrade",
+   "affiliation": "Department of Education",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Frank Harrington",
+   "affiliation": "American Association of Nurse Practitioners",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Julie Shroyer",
+   "affiliation": "Wheat Shroyer Government Relations",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "Adam Horgan",
+   "affiliation": "American Association of Nurse Practitioners",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1259173",
+   "name": "MaryAnne Sapio",
+   "affiliation": "American Association of Nurse Practitioners",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Chris Handwerk",
+   "affiliation": "Amp Americas",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Grant Zimmerman",
+   "affiliation": "Amp Americas",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Cassandra Farrant",
+   "affiliation": "Amp Americas",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Anthony Reed",
+   "affiliation": "FGS Global",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Alex Goodenough",
+   "affiliation": "OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Alex Hunt",
+   "affiliation": "OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Terry Stratton",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Krishna Vallabhaneni",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Sarah Bever-Chritton",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Stacy Sneeringer",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Heidi Cohen",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1239123",
+   "name": "Shelley Leonard",
+   "affiliation": "Treasury",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Tyler Work",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Autumn Hanna",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Mia Huang",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Peter Cowan",
+   "affiliation": "BLM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Izabela Zielinska",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "James Tichenor",
+   "affiliation": "BLM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Charles Yudson",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Kyle Moorman",
+   "affiliation": "BLM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Natalie Eades",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Michael Hagan",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236524",
+   "name": "Sofie Miller",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236673",
+   "name": "Michael McManus",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236673",
+   "name": "Maggie Bourke",
+   "affiliation": "Uptown People's Law Center",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236673",
+   "name": "Celeste Simon",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236673",
+   "name": "Eric Gormsen",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234023",
+   "name": "Bob Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234023",
+   "name": "Michael McManus",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1234023",
+   "name": "Dr. Jennifer Orthwein",
+   "affiliation": "Orthwein Law, PC",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Isabella Zastrow",
+   "affiliation": "Western Colorado Alliance",
+   "participation": "Did Not Attend"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Bob Laresh",
+   "affiliation": "NONE",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Mark Purdy",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Izabella Zielinska",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Kyle Moorman",
+   "affiliation": "BLM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Peter Cowan",
+   "affiliation": "BLM",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Michael Hagan",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Tony Striner",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Sofie Miller",
+   "affiliation": "OMB",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Lisa DeVille",
+   "affiliation": "Dakota Resource Council and Fort Berthold POWER",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Jill Morrison",
+   "affiliation": "Powder River Basin Resource Council",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Claire Deuter",
+   "affiliation": "Powder River Basin Resource Council",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Susann Beug",
+   "affiliation": "Northern Plains Resource Council",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Dr. Barbara Vasquez",
+   "affiliation": "Western Colorado Alliance",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Isabella Zastrow",
+   "affiliation": "Western Colorado Alliance",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236573",
+   "name": "Sarah Hunkins",
+   "affiliation": "Western Organization of Resource Councils",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Tyler Work",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Mia Huang",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Michael Surrusco",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Autumn Hanna",
+   "affiliation": "Taxpayers for Common Sense",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Matias Fernandez",
+   "affiliation": "EOP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Jacob Garcia",
+   "affiliation": "EOP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Michael Hagan",
+   "affiliation": "EOP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Izabela Zielinska",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "James Tichnor",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Jennifer Spencer",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Kyle Moorman",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Mark Purdy",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Natalie Eades",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1236523",
+   "name": "Peter Cowan",
+   "affiliation": "DOI",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Michael McManus",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Jennifer Wedekind",
+   "affiliation": "American Civil Liberties Union",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Nina Patel",
+   "affiliation": "American Civil Liberties Union",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Dee Farmer",
+   "affiliation": "American Civil Liberties Union",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Arli Christian",
+   "affiliation": "American Civil Liberties Union",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Daniel Crooks",
+   "affiliation": "DOJ/BOP",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1224173",
+   "name": "Bob Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "Michael McManus",
+   "affiliation": "OMB/OIRA",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "BoB Hinchman",
+   "affiliation": "DOJ",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "Cynthia Totten",
+   "affiliation": "Just Detention International",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "Linda McFarlane",
+   "affiliation": "Just Detention International",
+   "participation": "Teleconference"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "Liliana Coronado",
+   "affiliation": "The Parzival Group",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "Tara Graham",
+   "affiliation": "Just Detention International",
+   "participation": "In Person"
+  },
+  {
+   "meeting_id": "1196523",
+   "name": "Julie Abbate",
+   "affiliation": "Just Detention International",
+   "participation": "In Person"
+  }
+ ],
+ "fetch_failures": []
+}

@@ -1,0 +1,33 @@
+{
+ "tag": "2026-04",
+ "start": "04/01/2026",
+ "end": "04/30/2026",
+ "banner": 92,
+ "viewall_rows": 92,
+ "unique_ids": 92,
+ "meetings_fetched": 92,
+ "split_banner_sum": 92,
+ "split_union": 92,
+ "split_union_eq_month": true,
+ "docs_listed": 142,
+ "docs_downloaded_ok": 142,
+ "docs_failed": [],
+ "docs_no_text": [
+  "1195792",
+  "1193343",
+  "1188297",
+  "1180992",
+  "1180942",
+  "1179243",
+  "1175742",
+  "1175746",
+  "1175749",
+  "1175750",
+  "1173244",
+  "1173247",
+  "1173248"
+ ],
+ "bytes": 225858249,
+ "requests_this_month": 246,
+ "finished": "2026-11-08 18:50:29 EST"
+}

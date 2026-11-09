@@ -1,6 +1,6 @@
 # oira-meetings
 
-Archive builder for Executive Order 12866 meetings held at OIRA, from reginfo.gov: one metadata row per meeting, the list of attendees, and the handout documents attached to each meeting page. Currently a prototype that is run one month at a time.
+Archive builder for Executive Order 12866 meetings held at OIRA, from reginfo.gov: one metadata row per meeting, the list of attendees, and the handout documents attached to each meeting page. Run one month at a time, or over a range with `scripts/run_backfill.py`.
 
 Not affiliated with OMB, OIRA, GSA or reginfo.gov. It reads public pages only. It is slow on purpose (at least 1.6 seconds between requests, honest User-Agent) and stops on any 403 or 429.
 
@@ -30,3 +30,5 @@ Step 07 reads `data/datadawn_2026-10_window.json`, a pull from the public DataDa
 - `FINDINGS.md` results and caveats. `PROOF.md` the spot-check sample with links.
 
 All numbers live in `data/`, `FINDINGS.md` and `PROOF.md`, not here.
+
+Full-range run: `cd scripts && ../.venv/bin/python run_backfill.py` (resumable; skips months with a `data/<month>_DONE.json`), then `11_summarize.py`, `12_recheck_bad_docs.py`, `10_final_spot_check.py`, `13_add_requestor_client.py`, `14_proof_final_section.py`.

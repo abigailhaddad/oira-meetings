@@ -23,13 +23,18 @@ def parse(html):
 r = get(BASE + "/public/do/eom12866SearchResults", params={"searchStartDate": START, "searchEndDate": END, "operation": "", "resultCount": "1"})
 open(f"{RAW}/search_page1.html", "w").write(r.text)
 found1, rows_p1 = parse(r.text)
+if found1 is None and "No results found" in BeautifulSoup(r.text, "lxml").get_text(" ", strip=True):
+    found1 = 0   # site says "No results found for your search"
+    json.dump(dict(found_banner=0, note="site page says No results found", pulled=time.strftime("%Y-%m-%d %H:%M:%S %Z"), rows_viewall=[], rows_paginated=[]), open(f"../data/{TAG}_search.json", "w"), indent=1)
+    print("no results"); sys.exit(0)
 # pass A: view all
 r = get(BASE + "/public/do/eom12866SearchResults", params={"viewall": "y", "view": "yes", "viewAllFlag": "Y"})
 open(f"{RAW}/search_viewall.html", "w").write(r.text)
 foundA, rowsA = parse(r.text)
 # pass B: paginated (10/page)
+NOPAGE = len(sys.argv) > 4 and sys.argv[4] == "nopage"
 rowsB = list(rows_p1); n = 0   # pagenum is 0-based: first "Next" link is pagenum=1
-while len(rowsB) < found1:
+while not NOPAGE and len(rowsB) < found1:
     n += 1
     r = get(BASE + "/public/do/eom12866SearchResults", params={"view": "yes", "pagenum": str(n)})
     open(f"{RAW}/search_page{n+1}.html", "w").write(r.text)

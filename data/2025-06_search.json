@@ -1,0 +1,958 @@
+{
+ "found_banner": 85,
+ "pulled": "2026-11-08 19:26:44 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1003973",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/30/2025 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1003973&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1011373",
+   "rin": "1651-AB61",
+   "meeting_datetime": "06/30/2025 01:00 PM",
+   "agency": "1651-DHS/USCBP",
+   "rule_title": "Enhanced Air Cargo Advance Screening (ACAS)",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1651-AB61&meetingId=1011373&acronym=1651-DHS/USCBP"
+  },
+  {
+   "meeting_id": "989274",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/30/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=989274&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "991373",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/27/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=991373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1006373",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/27/2025 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1006373&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1001423",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/27/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=1001423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "989223",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/27/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=989223&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "996423",
+   "rin": "2060-AV98",
+   "meeting_datetime": "06/26/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Phasedown of Hydrofluorocarbons: Review and Renewal of Eligibility for Application-specific Allowances",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AV98&meetingId=996423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "999073",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/26/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=999073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1003873",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/25/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1003873&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "993923",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/25/2025 02:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=993923&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "994123",
+   "rin": "0938-AV69",
+   "meeting_datetime": "06/25/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicaid Managed Care-State Directed Payments (CMS-2449)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV69&meetingId=994123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "988973",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/24/2025 02:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=988973&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "989123",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/24/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=989123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "989023",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/23/2025 02:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=989023&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "988974",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/23/2025 02:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=988974&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "986423",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/23/2025 01:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=986423&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "984573",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/23/2025 01:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=984573&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "993873",
+   "rin": "0938-AV69",
+   "meeting_datetime": "06/23/2025 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicaid Managed Care-State Directed Payments (CMS-2449)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV69&meetingId=993873&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "993973",
+   "rin": "0910-ZC21",
+   "meeting_datetime": "06/20/2025 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Requirements for Additional Traceability Records for Certain Foods: Compliance Date Extension",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC21&meetingId=993973&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "984526",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/18/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=984526&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "984523",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/18/2025 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=984523&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984524",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/18/2025 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984524&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984274",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/18/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=984274&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984323",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/18/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984323&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984273",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/18/2025 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=984273&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984275",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/18/2025 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984275&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984525",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/17/2025 02:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=984525&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "984473",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/17/2025 02:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=984473&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "984224",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/17/2025 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=984224&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984223",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/17/2025 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984223&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984173",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/17/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=984173&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984174",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/17/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984174&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "981623",
+   "rin": "0910-ZC21",
+   "meeting_datetime": "06/16/2025 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Requirements for Additional Traceability Records for Certain Foods: Compliance Date Extension",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC21&meetingId=981623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "984423",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/16/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=984423&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "984123",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/16/2025 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984123&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "983923",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/16/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=983923&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "983924",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/16/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=983924&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "981423",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/16/2025 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=981423&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "961373",
+   "rin": "0938-AV50",
+   "meeting_datetime": "06/16/2025 12:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2026 Revisions to Payment Policies Under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1832)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV50&meetingId=961373&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1004073",
+   "rin": "1557-AF31",
+   "meeting_datetime": "06/13/2025 04:00 PM",
+   "agency": "1557-TREAS/OCC",
+   "rule_title": "Regulatory Capital Rules: Enhanced Supplementary Leverage Ratio Standards for U.S. Global Systemically Important Bank Holding Companies and Certain of Their Subsidiary Insured Depository Institutions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1557-AF31&meetingId=1004073&acronym=1557-TREAS/OCC"
+  },
+  {
+   "meeting_id": "978923",
+   "rin": "1004-AF03",
+   "meeting_datetime": "06/13/2025 11:00 AM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Rescission of Conservation and Landscape Health Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF03&meetingId=978923&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "986574",
+   "rin": "9000-AO77",
+   "meeting_datetime": "06/13/2025 11:00 AM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=986574&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "988923",
+   "rin": "3060-AM14",
+   "meeting_datetime": "06/13/2025 10:30 AM",
+   "agency": "3060-FCC",
+   "rule_title": "Modernization of the Nation's Alerting Systems",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3060-AM14&meetingId=988923&acronym=3060-FCC"
+  },
+  {
+   "meeting_id": "989323",
+   "rin": "0694-AJ90",
+   "meeting_datetime": "06/12/2025 02:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Rescinding: Framework for Artificial Intelligence Diffusion",
+   "stage": "Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ90&meetingId=989323&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "981373",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/12/2025 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=981373&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "981374",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/12/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=981374&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "973973",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/11/2025 03:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=973973&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "971473",
+   "rin": "0710-ZA21",
+   "meeting_datetime": "06/11/2025 02:30 PM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Implementation Guidance for Section 1043(b) of the Water Resources Reform and Development Act of 2014, as amended, Non-Federal Implementation Pilot Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-ZA21&meetingId=971473&acronym=0710-DOD/COE"
+  },
+  {
+   "meeting_id": "986573",
+   "rin": "9000-AO77",
+   "meeting_datetime": "06/11/2025 02:30 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=986573&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "961473",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/11/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=961473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "966523",
+   "rin": "2060-AW46",
+   "meeting_datetime": "06/11/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Partial Waiver of 2024 Cellulosic Biofuel Volume Requirement",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW46&meetingId=966523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959323",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/10/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959323&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "966473",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/10/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=966473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "973873",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/09/2025 03:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=973873&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "959223",
+   "rin": "2060-AW46",
+   "meeting_datetime": "06/09/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Partial Waiver of 2024 Cellulosic Biofuel Volume Requirement",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW46&meetingId=959223&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "963873",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/09/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=963873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "968973",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/06/2025 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=968973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "963973",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/06/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=963973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "974023",
+   "rin": "0938-AV61",
+   "meeting_datetime": "06/06/2025 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Patient Protection and Affordable Care Act;  Marketplace Integrity and Affordability (CMS-9884)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV61&meetingId=974023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "971373",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/06/2025 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=971373&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "971374",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/06/2025 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=971374&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "971573",
+   "rin": "2060-AW68",
+   "meeting_datetime": "06/06/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=971573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "971523",
+   "rin": "2060-AW68",
+   "meeting_datetime": "06/06/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=971523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "961573",
+   "rin": "2127-ZA26",
+   "meeting_datetime": "06/05/2025 03:30 PM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Resetting the Corporate Average Fuel Economy Program",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-ZA26&meetingId=961573&acronym=2127-DOT/NHTSA"
+  },
+  {
+   "meeting_id": "959374",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/05/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=959374&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959373",
+   "rin": "2060-AW68",
+   "meeting_datetime": "06/05/2025 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=959373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "956373",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/05/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=956373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "968873",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/05/2025 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=968873&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "968874",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/05/2025 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=968874&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "966373",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/05/2025 11:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=966373&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "959123",
+   "rin": "2060-AW46",
+   "meeting_datetime": "06/05/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Partial Waiver of 2024 Cellulosic Biofuel Volume Requirement",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW46&meetingId=959123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959073",
+   "rin": "2060-AW46",
+   "meeting_datetime": "06/05/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Partial Waiver of 2024 Cellulosic Biofuel Volume Requirement",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW46&meetingId=959073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "964023",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/04/2025 03:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=964023&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "969023",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/04/2025 02:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=969023&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "959074",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/04/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959074&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "961475",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/04/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=961475&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "958924",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/04/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=958924&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "984124",
+   "rin": "2120-AL33",
+   "meeting_datetime": "06/04/2025 10:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Designation - Restrict the Operation of an Unmanned Aircraft in Close Proximity to a Fixed Site Facility",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL33&meetingId=984124&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "984073",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/04/2025 10:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=984073&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "961423",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/03/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=961423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959023",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/03/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959423",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/03/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=959423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "943973",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/02/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=943973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "959224",
+   "rin": "2060-AW23",
+   "meeting_datetime": "06/02/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Renewable Fuel Standard (RFS) Program: Set 2",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW23&meetingId=959224&acronym=2060-EPA/OAR"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1003973",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/30/2025 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1003973&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1011373",
+   "rin": "1651-AB61",
+   "meeting_datetime": "06/30/2025 01:00 PM",
+   "agency": "1651-DHS/USCBP",
+   "rule_title": "Enhanced Air Cargo Advance Screening (ACAS)",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1651-AB61&meetingId=1011373&acronym=1651-DHS/USCBP"
+  },
+  {
+   "meeting_id": "989274",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/30/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=989274&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "991373",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/27/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=991373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1006373",
+   "rin": "2120-AL82",
+   "meeting_datetime": "06/27/2025 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1006373&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1001423",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/27/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=1001423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "989223",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/27/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=989223&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "996423",
+   "rin": "2060-AV98",
+   "meeting_datetime": "06/26/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Phasedown of Hydrofluorocarbons: Review and Renewal of Eligibility for Application-specific Allowances",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AV98&meetingId=996423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "999073",
+   "rin": "2060-AW61",
+   "meeting_datetime": "06/26/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=999073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1003873",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "06/25/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1003873&acronym=0906-HHS/HRSA"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+month,document_id,meeting_id,file_name,text_extracted,note
+2025-03,813243,854173,A National Call to Action-The Obesity Bill of Rights.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-03,793293,851373,avalere-impact-of-mfp-effectuation-on-pharmacies-and-be.pdf,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2025-06,865743,971473,SNND 1043b Guidance Review Request.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-06,873243,961473,ABFA Biomass Based Diesel Volume Estimate 2026 (2).doc,no,OOXML text scraped from XML; pages not counted no text layer (likely scanned/image-only); no OCR performed
+2025-07,918242,1024223,IDEM 06-23-2009 Endangerment Comments.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-07,915796,1021423,Rep Tenney Letter to CMS.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-07,900742,1024423,RxParadigm OMB EO 12866 .pdf,partial/low,low text density (possibly scanned or image-heavy)
+2025-09,1008243,1109423,Broken Baseline - AEWR One Pager.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-09,995843,1113923,VS Guidance 6002.1.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-09,990743,1101773,EXHIBIT A - LG&E and KU Generation Map and Company Info - PPL.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-09,973242,1086973,Brief Response to Questions Posed During September 2 2025 OIRA Meeting.pdf,partial/low,low text density (possibly scanned or image-heavy)
+2025-12,1048242,1151623,DSAs Projected to be Decertified.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1043395,1199023,2025 12 6_WH Food Security fact sheet.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1043398,1199024,2025 12 6_WH Food Security fact sheet.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1038293,1219073,Compressed_DJI Drone Security White Paper 2025[1].pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1023292,1191523,Closing the non EHB loophole .pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1023242,1181623,Ltr to WH Pres DJT and DOL Sec DeRemer.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1023244,1181623,Gov Braun ERISA letter.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1020742,1124373,2025.05.29 Unlawful and Anticompetitive Surety Conduct.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1020743,1124373,2025.05.14 Credit Rating Exemption from Supplemental Financial Assurance on Sole Liability Prop.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1020744,1124373,2025.08.07 W&T Surety Update Letter Final Signed.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1020745,1124373,2023.09.07 Risk Mgmt & Financial Assurance_Notice of Proposed Rulemaking.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2025-12,1020746,1124373,2025.02.20 Prior Admin Weaponization of Bonding & Regulatory Agency Actions.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-02,1118292,1319273,2024-2-1 FINAL ASA Comment Letter - Operations - Batching Rule  CMS-9897-P.pdf,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-02,1118293,1319273,2023-12-21-ACEP and EDPMA idr-operations-comments.pdf,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-02,1118294,1319273,2023-12-22 ACR-Comment-SMB-IDR-Proposed-Rule-FINAL.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-02,1110792,1294573,American Affairs Journal_Riseandfallof H-1Bvisa_DanDing_Winter2025.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-02,1100842,1294073,TeamHealth RIN 0938-AV15.docx,no,OOXML text scraped from XML; pages not counted no text layer (likely scanned/image-only); no OCR performed
+2026-03,1163244,1350124,Letter to CMS on Section 1115 Waiver Days 3.6.26.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-03,1153292,1321623,State Sexual Violence Definitions.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-03,1148242,1339374,RVO by Administration -- updated.docx,no,OOXML text scraped from XML; pages not counted no text layer (likely scanned/image-only); no OCR performed
+2026-04,1195792,1366723,Exhibit B - (Final) Datavant-FTC Complaint (Signed_ Bates Numbered_FOIA)(98166443.1)-c.pdf,partial/low,low text density (possibly scanned or image-heavy)
+2026-04,1193343,1371673,2023-MMP-Figures 4.22.26.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-04,1188297,1361823,The_National_Digital_Spine (compressed).pdf,partial/low,low text density (possibly scanned or image-heavy)
+2026-04,1180992,1369023,DESI Memorandum to FDA Commissioner 3.14.1972.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-04,1180942,1351173,POW Roadless.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-04,1179243,1349573,BEA_Virginia2024.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-04,1175742,1350723,image.jpg,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-04,1175746,1350723,image.jpg,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-04,1175749,1350723,IMG_7018.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-04,1175750,1350723,image.jpg,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-04,1173244,1349923,CLIMB ACT.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-04,1173247,1349923,CMS Medicare CBD Guide Lines.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-04,1173248,1349923,WH Executive Order.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-05,1203693,1374773,draft VA CTB PLA Guidelines Nov. 25.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-06,1278699,1449423,Benefits of Southern Forests for Drinking Water_ Caldwell_et al_2026.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-06,1271192,1446873,United-States-Child-Medicaid-CHIP-Enrollment-Decline-January-2025-April-2026-ByGeorgetownCCF.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-06,1271194,1446873,Percentage-of-U.S.-Adults-Categorized-as-Cost-Desperate-Reaches-a-New-High-of-11-.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-06,1271093,1429723,EARPC & FG Wildfire Roadless Area Analysis.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-06,1271094,1429723,Summary of data presented in story map by EARPC & FG.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-06,1246092,1411873,ANCOR 2025 State of America's Direct Support Workforce Crisis Report.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-06,1246093,1411873,ANCOR Comments on Access Rule.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-07,1323743,1466873,Fair Wisconsin public comment CMS 2451-P.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-07,1313692,1481173,GilaIRAs_24x36.jpg,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-07,1303643,1471923,investigation-documents-horse-abuse.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-07,1286042,1462473,Chief's comment letter on roadless Chap 5 attached.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-07,1286043,1462473,Roadless sporting lands data.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-08,1358793,1513473,Washington_Section_106_Congressional_One_Pager.DAHP.jpg,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-08,1358692,1511023,Additional Attendees ACEC Meeting 8-24.docx,partial/low,OOXML text scraped from XML; pages not counted low text density (possibly scanned or image-heavy)
+2026-08,1353993,1511723,,no,no text layer (likely scanned/image-only); no OCR performed
+2026-08,1348794,1506173,USMade Small Micro Entity IPRs.jpg,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-08,1343792,1505923,HSUS HSLF Citizen Petition May 15 2024.pdf,partial/low,low text density (possibly scanned or image-heavy)
+2026-08,1341200,1500924,UFPR OIRA Presentation 8.10.26.pptx,no,slides counted no text layer (likely scanned/image-only); no OCR performed
+2026-09,1396392,1520823,UPF RFI CSPI Comment 2025_FINAL.pdf,no,pdfinfo error: Syntax Error: Couldn't find trailer dictionary Syntax Error: Couldn't find trailer dictionary Syntax Error: Couldn't rea pdftotext error: Syntax Error: Couldn't find trailer dictionary 
+2026-09,1388742,1523373,MOGA EPA Letter on the Methane Rule 6 15 2026.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-09,1388745,1523373,MOGA EPA Letter on Methane Rule 7 31 2026.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-09,1391342,1534823,Nov302023FMCSADirectiveDisallowingWaiversof371.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-09,1391349,1534823,Sept 18 2025 Secretary Duffy Pledges to Make sure Brokers are upfront with Truckers.png,no,unrecognised type no text layer (likely scanned/image-only); no OCR performed
+2026-09,1383792,1514923,NJHPO Comments to OIRA on proposed Section 106 changes_signed.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-09,1381292,1533573,AAR EO12866 meeting RIN 2130-AC82.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-09,1379196,1520773,A Look Back at the Legislative Origin of IPRs.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-09,1371792,1529223,12866MeetingRemarks090326.pdf,no,no text layer (likely scanned/image-only); no OCR performed
+2026-10,1436342,1573623,SWFP Comment Letter CMS.pdf,no,no text layer (likely scanned/image-only); no OCR performed

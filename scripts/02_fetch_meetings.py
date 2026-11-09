@@ -44,6 +44,8 @@ for i, r in enumerate(rows):
             resp = get(BASE + "/public/do/viewEO12866Meeting", params={"viewRule": "false", "rin": r["rin"], "meetingId": r["meeting_id"], "acronym": r["agency"]})
         except Blocked as e:
             print("BLOCKED", e); sys.exit(2)
+        except requests.RequestException as e:
+            fails.append((r["meeting_id"], f"exception {type(e).__name__}")); continue
         if resp.status_code != 200: fails.append((r["meeting_id"], resp.status_code)); continue
         h = resp.text; open(fn, "w").write(h)
     meta, docs, att = parse_meeting(h)
@@ -55,9 +57,10 @@ for i, r in enumerate(rows):
     for a in att: attrows.append(dict(meeting_id=r["meeting_id"], **a))
     if i % 20 == 0: print(i, flush=True)
 
-def wcsv(fn, rs):
+def wcsv(fn, rs, fields):
     with open(fn, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(rs[0].keys())); w.writeheader(); w.writerows(rs)
-wcsv(f"../data/{TAG}_meetings.csv", meetings); wcsv(f"../data/{TAG}_documents_listed.csv", docrows); wcsv(f"../data/{TAG}_attendees.csv", attrows)
+        w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(rs)
+MF = ["meeting_id","rin","meeting_datetime","list_meeting_datetime","agency","rule_title","stage","meeting_type","requestor","requestor_name","n_documents","n_attendees","url"]
+wcsv(f"../data/{TAG}_meetings.csv", meetings, MF); wcsv(f"../data/{TAG}_documents_listed.csv", docrows, ["meeting_id","document_id","title"]); wcsv(f"../data/{TAG}_attendees.csv", attrows, ["meeting_id","name","affiliation","participation"])
 json.dump(dict(pulled=time.strftime("%Y-%m-%d %H:%M:%S %Z"), meetings=meetings, documents=docrows, attendees=attrows, fetch_failures=fails), open(f"../data/{TAG}_meetings.json", "w"), indent=1)
 print("meetings", len(meetings), "docs", len(docrows), "attendee rows", len(attrows), "fails", fails)

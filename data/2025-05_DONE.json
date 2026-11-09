@@ -1,0 +1,19 @@
+{
+ "tag": "2025-05",
+ "start": "05/01/2025",
+ "end": "05/31/2025",
+ "banner": 42,
+ "viewall_rows": 42,
+ "unique_ids": 42,
+ "meetings_fetched": 42,
+ "split_banner_sum": 42,
+ "split_union": 42,
+ "split_union_eq_month": true,
+ "docs_listed": 34,
+ "docs_downloaded_ok": 34,
+ "docs_failed": [],
+ "docs_no_text": [],
+ "bytes": 61722984,
+ "requests_this_month": 84,
+ "finished": "2026-11-08 19:34:52 EST"
+}

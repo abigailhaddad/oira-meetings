@@ -1,0 +1,28 @@
+{
+ "found_banner": 1,
+ "pulled": "2026-11-08 19:39:29 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "836373",
+   "rin": "3206-AO80",
+   "meeting_datetime": "02/26/2025 02:30 PM",
+   "agency": "3206-OPM",
+   "rule_title": "Improving Performance, Accountability and Responsiveness in the Civil Service",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3206-AO80&meetingId=836373&acronym=3206-OPM"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "836373",
+   "rin": "3206-AO80",
+   "meeting_datetime": "02/26/2025 02:30 PM",
+   "agency": "3206-OPM",
+   "rule_title": "Improving Performance, Accountability and Responsiveness in the Civil Service",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3206-AO80&meetingId=836373&acronym=3206-OPM"
+  }
+ ]
+}

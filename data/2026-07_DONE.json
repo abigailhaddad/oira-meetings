@@ -1,0 +1,25 @@
+{
+ "tag": "2026-07",
+ "start": "07/01/2026",
+ "end": "07/31/2026",
+ "banner": 81,
+ "viewall_rows": 81,
+ "unique_ids": 81,
+ "meetings_fetched": 81,
+ "split_banner_sum": 81,
+ "split_union": 81,
+ "split_union_eq_month": true,
+ "docs_listed": 83,
+ "docs_downloaded_ok": 83,
+ "docs_failed": [],
+ "docs_no_text": [
+  "1323743",
+  "1313692",
+  "1303643",
+  "1286042",
+  "1286043"
+ ],
+ "bytes": 62473862,
+ "requests_this_month": 175,
+ "finished": "2026-11-08 18:28:39 EST"
+}

@@ -1,0 +1,27 @@
+{
+ "tag": "2026-06",
+ "start": "06/01/2026",
+ "end": "06/30/2026",
+ "banner": 87,
+ "viewall_rows": 87,
+ "unique_ids": 87,
+ "meetings_fetched": 87,
+ "split_banner_sum": 87,
+ "split_union": 87,
+ "split_union_eq_month": true,
+ "docs_listed": 101,
+ "docs_downloaded_ok": 101,
+ "docs_failed": [],
+ "docs_no_text": [
+  "1278699",
+  "1271192",
+  "1271194",
+  "1271093",
+  "1271094",
+  "1246092",
+  "1246093"
+ ],
+ "bytes": 109524755,
+ "requests_this_month": 199,
+ "finished": "2026-11-08 18:35:19 EST"
+}

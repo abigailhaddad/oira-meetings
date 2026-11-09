@@ -14,6 +14,8 @@ for n, did in enumerate(ids):
         r = get(BASE + "/public/do/eoDownloadDocument", params={"pubId": "", "eodoc": "true", "documentID": did})
     except Blocked as e:
         print("BLOCKED", e); json.dump(done, open(meta_path, "w"), indent=1); sys.exit(2)
+    except requests.RequestException as e:
+        done[did] = dict(status=f"exception {type(e).__name__}: {e}"[:200]); continue
     cd = r.headers.get("Content-Disposition", "")
     m = re.search(r'filename="(.*)"\s*$', cd) or re.search(r"filename\*?=(?:UTF-8'')?([^;]+)", cd)   # quoted names may contain ';'
     

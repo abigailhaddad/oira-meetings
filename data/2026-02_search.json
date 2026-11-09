@@ -1,0 +1,748 @@
+{
+ "found_banner": 64,
+ "pulled": "2026-11-08 18:56:19 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1319273",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/27/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1319273&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1304073",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/27/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1304073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1314023",
+   "rin": "1840-AD99",
+   "meeting_datetime": "02/27/2026 11:30 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "One Big Beautiful Bill Act: Pell Grants and Workforce Pell Grants",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD99&meetingId=1314023&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1316673",
+   "rin": "1840-AD99",
+   "meeting_datetime": "02/27/2026 11:00 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "One Big Beautiful Bill Act: Pell Grants and Workforce Pell Grants",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD99&meetingId=1316673&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1319123",
+   "rin": "1601-AB22",
+   "meeting_datetime": "02/26/2026 03:30 PM",
+   "agency": "1601-DHS/OS",
+   "rule_title": "Rescinding Portions of DHS Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1601-AB22&meetingId=1319123&acronym=1601-DHS/OS"
+  },
+  {
+   "meeting_id": "1319073",
+   "rin": "3037-AA24",
+   "meeting_datetime": "02/26/2026 02:00 PM",
+   "agency": "3037-CPBSD",
+   "rule_title": "Revise Central Nonprofit Agencies' Requirements to Charge Fees & Subcontracting in the AbilityOne Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3037-AA24&meetingId=1319073&acronym=3037-CPBSD"
+  },
+  {
+   "meeting_id": "1294523",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/26/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1304123",
+   "rin": "3084-AB88",
+   "meeting_datetime": "02/26/2026 11:30 AM",
+   "agency": "3084-FTC",
+   "rule_title": "Unfair or Deceptive Fees Trade Regulation Rule",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3084-AB88&meetingId=1304123&acronym=3084-FTC"
+  },
+  {
+   "meeting_id": "1296573",
+   "rin": "0938-AV44",
+   "meeting_datetime": "02/26/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Interoperability Standards and Prior Authorization for Drugs (CMS-0062)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV44&meetingId=1296573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1316573",
+   "rin": "3150-AK54",
+   "meeting_datetime": "02/26/2026 10:00 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Categorical Exclusions From Environmental Review [NRC-2018-0300]",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AK54&meetingId=1316573&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1309073",
+   "rin": "0970-AD34",
+   "meeting_datetime": "02/25/2026 03:00 PM",
+   "agency": "0970-HHS/ACF",
+   "rule_title": "Unaccompanied Alien Children Program Foundational Rule; Updates to Accord with the Hyde Amendment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0970-AD34&meetingId=1309073&acronym=0970-HHS/ACF"
+  },
+  {
+   "meeting_id": "1309173",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "02/25/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1309173&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1306523",
+   "rin": "1904-AF72",
+   "meeting_datetime": "02/25/2026 01:00 PM",
+   "agency": "1904-DOE/EE",
+   "rule_title": "Procedures, Interpretations, and Policies for Consideration in New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Commercial/Industrial Equipment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1904-AF72&meetingId=1306523&acronym=1904-DOE/EE"
+  },
+  {
+   "meeting_id": "1316623",
+   "rin": "3150-AK55",
+   "meeting_datetime": "02/25/2026 10:00 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors [NRC-2020-0101]",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AK55&meetingId=1316623&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1294723",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/23/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1284373",
+   "rin": "1904-AF72",
+   "meeting_datetime": "02/23/2026 01:00 PM",
+   "agency": "1904-DOE/EE",
+   "rule_title": "Procedures, Interpretations, and Policies for Consideration in New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Commercial/Industrial Equipment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1904-AF72&meetingId=1284373&acronym=1904-DOE/EE"
+  },
+  {
+   "meeting_id": "1294773",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "02/20/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1294773&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1299023",
+   "rin": "1205-AC30",
+   "meeting_datetime": "02/20/2026 02:00 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1299023&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1294673",
+   "rin": "2105-AF45",
+   "meeting_datetime": "02/19/2026 03:00 PM",
+   "agency": "2105-DOT/OST",
+   "rule_title": "Rescinding Portions of Department of Transportation's Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2105-AF45&meetingId=1294673&acronym=2105-DOT/OST"
+  },
+  {
+   "meeting_id": "1294623",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "02/19/2026 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1294623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1301573",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/19/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1301573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1294923",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/18/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1294473",
+   "rin": "1205-AC30",
+   "meeting_datetime": "02/18/2026 02:00 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1294473&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1294823",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/18/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294823&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1294873",
+   "rin": "0970-AD34",
+   "meeting_datetime": "02/17/2026 03:30 PM",
+   "agency": "0970-HHS/ACF",
+   "rule_title": "Unaccompanied Alien Children Program Foundational Rule; Updates to Accord with the Hyde Amendment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0970-AD34&meetingId=1294873&acronym=0970-HHS/ACF"
+  },
+  {
+   "meeting_id": "1294423",
+   "rin": "0970-AD34",
+   "meeting_datetime": "02/17/2026 03:00 PM",
+   "agency": "0970-HHS/ACF",
+   "rule_title": "Unaccompanied Alien Children Program Foundational Rule; Updates to Accord with the Hyde Amendment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0970-AD34&meetingId=1294423&acronym=0970-HHS/ACF"
+  },
+  {
+   "meeting_id": "1294573",
+   "rin": "1205-AC30",
+   "meeting_datetime": "02/17/2026 02:30 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1294573&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1294223",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/17/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294223&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1294373",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/17/2026 11:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294373&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1286623",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "02/13/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1286623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1294323",
+   "rin": "1205-AC30",
+   "meeting_datetime": "02/13/2026 10:30 AM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1294323&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1269273",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/12/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269273&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1286523",
+   "rin": "1235-AA46",
+   "meeting_datetime": "02/11/2026 03:30 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1286523&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1294123",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/11/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1284273",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/11/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1284273&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1284173",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/11/2026 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1284173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1251523",
+   "rin": "2060-AW68",
+   "meeting_datetime": "02/11/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=1251523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1294924",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "02/11/2026 10:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1294924&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1249024",
+   "rin": "2060-AW68",
+   "meeting_datetime": "02/10/2026 03:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=1249024&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1284123",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/10/2026 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1284123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1267173",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/10/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1267173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1294173",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/10/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294173&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1289073",
+   "rin": "1120-AB82",
+   "meeting_datetime": "02/10/2026 01:00 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1289073&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1281573",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/10/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1281573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1294273",
+   "rin": "1205-AC30",
+   "meeting_datetime": "02/10/2026 10:00 AM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Improving Wage Protections for H-1B and PERM Employment in the United States",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC30&meetingId=1294273&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1284423",
+   "rin": "1120-AB82",
+   "meeting_datetime": "02/09/2026 03:30 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1284423&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1291523",
+   "rin": "1120-AB82",
+   "meeting_datetime": "02/09/2026 03:00 PM",
+   "agency": "1120-DOJ/BOP",
+   "rule_title": "Clarification of National Standards to Prevent, Detect, and Respond to Prison Rape",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1120-AB82&meetingId=1291523&acronym=1120-DOJ/BOP"
+  },
+  {
+   "meeting_id": "1294073",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/09/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1294023",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/09/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1279173",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/09/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1279173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1279073",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/09/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1279073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1286673",
+   "rin": "1235-AA46",
+   "meeting_datetime": "02/09/2026 11:00 AM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1286673&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1269524",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/09/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269524&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1269923",
+   "rin": "1235-AA46",
+   "meeting_datetime": "02/06/2026 02:30 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1269923&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1276623",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/06/2026 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1276623&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1274123",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/06/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1274123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1284323",
+   "rin": "1235-AA46",
+   "meeting_datetime": "02/05/2026 01:00 PM",
+   "agency": "1235-DOL/WHD",
+   "rule_title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1235-AA46&meetingId=1284323&acronym=1235-DOL/WHD"
+  },
+  {
+   "meeting_id": "1274024",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/05/2026 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1274024&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1271573",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/05/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1271573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1276673",
+   "rin": "0910-ZC72",
+   "meeting_datetime": "02/04/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "General Considerations for the Use of New Approach Methodologies; Draft Guidance for Industry; Availability",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC72&meetingId=1276673&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1259324",
+   "rin": "2060-AW68",
+   "meeting_datetime": "02/04/2026 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Repeal of Amendments to National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW68&meetingId=1259324&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1269723",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/04/2026 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269723&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1289023",
+   "rin": "0938-AV44",
+   "meeting_datetime": "02/04/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Interoperability Standards and Prior Authorization for Drugs (CMS-0062)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV44&meetingId=1289023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1269773",
+   "rin": "2060-AW71",
+   "meeting_datetime": "02/04/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1269773&acronym=2060-EPA/OAR"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1319273",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/27/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1319273&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1304073",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/27/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1304073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1314023",
+   "rin": "1840-AD99",
+   "meeting_datetime": "02/27/2026 11:30 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "One Big Beautiful Bill Act: Pell Grants and Workforce Pell Grants",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD99&meetingId=1314023&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1316673",
+   "rin": "1840-AD99",
+   "meeting_datetime": "02/27/2026 11:00 AM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "One Big Beautiful Bill Act: Pell Grants and Workforce Pell Grants",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AD99&meetingId=1316673&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1319123",
+   "rin": "1601-AB22",
+   "meeting_datetime": "02/26/2026 03:30 PM",
+   "agency": "1601-DHS/OS",
+   "rule_title": "Rescinding Portions of DHS Title VI Regulations to Conform More Closely with the Statutory Text and to Implement Executive Order 14281",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1601-AB22&meetingId=1319123&acronym=1601-DHS/OS"
+  },
+  {
+   "meeting_id": "1319073",
+   "rin": "3037-AA24",
+   "meeting_datetime": "02/26/2026 02:00 PM",
+   "agency": "3037-CPBSD",
+   "rule_title": "Revise Central Nonprofit Agencies' Requirements to Charge Fees & Subcontracting in the AbilityOne Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3037-AA24&meetingId=1319073&acronym=3037-CPBSD"
+  },
+  {
+   "meeting_id": "1294523",
+   "rin": "0938-AV15",
+   "meeting_datetime": "02/26/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Independent Dispute Resolution Operations (CMS-9897)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV15&meetingId=1294523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1304123",
+   "rin": "3084-AB88",
+   "meeting_datetime": "02/26/2026 11:30 AM",
+   "agency": "3084-FTC",
+   "rule_title": "Unfair or Deceptive Fees Trade Regulation Rule",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3084-AB88&meetingId=1304123&acronym=3084-FTC"
+  },
+  {
+   "meeting_id": "1296573",
+   "rin": "0938-AV44",
+   "meeting_datetime": "02/26/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Interoperability Standards and Prior Authorization for Drugs (CMS-0062)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV44&meetingId=1296573&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1316573",
+   "rin": "3150-AK54",
+   "meeting_datetime": "02/26/2026 10:00 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Categorical Exclusions From Environmental Review [NRC-2018-0300]",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AK54&meetingId=1316573&acronym=3150-NRC"
+  }
+ ]
+}

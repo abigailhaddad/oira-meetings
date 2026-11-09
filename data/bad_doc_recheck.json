@@ -1,0 +1,44 @@
+[
+ {
+  "month": "2026-02",
+  "document_id": "1118292",
+  "meeting_id": "1319273",
+  "file_name": "2024-2-1 FINAL ASA Comment Letter - Operations - Batching Rule  CMS-9897-P.pdf",
+  "first_size": "0",
+  "first_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "second_status": 200,
+  "second_size": 0,
+  "second_content_length_header": null,
+  "second_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "identical": true,
+  "first_note": "unrecognised type no text layer (likely scanned/image-only); no OCR performed"
+ },
+ {
+  "month": "2026-02",
+  "document_id": "1118293",
+  "meeting_id": "1319273",
+  "file_name": "2023-12-21-ACEP and EDPMA idr-operations-comments.pdf",
+  "first_size": "0",
+  "first_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "second_status": 200,
+  "second_size": 0,
+  "second_content_length_header": null,
+  "second_sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "identical": true,
+  "first_note": "unrecognised type no text layer (likely scanned/image-only); no OCR performed"
+ },
+ {
+  "month": "2026-09",
+  "document_id": "1396392",
+  "meeting_id": "1520823",
+  "file_name": "UPF RFI CSPI Comment 2025_FINAL.pdf",
+  "first_size": "6291456",
+  "first_sha": "382032d5d7228116c49b460ed2e2f1241554202f16319730cfa80cdc7eddc237",
+  "second_status": 200,
+  "second_size": 6291456,
+  "second_content_length_header": null,
+  "second_sha": "382032d5d7228116c49b460ed2e2f1241554202f16319730cfa80cdc7eddc237",
+  "identical": true,
+  "first_note": "pdfinfo error: Syntax Error: Couldn't find trailer dictionary\nSyntax Error: Couldn't find trailer dictionary\nSyntax Error: Couldn't rea pdftotext erro"
+ }
+]

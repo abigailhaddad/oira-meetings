@@ -1,0 +1,450 @@
+{
+ "973242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Brief Response to Questions Posed During September 2 2025 OIRA Meeting.pdf\"",
+  "filename": "Brief Response to Questions Posed During September 2 2025 OIRA Meeting.pdf",
+  "size": 2794626,
+  "sha256": "bd39374d2741eacbea09f1a55804af1695d33b72d423ba60e52a1de8635fe914"
+ },
+ "973243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Exhibits 1-20 and Index.pdf\"",
+  "filename": "Exhibits 1-20 and Index.pdf",
+  "size": 24134230,
+  "sha256": "66ebaf2694b290e52117a432b2dae2f1a748985b8d6e8c7f3449e80e60b70ca8"
+ },
+ "973244": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Exhibits 21-40.pdf\"",
+  "filename": "Exhibits 21-40.pdf",
+  "size": 6157159,
+  "sha256": "bc0874bf9caa91dd3c8d58a3cf735c08a2cbe3ece43c76d847478f44ebc2800b"
+ },
+ "973245": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Exhibits 41-68.pdf\"",
+  "filename": "Exhibits 41-68.pdf",
+  "size": 20757504,
+  "sha256": "eb687a888228a52161a2d702cf7d0cdd4a0288b1d120e59e3b6bd632a4ed9f9c"
+ },
+ "975792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ARTBA WOTUS RFI COMMENTS 2025 (FINAL).pdf\"",
+  "filename": "ARTBA WOTUS RFI COMMENTS 2025 (FINAL).pdf",
+  "size": 327813,
+  "sha256": "a1293e08c2f66d47034f974ebc2aeaeaa080adfdadaa9f402720868dc540b2b6"
+ },
+ "975793": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"FINAL WAC recommendations_EPA-HQ-OW-2025-0093.pdf\"",
+  "filename": "FINAL WAC recommendations_EPA-HQ-OW-2025-0093.pdf",
+  "size": 327316,
+  "sha256": "a5ef4b63df7b6acd2eccd9dc32893c0d9a7ce588a755cb825b1dd61dc4852698"
+ },
+ "978242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Wetlands-and-Floodplain-Functions_FNL_01.09.23.pdf\"",
+  "filename": "Wetlands-and-Floodplain-Functions_FNL_01.09.23.pdf",
+  "size": 4132135,
+  "sha256": "7bf05f4d46eef7d1610fa183c64495d83af23e7dc762c98006c282a2561e9570"
+ },
+ "978243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"WhereRiversAreBorn_report.pdf\"",
+  "filename": "WhereRiversAreBorn_report.pdf",
+  "size": 2615891,
+  "sha256": "7a0b417f0454ccb55ad74b8c6f5e22e7227c817dde299e0360f7fe7a49e85605"
+ },
+ "980742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NSSGA Comments WOTUS Guidance FINAL.pdf\"",
+  "filename": "NSSGA Comments WOTUS Guidance FINAL.pdf",
+  "size": 369763,
+  "sha256": "076673c149b5754c33492bb7b28622806a9c3b4361f07e9184d7333461fdf83b"
+ },
+ "983292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PCMA Comments Prescription Drug MRF Requirement in TiC Final Rule RFI_July 2-2025.pdf\"",
+  "filename": "PCMA Comments Prescription Drug MRF Requirement in TiC Final Rule RFI_July 2-2025.pdf",
+  "size": 546978,
+  "sha256": "c293bd8f10dc26d2e4409294dede33e8bb575007250a3ead924b5a352f51bca5"
+ },
+ "983342": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"IIAR-OMB Mtg 9-12-2025 Slide & Notes.pdf\"",
+  "filename": "IIAR-OMB Mtg 9-12-2025 Slide & Notes.pdf",
+  "size": 475830,
+  "sha256": "b37e03c69fac77d6b0b8af78ae6547bdae4cf45128a1663d35fa7011b808e258"
+ },
+ "983343": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"IIAR-OMB Mtg 9-12-2025.pdf\"",
+  "filename": "IIAR-OMB Mtg 9-12-2025.pdf",
+  "size": 1456230,
+  "sha256": "9c565797cc148771b70ace49de32819c35f5d0030b7a3b1ba1f8f83517ce4d46"
+ },
+ "985942": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"221227Comments_TSCA8areporting_EPA.pdf\"",
+  "filename": "221227Comments_TSCA8areporting_EPA.pdf",
+  "size": 765564,
+  "sha256": "0967259b87609a8814e05f7baaa1e13328ce43843d6db4bd7dbbf5c71c69cbe6"
+ },
+ "985943": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"210927_TSCA_PFAS_Reporting_Final_CoalitionComments.pdf\"",
+  "filename": "210927_TSCA_PFAS_Reporting_Final_CoalitionComments.pdf",
+  "size": 711479,
+  "sha256": "07de429dc3d9c95d4daa038c29b4eead14f4b55290cd39e53e312829412d31c2"
+ },
+ "985944": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"250314USCC_Coalition_TSCA8a7extension_EPA.pdf\"",
+  "filename": "250314USCC_Coalition_TSCA8a7extension_EPA.pdf",
+  "size": 236400,
+  "sha256": "3719200597de5288743b817cfcb9d896ecfeb4c5c864a558bcb38edea6dbd6d3"
+ },
+ "985992": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"AFPM OMB Presentation on RFS and Reallocation Sept 15 2025.pdf\"",
+  "filename": "AFPM OMB Presentation on RFS and Reallocation Sept 15 2025.pdf",
+  "size": 844686,
+  "sha256": "4dcec5c21bb1b0c8634bee8f911f8ee9c4b3e7ae26ab36ddaa22bc0b4d29e25a"
+ },
+ "988342": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ORIA Meeting 091525.pdf\"",
+  "filename": "ORIA Meeting 091525.pdf",
+  "size": 202260,
+  "sha256": "afde8bdea7d6c62a13c1d0e4c5397200d6b7220378666e32080fae6446483036"
+ },
+ "988392": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CSPI_Healthy Retail Policy Recommendations_2023_FINAL.pdf\"",
+  "filename": "CSPI_Healthy Retail Policy Recommendations_2023_FINAL.pdf",
+  "size": 453855,
+  "sha256": "33fc612c88e0380838087ce0b9b1779f352d2dc25e66b49f2d2f97fb06585f02"
+ },
+ "988393": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"9.15.25_CSPI_Draft Leg Text_SNAP Stocking Standards.pdf\"",
+  "filename": "9.15.25_CSPI_Draft Leg Text_SNAP Stocking Standards.pdf",
+  "size": 208948,
+  "sha256": "39336aba3e4fc78f2074ee9cd6f5899b4e4f7a3eb4cd49d1f01d419414cae2be"
+ },
+ "990742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EXHIBIT B - 2024 ELG ZLD and Replacement Generation Costs 091625 - PPL.pdf\"",
+  "filename": "EXHIBIT B - 2024 ELG ZLD and Replacement Generation Costs 091625 - PPL.pdf",
+  "size": 69630,
+  "sha256": "b4fb952e827b25c02fc32c156170babe9b28dd7eb455c4c09c0f3c86234ec085"
+ },
+ "990743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EXHIBIT A - LG&E and KU Generation Map and Company Info - PPL.pdf\"",
+  "filename": "EXHIBIT A - LG&E and KU Generation Map and Company Info - PPL.pdf",
+  "size": 1838650,
+  "sha256": "19932ccfa045c964ccac686357f469013daf68315f2cf5c9cbf6576dc26bbd2f"
+ },
+ "993242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"fwqcwotuscomments042325.pdf\"",
+  "filename": "fwqcwotuscomments042325.pdf",
+  "size": 251106,
+  "sha256": "ba3ea2d4f3fafbffb92770aff6b2d3cb9eb2226b4c8be59c976ea2b17f2696c5"
+ },
+ "995742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"pfascoalitiontscacommentsfinal092721.pdf\"",
+  "filename": "pfascoalitiontscacommentsfinal092721.pdf",
+  "size": 256666,
+  "sha256": "f1f8ff44e189241aa0fdd432998891ecdede2f9239868f4a1de899d885b93f32"
+ },
+ "995842": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"BILLS-119hr5286ih.pdf\"",
+  "filename": "BILLS-119hr5286ih.pdf",
+  "size": 162786,
+  "sha256": "d03c73f5826248f609a620153bb4194d63cae377b108bada76d0c04279179aea"
+ },
+ "995843": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"VS Guidance 6002.1.pdf\"",
+  "filename": "VS Guidance 6002.1.pdf",
+  "size": 839359,
+  "sha256": "969d1dc914d159c91c49bd1c72e676b369e44e7c0cc1029439c0bcfdc360c12f"
+ },
+ "995844": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Final Report_28-hr-law.pdf\"",
+  "filename": "Final Report_28-hr-law.pdf",
+  "size": 2852248,
+  "sha256": "79c83222b221c07dd7a9cbd09a05ce3b3cbc2c9e15bf0447ee7054aa987e635f"
+ },
+ "998242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Lawyers for Civil Rights - E.O. 12866 Meeting on RIN 2529-AB09.pdf\"",
+  "filename": "Lawyers for Civil Rights - E.O. 12866 Meeting on RIN 2529-AB09.pdf",
+  "size": 157654,
+  "sha256": "33c92b226ac5f0e08c04dd3e0704d79c6d12725c5c6659f0b55701e44acb5f5a"
+ },
+ "1000742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025 6-26 prevailing wage deep dive.pdf\"",
+  "filename": "2025 6-26 prevailing wage deep dive.pdf",
+  "size": 551946,
+  "sha256": "bd42a77e9f8ebfe8fcf7938389162331ae26109a00bebe9a4449910ee92d13b5"
+ },
+ "1000743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025 9-19 NHC OIRA H-2A cost reform handout.pdf\"",
+  "filename": "2025 9-19 NHC OIRA H-2A cost reform handout.pdf",
+  "size": 295714,
+  "sha256": "dbcaead559329f608bed82fafcc3e993cab2f22a9ced1bfe49c452a4476eeaf6"
+ },
+ "1003242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ReMAcommentsonpfastscareportingrule.pdf\"",
+  "filename": "ReMAcommentsonpfastscareportingrule.pdf",
+  "size": 1926154,
+  "sha256": "9ac18beb6eff077f1bfdddb88b1178f7d91864229274fbdebb0d857523166a06"
+ },
+ "1003292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Assessment-of-Marylands-Need-for-EPF-and-Directional-Fiscal-Impacts-of-EPF_FINAL_2023.12.19-1.pdf\"",
+  "filename": "Assessment-of-Marylands-Need-for-EPF-and-Directional-Fiscal-Impacts-of-EPF_FINAL_2023.12.19-1.pdf",
+  "size": 745186,
+  "sha256": "b57e72a215f52103b963491b4dc821ae14e0c9d321b8c32a4e308297dbf15b6b"
+ },
+ "1003293": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"MEPFA-EPF-Policy-Analysis_v3.pdf\"",
+  "filename": "MEPFA-EPF-Policy-Analysis_v3.pdf",
+  "size": 2792870,
+  "sha256": "afb0f1e82ec67e21d63dfbc4b5709e22965e02e37b0d615b2b5b296a3826b020"
+ },
+ "1005742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Teche Vermilion - Order Entering Consent Judgment.pdf\"",
+  "filename": "Teche Vermilion - Order Entering Consent Judgment.pdf",
+  "size": 1135938,
+  "sha256": "125f49478b48a9861177b294687465b842c27430a98b40879c6fc2b80af00be2"
+ },
+ "1005743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025.9.23 EO 12866.pdf\"",
+  "filename": "2025.9.23 EO 12866.pdf",
+  "size": 621405,
+  "sha256": "2c953c8a7348dd71527387d531c6494172c9800d0c8454222ddcaaba7e5df1c8"
+ },
+ "1005744": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025.09.22 OEWS Limitations for H2A.pdf\"",
+  "filename": "2025.09.22 OEWS Limitations for H2A.pdf",
+  "size": 543655,
+  "sha256": "2336ea32b0105f62ea28e90524878801fee09ffe1f58b42f4103b4d77db0a50f"
+ },
+ "1005842": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025_02_03_Helion_Letter_NRC_Fusion_Proposed_Rule.pdf\"",
+  "filename": "2025_02_03_Helion_Letter_NRC_Fusion_Proposed_Rule.pdf",
+  "size": 5277283,
+  "sha256": "d4809bc3d4327416f1f05eb1070488c6e288fb056236ac8db155c5e9e6c6a172"
+ },
+ "1005843": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025_02_03_OAS_Letter_NRC_Fusion_Proposed_Rule.pdf\"",
+  "filename": "2025_02_03_OAS_Letter_NRC_Fusion_Proposed_Rule.pdf",
+  "size": 848869,
+  "sha256": "2f1626f73ccc692a577453846809ca03b4e7685c07ca0e5483ad43714fe394ef"
+ },
+ "1005844": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025_09_23_Helion_OIRA_Meeting_NRC_Fusion_Proposed_Rule.pdf\"",
+  "filename": "2025_09_23_Helion_OIRA_Meeting_NRC_Fusion_Proposed_Rule.pdf",
+  "size": 99820,
+  "sha256": "d4a7379ae96a65274bf98a422939da2f7b510c7629f86c98679683a0ada63567"
+ },
+ "1005845": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025_01_29_FIA_Letter_NRC_Fusion_Proposed_Rule.pdf\"",
+  "filename": "2025_01_29_FIA_Letter_NRC_Fusion_Proposed_Rule.pdf",
+  "size": 1407274,
+  "sha256": "82a510a06ac53f2122275e8ddb452eb6a746985ba15d6b0cf93a5b8d0c075059"
+ },
+ "1008242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Summary of Adverse Effect Memo FINAL.pdf\"",
+  "filename": "Summary of Adverse Effect Memo FINAL.pdf",
+  "size": 208112,
+  "sha256": "b3589f56a458e655e39258cef7b79d8a795ad8ebee1c2d14011f0c8f8af1b38a"
+ },
+ "1008243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Broken Baseline - AEWR One Pager.pdf\"",
+  "filename": "Broken Baseline - AEWR One Pager.pdf",
+  "size": 898067,
+  "sha256": "80199f628e4a91cdaf4c38cd36401f1b0d81ee7a7bf2ef23a6eada1fdd5ec1bd"
+ },
+ "1010742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"hei-special-report-23-executive-summary_1.pdf\"",
+  "filename": "hei-special-report-23-executive-summary_1.pdf",
+  "size": 2652187,
+  "sha256": "d37674c570569c1795cc341c8cc4fc2262bca45381c002bd44752c746a7f64a2"
+ },
+ "1013292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NEDS  OMB mtg 2025.pdf\"",
+  "filename": "NEDS  OMB mtg 2025.pdf",
+  "size": 837175,
+  "sha256": "e198a505773732fb585dda8fe0630449cf2e2dddfefbc8e94c58cdfb1f614c7f"
+ },
+ "1013293": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"AJT May 2025 OPO metrics.pdf\"",
+  "filename": "AJT May 2025 OPO metrics.pdf",
+  "size": 1605993,
+  "sha256": "ec4c2a2d5f30b90ccfdc3dd105bc77b8654e6ad0ff6939313e99fb3c67ea9f12"
+ },
+ "1013294": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Race-Adusting-OPO-Metrics-Miller-2024.pdf\"",
+  "filename": "Race-Adusting-OPO-Metrics-Miller-2024.pdf",
+  "size": 212581,
+  "sha256": "2ad59a7a48ab4bf04d8e7f0d727f4bfa6acb2a55d6e4012fb914204e7887c354"
+ },
+ "1013295": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"FragileCMS_AJT.pdf\"",
+  "filename": "FragileCMS_AJT.pdf",
+  "size": 205736,
+  "sha256": "ab724c0cc1d2e0af009b5dea11c5fe31bd2d307704c8ebeb1a6e40fce26cb6f9"
+ },
+ "1013296": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Kidney-Utilizations-and-Distressed-Area-Donors.pdf\"",
+  "filename": "Kidney-Utilizations-and-Distressed-Area-Donors.pdf",
+  "size": 2114164,
+  "sha256": "8e5d9118c28980cbcd45758c7915a4a3f27565a1c63c65a9df5c5ee3844b473f"
+ },
+ "1015742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"MECA_OMB_NHTSA_CAFE_NPRM_09292025.pdf\"",
+  "filename": "MECA_OMB_NHTSA_CAFE_NPRM_09292025.pdf",
+  "size": 2353960,
+  "sha256": "6aa5de59d4d4ee51d8e026a117821722b93b8424145bc12eb39b2a1101575e3e"
+ },
+ "1015743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"AG lawsuit against Trump admin re attempts to ban GAC.pdf\"",
+  "filename": "AG lawsuit against Trump admin re attempts to ban GAC.pdf",
+  "size": 623083,
+  "sha256": "2f7fabb6e9ccabddc831a04da03c3f583028458e4549dd75c4d13ff2d2b662db"
+ },
+ "1015744": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PFLAG v Trump - Declaration of Dr. Shumer.pdf\"",
+  "filename": "PFLAG v Trump - Declaration of Dr. Shumer.pdf",
+  "size": 681586,
+  "sha256": "6ebecbaaaf7dc40bd3af92009fe9b41eca60d41d476658a9200d320e60a5f99d"
+ },
+ "1015745": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"12866 Summary of Evidence for COP rule.pdf\"",
+  "filename": "12866 Summary of Evidence for COP rule.pdf",
+  "size": 206917,
+  "sha256": "e06ed1cb3009ab92e7eaa07308c50b4b21579717857decc6c654ed1a6e6fc2c9"
+ },
+ "1015746": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PFLAG v Trump - Declaration of Dr. Turban.pdf\"",
+  "filename": "PFLAG v Trump - Declaration of Dr. Turban.pdf",
+  "size": 658870,
+  "sha256": "61c8819f9aa99dde64086a493c86218cc893ba8ec6e4e422668716a1ef082135"
+ },
+ "1015747": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PFLAG v Trump - Declaration of Dr. Karasic.pdf\"",
+  "filename": "PFLAG v Trump - Declaration of Dr. Karasic.pdf",
+  "size": 685956,
+  "sha256": "25e2d4090f88a4ad158c38a0eec2e49d2a79ee67554271e0f17fdbf1645841f8"
+ },
+ "1015792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Tracking-the-State-of-U.S.-EV-Manufacturing.pdf\"",
+  "filename": "Tracking-the-State-of-U.S.-EV-Manufacturing.pdf",
+  "size": 1250191,
+  "sha256": "9769df16c200897a5ce8772a14576770901292fde8cd39562f68f8ba512a2157"
+ },
+ "1015793": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"VISUALIZING THE CLEAN ECONOMY_THE AUTOMOTIVE SECTOR (9_25).docx\"",
+  "filename": "VISUALIZING THE CLEAN ECONOMY_THE AUTOMOTIVE SECTOR (9_25).docx",
+  "size": 375233,
+  "sha256": "d5762cd863517cad7d405133f61344d3767a240c2079a5b010b04b554b0c43d8"
+ },
+ "1015794": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Supplying-Ingenuity-vFINAL-low-res.pdf\"",
+  "filename": "Supplying-Ingenuity-vFINAL-low-res.pdf",
+  "size": 1304658,
+  "sha256": "90c2e2fd1ab1b8b376c6ab7ca6a684e6670dc050862798968891682aba24f19b"
+ }
+}

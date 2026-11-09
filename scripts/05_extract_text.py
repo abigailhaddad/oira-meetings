@@ -22,7 +22,9 @@ def ooxml_text(path):
     return "\n".join(out), (n_slides or None)
 rows = []
 for d in listed:
-    did = d["document_id"]; info = dl[did]; path = f"{DL}/{did}.bin"
+    did = d["document_id"]; info = dl.get(did, {}); path = f"{DL}/{did}.bin"
+    if info.get("status") != 200:
+        rows.append(dict(meeting_id=d["meeting_id"], document_id=did, listed_title=d["title"], file_name="", file_name_source="", content_type="", file_cmd="", size_bytes="", sha256="", sha256_matches_download_log="", pages_or_slides="", text_chars=0, text_extracted="no", note=f"DOWNLOAD FAILED: {info.get('status')}")); continue
     kind = subprocess.run(["file", "-b", path], capture_output=True, text=True).stdout.strip()
     sha = hashlib.sha256(open(path, "rb").read()).hexdigest()
     rec = dict(meeting_id=d["meeting_id"], document_id=did, listed_title=d["title"], file_name=info["filename"] or "", file_name_source="Content-Disposition" if info["filename"] else "missing (no Content-Disposition; see listed_title)",
@@ -53,6 +55,6 @@ for d in listed:
         rec["note"] += " no text layer (likely scanned/image-only); no OCR performed"
     rows.append(rec)
 with open(f"{D}/../data/{TAG}_document_manifest.csv", "w", newline="") as f:
-    w = csv.DictWriter(f, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
+    w = csv.DictWriter(f, fieldnames=["meeting_id","document_id","listed_title","file_name","file_name_source","content_type","file_cmd","size_bytes","sha256","sha256_matches_download_log","pages_or_slides","text_chars","text_extracted","note"]); w.writeheader(); w.writerows(rows)
 import collections
 print(len(rows), "docs;", collections.Counter(r["text_extracted"] for r in rows), "hash mismatches:", sum(not r["sha256_matches_download_log"] for r in rows), "unique sha:", len({r['sha256'] for r in rows}))

@@ -1,0 +1,19 @@
+{
+ "tag": "2026-01",
+ "start": "01/01/2026",
+ "end": "01/31/2026",
+ "banner": 68,
+ "viewall_rows": 68,
+ "unique_ids": 68,
+ "meetings_fetched": 68,
+ "split_banner_sum": 68,
+ "split_union": 68,
+ "split_union_eq_month": true,
+ "docs_listed": 91,
+ "docs_downloaded_ok": 91,
+ "docs_failed": [],
+ "docs_no_text": [],
+ "bytes": 85657356,
+ "requests_this_month": 170,
+ "finished": "2026-11-08 19:06:21 EST"
+}

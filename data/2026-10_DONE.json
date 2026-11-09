@@ -1,0 +1,12 @@
+{
+ "tag": "2026-10",
+ "note": "prototype run; see FINDINGS.md",
+ "banner": 104,
+ "unique_ids": 104,
+ "split_banner_sum": 104,
+ "split_union_eq_month": true,
+ "docs_listed": 99,
+ "docs_downloaded_ok": 99,
+ "docs_failed": [],
+ "bytes": 108776189
+}

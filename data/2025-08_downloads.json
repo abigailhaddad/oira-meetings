@@ -1,0 +1,290 @@
+{
+ "943292": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"ZETA OMB Comment .docx\"",
+  "filename": "ZETA OMB Comment .docx",
+  "size": 21520,
+  "sha256": "93ca48ef41df064318d5d6606087666a972376b0e177d3dd50a961e60c2c96b2"
+ },
+ "943293": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"J3400 Market Development Update_071825.pdf\"",
+  "filename": "J3400 Market Development Update_071825.pdf",
+  "size": 202636,
+  "sha256": "4e5d24afdd957f806ade36d2cb90835ab954562eb97dcdb1e8bbc338f263ccd5"
+ },
+ "945792": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"ACAS Data elememts.docx\"",
+  "filename": "ACAS Data elememts.docx",
+  "size": 17916,
+  "sha256": "59e6727951bca92af55453a8a9f6d194156d0fb829225409bd8e4ef909167fd5"
+ },
+ "945892": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"A Merit-Centric Investment Model for Reforming the H-1B Visa Selection Process.pdf\"",
+  "filename": "A Merit-Centric Investment Model for Reforming the H-1B Visa Selection Process.pdf",
+  "size": 350382,
+  "sha256": "8cb06c119e7e87249b97dcaf4cb53b04ba1627898edb8c7018233bd18877c76d"
+ },
+ "945893": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"mcim_simple_v3.pdf\"",
+  "filename": "mcim_simple_v3.pdf",
+  "size": 359077,
+  "sha256": "7cae02753c0f3695457f77a2bdbba7114bda315ffe05189746ba8f049552bd94"
+ },
+ "948242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Combined Exhibits 1 through 20.pdf\"",
+  "filename": "Combined Exhibits 1 through 20.pdf",
+  "size": 20401562,
+  "sha256": "08fc7eeb1c171488ecc2ad5e3e7da5e41b62d9099ed5906ea4caef07c739e841"
+ },
+ "948243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Combined Exhibits 21 through 40.pdf\"",
+  "filename": "Combined Exhibits 21 through 40.pdf",
+  "size": 14084488,
+  "sha256": "13996f7115f3c5a0326e26f9b0c3deb9bdeb853067aae33209a49fa5fe45d911"
+ },
+ "948244": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Combined Exhibits 41 through 59.pdf\"",
+  "filename": "Combined Exhibits 41 through 59.pdf",
+  "size": 5487714,
+  "sha256": "767ff03f7b0bf1139f5bc073a8dc14f90a3399801de489b5252c96846fecca29"
+ },
+ "948245": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"! Index. List of Supporting Documents Submitted by State OAGs. OIRA meeting_.pdf\"",
+  "filename": "! Index. List of Supporting Documents Submitted by State OAGs. OIRA meeting_.pdf",
+  "size": 181417,
+  "sha256": "f550201cfffc817379b1e6500cf00ec1b9ad50b4d7cacab92464bfb79d9ce11c"
+ },
+ "950742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Final_PWD_Supporting_Documents_OIRA_Meeting_08_11_2025_compressed.pdf\"",
+  "filename": "Final_PWD_Supporting_Documents_OIRA_Meeting_08_11_2025_compressed.pdf",
+  "size": 8228505,
+  "sha256": "b9b465038eaafbac66287b57bda0dea1b973cfe0c72dd32e0867ccf29fa55c2c"
+ },
+ "953292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PFLAG v Trump - Declaration of Dr. Shumer.pdf\"",
+  "filename": "PFLAG v Trump - Declaration of Dr. Shumer.pdf",
+  "size": 681586,
+  "sha256": "6ebecbaaaf7dc40bd3af92009fe9b41eca60d41d476658a9200d320e60a5f99d"
+ },
+ "953293": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PFLAG v Trump - Declaration of Dr. Karasic.pdf\"",
+  "filename": "PFLAG v Trump - Declaration of Dr. Karasic.pdf",
+  "size": 685956,
+  "sha256": "25e2d4090f88a4ad158c38a0eec2e49d2a79ee67554271e0f17fdbf1645841f8"
+ },
+ "953294": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PFLAG v Trump - Declaration of Dr. Turban.pdf\"",
+  "filename": "PFLAG v Trump - Declaration of Dr. Turban.pdf",
+  "size": 658870,
+  "sha256": "61c8819f9aa99dde64086a493c86218cc893ba8ec6e4e422668716a1ef082135"
+ },
+ "953295": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Summary of research re Medicaid GAC proposed rule.pdf\"",
+  "filename": "Summary of research re Medicaid GAC proposed rule.pdf",
+  "size": 177197,
+  "sha256": "43a4d183c99551e321c6734c7e3fbb15fb6171e5296fdba46a809c5f26fa0558"
+ },
+ "953342": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Mixed-status_OIRA 12866_Followup.pdf\"",
+  "filename": "Mixed-status_OIRA 12866_Followup.pdf",
+  "size": 55705,
+  "sha256": "63b57de15dec7689e803f00937dfa1f7be1c0951a2f9d3ded7c2775e82a0fc06"
+ },
+ "955742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NACWA_OMB Call Attendees.pdf\"",
+  "filename": "NACWA_OMB Call Attendees.pdf",
+  "size": 12535,
+  "sha256": "9d860e7f5b816ac1a13340bccb502919c8b9796d3cd477ca45d43dc94df4555b"
+ },
+ "955743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NACWA Comments on Delaware River Federal WQS - RIN 2040-AG30.pdf\"",
+  "filename": "NACWA Comments on Delaware River Federal WQS - RIN 2040-AG30.pdf",
+  "size": 365766,
+  "sha256": "cfb53e7642ae0b748d0c2763fd7297366cb57734e2a9daaf8217d1bea53649ca"
+ },
+ "955792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CARB Supporting Materials to OMB re HD I-M - 8-13-25.pdf\"",
+  "filename": "CARB Supporting Materials to OMB re HD I-M - 8-13-25.pdf",
+  "size": 1172585,
+  "sha256": "c9541d304e51993feb2b5094523b648b9edc5ce5b5b57ecbb57fec600e96430e"
+ },
+ "955793": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CARB Letter to OMB re HD I-M - 8-13-25.pdf\"",
+  "filename": "CARB Letter to OMB re HD I-M - 8-13-25.pdf",
+  "size": 121066,
+  "sha256": "abb93355f6218b437b112a970506a52cf695af62f550d20363113f19d7e2f8d5"
+ },
+ "958242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"SEMI presentation on TTR to OMB Aug 18 2025 FINAL.pdf\"",
+  "filename": "SEMI presentation on TTR to OMB Aug 18 2025 FINAL.pdf",
+  "size": 140371,
+  "sha256": "eaf86c46bf7d7108d4af9ec7b020f6e41eb7ae05fd6b189eabd7eede363ec873"
+ },
+ "960742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025_Disparate Impact_NFHA LDF One Pager_FINAL.pdf\"",
+  "filename": "2025_Disparate Impact_NFHA LDF One Pager_FINAL.pdf",
+  "size": 179936,
+  "sha256": "1a4e044e2216d8b59f54a632ba87c7cf9b60ea49663b0633da5078e20cec5ce4"
+ },
+ "960743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"August 20 2025 Key Concerns With DE River DO Criteria.pdf\"",
+  "filename": "August 20 2025 Key Concerns With DE River DO Criteria.pdf",
+  "size": 133324,
+  "sha256": "e385ebf919e294a1e945e5a3d9c9b47e1e3e8c76f8a7749608db9702145f648d"
+ },
+ "960744": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"DELCORA Supporting Documents for August 20 2025 Call Regarding EPA DO Criteria for DE River.pdf\"",
+  "filename": "DELCORA Supporting Documents for August 20 2025 Call Regarding EPA DO Criteria for DE River.pdf",
+  "size": 9688653,
+  "sha256": "2fd48736f75819d97bb5d060004564364bc2b26ec259d90040ccb6afbecc43c9"
+ },
+ "963242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Letter to BOEM re financial assurances Aug 2025_final.pdf\"",
+  "filename": "Letter to BOEM re financial assurances Aug 2025_final.pdf",
+  "size": 225469,
+  "sha256": "2095b80a22d24960d2b18fd1bded81fb608f501b7ec593552bfe3a74aedf2463"
+ },
+ "965742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Pls. Compl. Open Cmtys. All. v. HUD.pdf\"",
+  "filename": "Pls. Compl. Open Cmtys. All. v. HUD.pdf",
+  "size": 332064,
+  "sha256": "b7345fa52b39fb0e8ac228297cf2eb2f652e041bda29ed12476e46427b513a28"
+ },
+ "965743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2018-08-15_ACLU_HUD_Disparate_Impact_Comment.pdf\"",
+  "filename": "2018-08-15_ACLU_HUD_Disparate_Impact_Comment.pdf",
+  "size": 348208,
+  "sha256": "03291b25d544b4742964655411ae0344c5cad946490ba90117b64bf8aca908be"
+ },
+ "965744": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ACLU Comment Letter on HUDs Implementation of the Fair Housing Acts Disparate Impact Standard (Oct. 17 2019).pdf\"",
+  "filename": "ACLU Comment Letter on HUDs Implementation of the Fair Housing Acts Disparate Impact Standard (Oct. 17 2019).pdf",
+  "size": 413890,
+  "sha256": "c19487a1e0514f0addc7610d61e5469546e580051c4aff6b302f8e71eb974c31"
+ },
+ "965745": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2021.8.23_ACLU_DI_Comment__1_.pdf\"",
+  "filename": "2021.8.23_ACLU_DI_Comment__1_.pdf",
+  "size": 356281,
+  "sha256": "577b31296e7ddf7db6b1986c447db847b96493d51d81e8fa8e672729b67c4310"
+ },
+ "968242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Brattle HFC report.pdf\"",
+  "filename": "Brattle HFC report.pdf",
+  "size": 880851,
+  "sha256": "bddcd3160ee2b451034174b79c060aa54bffde7c5345533cdf9f0d675251401d"
+ },
+ "968243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"FMI cost analysis_TT Rule_08252025.pdf\"",
+  "filename": "FMI cost analysis_TT Rule_08252025.pdf",
+  "size": 37203,
+  "sha256": "e07259ae02b64a3ceb42cb02fc8cdf40d7eb8fdacd8516f3af5cade86abcd230"
+ },
+ "968244": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Updated Brattle HFC report.pdf\"",
+  "filename": "Updated Brattle HFC report.pdf",
+  "size": 866833,
+  "sha256": "2741c9d8ea8e1b293a6330c8e49501979486350a7a234c4ba013aa88c0ba70f3"
+ },
+ "968245": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"impact statements Fair Wisconsin OIRA mtg 8.25.25.docx.pdf\"",
+  "filename": "impact statements Fair Wisconsin OIRA mtg 8.25.25.docx.pdf",
+  "size": 143933,
+  "sha256": "0bd3035c83c72a10276f55d24e19c28b09df3a3a8472551b9cda587ea8623400"
+ },
+ "968246": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Public Health Insurance Reducing Child Poverty.pdf\"",
+  "filename": "Public Health Insurance Reducing Child Poverty.pdf",
+  "size": 194761,
+  "sha256": "acd26894931e35a66c22d7c6cb9982feb87c8c4cb1c419a6de65386397650d6e"
+ },
+ "968247": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Care without Coverage Too Little Too Late.pdf\"",
+  "filename": "Care without Coverage Too Little Too Late.pdf",
+  "size": 4574419,
+  "sha256": "740346e8ec931805e0b73e77b49d15fb3846c72bb230fd2714f149375c5568fd"
+ },
+ "968248": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Mental Health Diagnoses and Suicidality Among Transgender Youth in Hospital Settings Meredithe McNamara.pdf\"",
+  "filename": "Mental Health Diagnoses and Suicidality Among Transgender Youth in Hospital Settings Meredithe McNamara.pdf",
+  "size": 606384,
+  "sha256": "c8e9a704143b2b9b72648838de4f516670d3e021dd410f8b3d143442007b73b7"
+ },
+ "970742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Essential-Chemistries-Economic-Benefits_-Part-2-Impact-on-Heating-Cooling-Building-Materials.pdf\"",
+  "filename": "Essential-Chemistries-Economic-Benefits_-Part-2-Impact-on-Heating-Cooling-Building-Materials.pdf",
+  "size": 7416088,
+  "sha256": "d693250f56a2ddce301d1d53e5f76b729fe96978665c30b2b90bb0c2a6366fd5"
+ }
+}

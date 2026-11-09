@@ -1,0 +1,978 @@
+{
+ "found_banner": 87,
+ "pulled": "2026-11-08 18:28:42 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1449373",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/30/2026 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1449373&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1462423",
+   "rin": "3060-AM48",
+   "meeting_datetime": "06/30/2026 02:00 PM",
+   "agency": "3060-FCC",
+   "rule_title": "Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3060-AM48&meetingId=1462423&acronym=3060-FCC"
+  },
+  {
+   "meeting_id": "1432073",
+   "rin": "3150-AL44",
+   "meeting_datetime": "06/30/2026 11:30 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Modernizing Reactor Licensing, Safety Oversight, and Siting Practices [NRC-2025-0975]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL44&meetingId=1432073&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1457024",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/30/2026 10:30 AM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1457024&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1436973",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/29/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1436973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1449423",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/29/2026 01:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1449423&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1449473",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/29/2026 11:00 AM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1449473&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1434573",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/26/2026 02:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1434573&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1457123",
+   "rin": "1840-AE06",
+   "meeting_datetime": "06/26/2026 01:30 PM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Accountability",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AE06&meetingId=1457123&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1457073",
+   "rin": "1840-AE06",
+   "meeting_datetime": "06/26/2026 01:00 PM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Accountability",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AE06&meetingId=1457073&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1439373",
+   "rin": "3150-AL47",
+   "meeting_datetime": "06/26/2026 11:30 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Reforming and Modernizing the NRC's Radiation Protection Framework [NRC-2025-1140]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL47&meetingId=1439373&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1446873",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/26/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1446873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1459473",
+   "rin": "0938-AV82",
+   "meeting_datetime": "06/25/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1459473&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1434673",
+   "rin": "3150-AL38",
+   "meeting_datetime": "06/25/2026 01:00 PM",
+   "agency": "3150-NRC",
+   "rule_title": "Implementation of the National Environmental Policy Act [NRC-2025-0478]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL38&meetingId=1434673&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1429723",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/25/2026 11:30 AM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1429723&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1437023",
+   "rin": "0938-AV83",
+   "meeting_datetime": "06/24/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1437023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1426873",
+   "rin": "0938-AV83",
+   "meeting_datetime": "06/24/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates (CMS-1850)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV83&meetingId=1426873&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1434923",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/23/2026 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1434923&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1441923",
+   "rin": "1210-AC35",
+   "meeting_datetime": "06/23/2026 03:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Default Electronic Disclosures by Group Health Plans Under ERISA",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AC35&meetingId=1441923&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1451923",
+   "rin": "0938-AV82",
+   "meeting_datetime": "06/23/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1451923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1434473",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/23/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1434473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1439473",
+   "rin": "2529-AB09",
+   "meeting_datetime": "06/23/2026 01:00 PM",
+   "agency": "2529-HUD/FHEO",
+   "rule_title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard (FR-6540)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2529-AB09&meetingId=1439473&acronym=2529-HUD/FHEO"
+  },
+  {
+   "meeting_id": "1434523",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/23/2026 11:30 AM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1434523&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1444373",
+   "rin": "0938-AV82",
+   "meeting_datetime": "06/22/2026 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1444373&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1429473",
+   "rin": "1018-BI14",
+   "meeting_datetime": "06/22/2026 01:00 PM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Endangered and Threatened Wildlife and Plants; Revision of Listed Entity for the Grizzly Bear",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BI14&meetingId=1429473&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1427073",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/22/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1427073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1432123",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/22/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1432123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1431923",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/18/2026 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1431923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1424923",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/18/2026 12:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1424923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1431973",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/18/2026 11:00 AM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1431973&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1432023",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/18/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1432023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1434373",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/17/2026 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1434373&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1429673",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/17/2026 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1429673&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1429423",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/17/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1429423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1417573",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/17/2026 02:00 PM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1417573&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1434423",
+   "rin": "0938-AV82",
+   "meeting_datetime": "06/17/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "CY 2027 Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Medicare Part B (CMS-1848)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV82&meetingId=1434423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1422073",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/17/2026 10:00 AM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1422073&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1426973",
+   "rin": "0910-AH59",
+   "meeting_datetime": "06/16/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Establishment Registration and Product Listing for Tobacco Products",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AH59&meetingId=1426973&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1426923",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/16/2026 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1426923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1419423",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/16/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1419423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1417523",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/16/2026 02:00 PM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1417523&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1417473",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/16/2026 01:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1417473&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1427023",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/16/2026 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1427023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1421923",
+   "rin": "3150-AL47",
+   "meeting_datetime": "06/16/2026 11:00 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Reforming and Modernizing the NRC's Radiation Protection Framework [NRC-2025-1140]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL47&meetingId=1421923&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1412273",
+   "rin": "2529-AB09",
+   "meeting_datetime": "06/16/2026 10:30 AM",
+   "agency": "2529-HUD/FHEO",
+   "rule_title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard (FR-6540)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2529-AB09&meetingId=1412273&acronym=2529-HUD/FHEO"
+  },
+  {
+   "meeting_id": "1429373",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/15/2026 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1429373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1419523",
+   "rin": "3060-AM01",
+   "meeting_datetime": "06/15/2026 01:30 PM",
+   "agency": "3060-FCC",
+   "rule_title": "Promoting the Development of Positioning, Navigation, and Timing Technologies and Solutions, WT Docket No. 25-110",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3060-AM01&meetingId=1419523&acronym=3060-FCC"
+  },
+  {
+   "meeting_id": "1419473",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/15/2026 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1419473&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1409424",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/15/2026 11:00 AM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1409424&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1424623",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/15/2026 10:30 AM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1424623&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1429523",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/12/2026 02:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1429523&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1434623",
+   "rin": "3150-AL47",
+   "meeting_datetime": "06/12/2026 01:00 PM",
+   "agency": "3150-NRC",
+   "rule_title": "Reforming and Modernizing the NRC's Radiation Protection Framework [NRC-2025-1140]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL47&meetingId=1434623&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1425023",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/12/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1425023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1426974",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/12/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1426974&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1424723",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/11/2026 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1424723&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1424373",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/11/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1424373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1421873",
+   "rin": "2137-AF44",
+   "meeting_datetime": "06/10/2026 02:30 PM",
+   "agency": "2137-DOT/PHMSA",
+   "rule_title": "Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2137-AF44&meetingId=1421873&acronym=2137-DOT/PHMSA"
+  },
+  {
+   "meeting_id": "1417423",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/10/2026 02:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1417423&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1429573",
+   "rin": "3060-AM20",
+   "meeting_datetime": "06/10/2026 01:30 PM",
+   "agency": "3060-FCC",
+   "rule_title": "Upper C-band (3.98\u20134.2 GHz) (GN Docket No. 25-59)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3060-AM20&meetingId=1429573&acronym=3060-FCC"
+  },
+  {
+   "meeting_id": "1424973",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/10/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1424973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1416973",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/09/2026 03:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1416973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1424673",
+   "rin": "0938-AV70",
+   "meeting_datetime": "06/09/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Strengthening the Integrity of Medicaid and CHIP Managed Care, Financing, and Access to Care (CMS-2450)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV70&meetingId=1424673&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1414473",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/09/2026 02:30 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1414473&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1409623",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/09/2026 02:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1409623&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1422023",
+   "rin": "3046-AB37",
+   "meeting_datetime": "06/09/2026 01:30 PM",
+   "agency": "3046-EEOC",
+   "rule_title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3046-AB37&meetingId=1422023&acronym=3046-EEOC"
+  },
+  {
+   "meeting_id": "1417324",
+   "rin": "3046-AB37",
+   "meeting_datetime": "06/09/2026 01:00 PM",
+   "agency": "3046-EEOC",
+   "rule_title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3046-AB37&meetingId=1417324&acronym=3046-EEOC"
+  },
+  {
+   "meeting_id": "1417023",
+   "rin": "1240-AA16",
+   "meeting_datetime": "06/08/2026 03:00 PM",
+   "agency": "1240-DOL/OWCP",
+   "rule_title": "Black Lung Benefits Act: Authorization of Self Insurers",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1240-AA16&meetingId=1417023&acronym=1240-DOL/OWCP"
+  },
+  {
+   "meeting_id": "1416873",
+   "rin": "0970-AD34",
+   "meeting_datetime": "06/08/2026 02:30 PM",
+   "agency": "0970-HHS/ACF",
+   "rule_title": "Unaccompanied Alien Children Program Foundational Rule; Updates to Accord with the Hyde Amendment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0970-AD34&meetingId=1416873&acronym=0970-HHS/ACF"
+  },
+  {
+   "meeting_id": "1424523",
+   "rin": "3060-AM01",
+   "meeting_datetime": "06/08/2026 02:00 PM",
+   "agency": "3060-FCC",
+   "rule_title": "Promoting the Development of Positioning, Navigation, and Timing Technologies and Solutions, WT Docket No. 25-110",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3060-AM01&meetingId=1424523&acronym=3060-FCC"
+  },
+  {
+   "meeting_id": "1417323",
+   "rin": "2127-AN00",
+   "meeting_datetime": "06/08/2026 01:30 PM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Modernization of Federal Motor Vehicle Safety Standard (FMVSS) No. 135 to Accommodate ADS-Equipped Vehicles",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-AN00&meetingId=1417323&acronym=2127-DOT/NHTSA"
+  },
+  {
+   "meeting_id": "1417325",
+   "rin": "3046-AB37",
+   "meeting_datetime": "06/08/2026 11:00 AM",
+   "agency": "3046-EEOC",
+   "rule_title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3046-AB37&meetingId=1417325&acronym=3046-EEOC"
+  },
+  {
+   "meeting_id": "1417273",
+   "rin": "3046-AB37",
+   "meeting_datetime": "06/08/2026 10:30 AM",
+   "agency": "3046-EEOC",
+   "rule_title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3046-AB37&meetingId=1417273&acronym=3046-EEOC"
+  },
+  {
+   "meeting_id": "1409573",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/05/2026 01:30 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1409573&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1417373",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/05/2026 11:00 AM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1417373&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1417123",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/05/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1417123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1411873",
+   "rin": "0938-AV70",
+   "meeting_datetime": "06/05/2026 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Strengthening the Integrity of Medicaid and CHIP Managed Care, Financing, and Access to Care (CMS-2450)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV70&meetingId=1411873&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1414623",
+   "rin": "3046-AB37",
+   "meeting_datetime": "06/04/2026 03:00 PM",
+   "agency": "3046-EEOC",
+   "rule_title": "Rescission of EEO-1, EEO-2, EEO-3, EEO-4. EEO-5, And Reporting Requirement Under Title VII, the ADA, GINA, and the PWFA",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3046-AB37&meetingId=1414623&acronym=3046-EEOC"
+  },
+  {
+   "meeting_id": "1417173",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/04/2026 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1417173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1412223",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/04/2026 10:00 AM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1412223&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1409473",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/03/2026 02:00 PM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1409473&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1409423",
+   "rin": "0970-AD34",
+   "meeting_datetime": "06/03/2026 01:00 PM",
+   "agency": "0970-HHS/ACF",
+   "rule_title": "Unaccompanied Alien Children Program Foundational Rule; Updates to Accord with the Hyde Amendment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0970-AD34&meetingId=1409423&acronym=0970-HHS/ACF"
+  },
+  {
+   "meeting_id": "1416923",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/03/2026 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1416923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1414673",
+   "rin": "2060-AW55",
+   "meeting_datetime": "06/02/2026 03:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Carbon Pollution Standards Repeal",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW55&meetingId=1414673&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1409773",
+   "rin": "1018-BI14",
+   "meeting_datetime": "06/02/2026 03:00 PM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Endangered and Threatened Wildlife and Plants; Revision of Listed Entity for the Grizzly Bear",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BI14&meetingId=1409773&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1412073",
+   "rin": "1219-AC22",
+   "meeting_datetime": "06/02/2026 02:00 PM",
+   "agency": "1219-DOL/MSHA",
+   "rule_title": "Respirable Crystalline Silica",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1219-AC22&meetingId=1412073&acronym=1219-DOL/MSHA"
+  },
+  {
+   "meeting_id": "1417223",
+   "rin": "1653-AA95",
+   "meeting_datetime": "06/02/2026 10:30 AM",
+   "agency": "1653-DHS/USICE",
+   "rule_title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1653-AA95&meetingId=1417223&acronym=1653-DHS/USICE"
+  },
+  {
+   "meeting_id": "1409823",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "06/01/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1409823&acronym=0910-HHS/FDA"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1449373",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/30/2026 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1449373&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1462423",
+   "rin": "3060-AM48",
+   "meeting_datetime": "06/30/2026 02:00 PM",
+   "agency": "3060-FCC",
+   "rule_title": "Amendment of Section 73.3555(e) of the Commission's Rules, National Television Multiple Ownership Rule; MB Docket No. 17-318",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3060-AM48&meetingId=1462423&acronym=3060-FCC"
+  },
+  {
+   "meeting_id": "1432073",
+   "rin": "3150-AL44",
+   "meeting_datetime": "06/30/2026 11:30 AM",
+   "agency": "3150-NRC",
+   "rule_title": "Modernizing Reactor Licensing, Safety Oversight, and Siting Practices [NRC-2025-0975]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL44&meetingId=1432073&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1457024",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/30/2026 10:30 AM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1457024&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1436973",
+   "rin": "2060-AW83",
+   "meeting_datetime": "06/29/2026 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Amendments to the Model Year 2027 and Later Heavy-Duty Highway Engine Criteria Pollutant Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW83&meetingId=1436973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1449423",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/29/2026 01:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1449423&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1449473",
+   "rin": "0906-ZA23",
+   "meeting_datetime": "06/29/2026 11:00 AM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "Notice Regarding 340B Rebate Model Pilot Program",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA23&meetingId=1449473&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1434573",
+   "rin": "0596-AD66",
+   "meeting_datetime": "06/26/2026 02:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1434573&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1457123",
+   "rin": "1840-AE06",
+   "meeting_datetime": "06/26/2026 01:30 PM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Accountability",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AE06&meetingId=1457123&acronym=1840-ED/OPE"
+  },
+  {
+   "meeting_id": "1457073",
+   "rin": "1840-AE06",
+   "meeting_datetime": "06/26/2026 01:00 PM",
+   "agency": "1840-ED/OPE",
+   "rule_title": "Accountability",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1840-AE06&meetingId=1457073&acronym=1840-ED/OPE"
+  }
+ ]
+}

@@ -1,0 +1,638 @@
+{
+ "found_banner": 53,
+ "pulled": "2026-11-08 19:06:23 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1231573",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/19/2025 11:00 AM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1231573&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1224123",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/18/2025 03:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1224123&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1221523",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/18/2025 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1221523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1221573",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/18/2025 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1221573&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1214173",
+   "rin": "9000-AO77",
+   "meeting_datetime": "12/17/2025 02:30 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=1214173&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "1151623",
+   "rin": "0938-AU54",
+   "meeting_datetime": "12/17/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Amendments to Rules Governing Organ Procurement Organizations (CMS-3409)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AU54&meetingId=1151623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1216573",
+   "rin": "0945-AA27",
+   "meeting_datetime": "12/17/2025 01:00 PM",
+   "agency": "0945-HHS/OCR",
+   "rule_title": "Clarifying Statutory Limitation on Disability as it Applies to Gender Identity and Dysphoria in Nondiscrimination in Programs and Activities Receiving Federal Financial Assistance",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0945-AA27&meetingId=1216573&acronym=0945-HHS/OCR"
+  },
+  {
+   "meeting_id": "1214223",
+   "rin": "1004-AF05",
+   "meeting_datetime": "12/17/2025 01:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Oil and Gas Leasing Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF05&meetingId=1214223&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1216523",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/17/2025 11:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1216523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1194173",
+   "rin": "0583-AE01",
+   "meeting_datetime": "12/17/2025 10:00 AM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE01&meetingId=1194173&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1229223",
+   "rin": "0583-AE02",
+   "meeting_datetime": "12/17/2025 10:00 AM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed under the New Swine Slaughter Inspection System (NSIS)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE02&meetingId=1229223&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1141673",
+   "rin": "0938-AV87",
+   "meeting_datetime": "12/16/2025 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare and Medicaid Programs; Hospital Condition of Participation: Limiting Participation Based on the Performance of Sex Trait Modification Procedures on Children.",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV87&meetingId=1141673&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1154273",
+   "rin": "0938-AV87",
+   "meeting_datetime": "12/16/2025 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicare and Medicaid Programs; Hospital Condition of Participation: Limiting Participation Based on the Performance of Sex Trait Modification Procedures on Children.",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV87&meetingId=1154273&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1219123",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/16/2025 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1219123&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1206523",
+   "rin": "1004-AF05",
+   "meeting_datetime": "12/16/2025 10:30 AM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Oil and Gas Leasing Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF05&meetingId=1206523&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1229023",
+   "rin": "0583-AE02",
+   "meeting_datetime": "12/16/2025 10:00 AM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed under the New Swine Slaughter Inspection System (NSIS)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE02&meetingId=1229023&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1199023",
+   "rin": "0583-AE01",
+   "meeting_datetime": "12/15/2025 03:00 PM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE01&meetingId=1199023&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1199024",
+   "rin": "0583-AE02",
+   "meeting_datetime": "12/15/2025 03:00 PM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed under the New Swine Slaughter Inspection System (NSIS)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE02&meetingId=1199024&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1154173",
+   "rin": "2050-AH41",
+   "meeting_datetime": "12/15/2025 01:30 PM",
+   "agency": "2050-EPA/OLEM",
+   "rule_title": "Clean Water Act Hazardous Substance Facility Response Plans; Amendment Reconsideration",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2050-AH41&meetingId=1154173&acronym=2050-EPA/OLEM"
+  },
+  {
+   "meeting_id": "1211523",
+   "rin": "0938-AV62",
+   "meeting_datetime": "12/15/2025 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "HHS Notice of Benefit and Payment Parameters for 2027 (CMS-9883)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV62&meetingId=1211523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1216673",
+   "rin": "2040-AG47",
+   "meeting_datetime": "12/15/2025 11:00 AM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Clean Water Act Section 401 Water Quality Certification Improvement Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG47&meetingId=1216673&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1224023",
+   "rin": "0938-AU54",
+   "meeting_datetime": "12/15/2025 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Amendments to Rules Governing Organ Procurement Organizations (CMS-3409)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AU54&meetingId=1224023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1179123",
+   "rin": "2040-AG36",
+   "meeting_datetime": "12/12/2025 11:00 AM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "National Primary Drinking Water Regulation for Perchlorate",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG36&meetingId=1179123&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1102723",
+   "rin": "0938-AV73",
+   "meeting_datetime": "12/12/2025 10:30 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicaid Program; Prohibition on Federal Medicaid Funding for Sex Trait Modification Procedures Furnished to Children and Youth (CMS-2451)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV73&meetingId=1102723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1191723",
+   "rin": "0583-AE01",
+   "meeting_datetime": "12/12/2025 10:00 AM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE01&meetingId=1191723&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1144023",
+   "rin": "2050-AH37",
+   "meeting_datetime": "12/11/2025 03:00 PM",
+   "agency": "2050-EPA/OLEM",
+   "rule_title": "Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2050-AH37&meetingId=1144023&acronym=2050-EPA/OLEM"
+  },
+  {
+   "meeting_id": "1219073",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/11/2025 01:30 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1219073&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1224073",
+   "rin": "2040-AG47",
+   "meeting_datetime": "12/11/2025 01:00 PM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Clean Water Act Section 401 Water Quality Certification Improvement Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG47&meetingId=1224073&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1191623",
+   "rin": "0583-AE02",
+   "meeting_datetime": "12/11/2025 11:00 AM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed under the New Swine Slaughter Inspection System (NSIS)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE02&meetingId=1191623&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1196573",
+   "rin": "0583-AE01",
+   "meeting_datetime": "12/10/2025 02:00 PM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE01&meetingId=1196573&acronym=0583-USDA/FSIS"
+  },
+  {
+   "meeting_id": "1136574",
+   "rin": "0938-AV72",
+   "meeting_datetime": "12/10/2025 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Ensuring Safety through Domestic Security with Made in America Personal Protective Equipment (PPE) and Essential Medicine Procurement by Medicare Providers and Suppliers (CMS-1516)",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV72&meetingId=1136574&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1149073",
+   "rin": "0938-AV72",
+   "meeting_datetime": "12/10/2025 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Ensuring Safety through Domestic Security with Made in America Personal Protective Equipment (PPE) and Essential Medicine Procurement by Medicare Providers and Suppliers (CMS-1516)",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV72&meetingId=1149073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1209123",
+   "rin": "1210-AB37",
+   "meeting_datetime": "12/09/2025 03:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1209123&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1201524",
+   "rin": "0938-AV73",
+   "meeting_datetime": "12/09/2025 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Medicaid Program; Prohibition on Federal Medicaid Funding for Sex Trait Modification Procedures Furnished to Children and Youth (CMS-2451)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV73&meetingId=1201524&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1209173",
+   "rin": "1210-AB37",
+   "meeting_datetime": "12/09/2025 02:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1209173&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1219023",
+   "rin": "0694-AK30",
+   "meeting_datetime": "12/09/2025 01:30 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Streamlining Export Controls for Drone Exports",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AK30&meetingId=1219023&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1159323",
+   "rin": "2501-AE14",
+   "meeting_datetime": "12/09/2025 01:30 PM",
+   "agency": "2501-HUD/HUDSEC",
+   "rule_title": "Revocation of the 30-Day Notification Requirement Prior to Termination of Lease for Nonpayment of Rent (FR-6529)",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2501-AE14&meetingId=1159323&acronym=2501-HUD/HUDSEC"
+  },
+  {
+   "meeting_id": "1219024",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/09/2025 01:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1219024&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1161523",
+   "rin": "1004-AF41",
+   "meeting_datetime": "12/08/2025 03:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Revisions to Regulations Regarding Oil and Gas Leasing; Fees, Rentals, and Royalties",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF41&meetingId=1161523&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1141573",
+   "rin": "0605-AA70",
+   "meeting_datetime": "12/08/2025 02:00 PM",
+   "agency": "0605-DOC/ADMIN",
+   "rule_title": "Rescinding Portions of Department of Commerce Title VI Regulations to Conform More Closely With the Statutory Text and to Implement Executive Order 14281",
+   "stage": "Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0605-AA70&meetingId=1141573&acronym=0605-DOC/ADMIN"
+  },
+  {
+   "meeting_id": "1164023",
+   "rin": "2127-AL37",
+   "meeting_datetime": "12/08/2025 01:00 PM",
+   "agency": "2127-DOT/NHTSA",
+   "rule_title": "Rear Seat Belt Reminder System",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2127-AL37&meetingId=1164023&acronym=2127-DOT/NHTSA"
+  },
+  {
+   "meeting_id": "1154073",
+   "rin": "0955-AA09",
+   "meeting_datetime": "12/04/2025 03:30 PM",
+   "agency": "0955-HHS/ASTP/ONC",
+   "rule_title": "Health Data, Technology, and Interoperability: ASTP/ONC Deregulatory Actions to Unleash Prosperity",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0955-AA09&meetingId=1154073&acronym=0955-HHS/ASTP/ONC"
+  },
+  {
+   "meeting_id": "1129323",
+   "rin": "0938-AV72",
+   "meeting_datetime": "12/04/2025 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Ensuring Safety through Domestic Security with Made in America Personal Protective Equipment (PPE) and Essential Medicine Procurement by Medicare Providers and Suppliers (CMS-1516)",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV72&meetingId=1129323&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1191523",
+   "rin": "0938-AV62",
+   "meeting_datetime": "12/03/2025 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "HHS Notice of Benefit and Payment Parameters for 2027 (CMS-9883)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV62&meetingId=1191523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1179023",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/03/2025 02:30 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1179023&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1129173",
+   "rin": "0938-AV72",
+   "meeting_datetime": "12/03/2025 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Ensuring Safety through Domestic Security with Made in America Personal Protective Equipment (PPE) and Essential Medicine Procurement by Medicare Providers and Suppliers (CMS-1516)",
+   "stage": "Prerule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV72&meetingId=1129173&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1129273",
+   "rin": "2050-AH38",
+   "meeting_datetime": "12/02/2025 03:00 PM",
+   "agency": "2050-EPA/OLEM",
+   "rule_title": "Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes to Reflect Administration Policy",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2050-AH38&meetingId=1129273&acronym=2050-EPA/OLEM"
+  },
+  {
+   "meeting_id": "1181623",
+   "rin": "1210-AB37",
+   "meeting_datetime": "12/02/2025 02:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1181623&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1154223",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/02/2025 01:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1154223&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1131624",
+   "rin": "9000-AO77",
+   "meeting_datetime": "12/02/2025 11:00 AM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=1131624&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "1131573",
+   "rin": "1210-AB37",
+   "meeting_datetime": "12/01/2025 03:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1131573&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1164073",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/01/2025 01:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1164073&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1124373",
+   "rin": "1010-AE26",
+   "meeting_datetime": "12/01/2025 11:00 AM",
+   "agency": "1010-DOI/BOEM",
+   "rule_title": "Risk Management and Financial Assurance for Outer Continental Shelf Lease and Grant Obligations",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1010-AE26&meetingId=1124373&acronym=1010-DOI/BOEM"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1231573",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/19/2025 11:00 AM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1231573&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1224123",
+   "rin": "0694-AJ72",
+   "meeting_datetime": "12/18/2025 03:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AJ72&meetingId=1224123&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "1221523",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/18/2025 01:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1221523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1221573",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/18/2025 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1221573&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1214173",
+   "rin": "9000-AO77",
+   "meeting_datetime": "12/17/2025 02:30 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=1214173&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "1151623",
+   "rin": "0938-AU54",
+   "meeting_datetime": "12/17/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Amendments to Rules Governing Organ Procurement Organizations (CMS-3409)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AU54&meetingId=1151623&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1216573",
+   "rin": "0945-AA27",
+   "meeting_datetime": "12/17/2025 01:00 PM",
+   "agency": "0945-HHS/OCR",
+   "rule_title": "Clarifying Statutory Limitation on Disability as it Applies to Gender Identity and Dysphoria in Nondiscrimination in Programs and Activities Receiving Federal Financial Assistance",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0945-AA27&meetingId=1216573&acronym=0945-HHS/OCR"
+  },
+  {
+   "meeting_id": "1214223",
+   "rin": "1004-AF05",
+   "meeting_datetime": "12/17/2025 01:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Oil and Gas Leasing Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF05&meetingId=1214223&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1216523",
+   "rin": "0910-AJ02",
+   "meeting_datetime": "12/17/2025 11:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Substances Generally Recognized as Safe",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ02&meetingId=1216523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1194173",
+   "rin": "0583-AE01",
+   "meeting_datetime": "12/17/2025 10:00 AM",
+   "agency": "0583-USDA/FSIS",
+   "rule_title": "Maximum Line Speed Rates for Young Chicken and Turkey Establishments Operating Under the New Poultry Inspection System",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0583-AE01&meetingId=1194173&acronym=0583-USDA/FSIS"
+  }
+ ]
+}

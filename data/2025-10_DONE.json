@@ -1,0 +1,19 @@
+{
+ "tag": "2025-10",
+ "start": "10/01/2025",
+ "end": "10/31/2025",
+ "banner": 0,
+ "viewall_rows": 0,
+ "unique_ids": 0,
+ "meetings_fetched": 0,
+ "split_banner_sum": 0,
+ "split_union": 0,
+ "split_union_eq_month": true,
+ "docs_listed": 0,
+ "docs_downloaded_ok": 0,
+ "docs_failed": [],
+ "docs_no_text": [],
+ "bytes": 0,
+ "requests_this_month": 6,
+ "finished": "2026-11-08 19:12:20 EST"
+}

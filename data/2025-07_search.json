@@ -1,0 +1,858 @@
+{
+ "found_banner": 75,
+ "pulled": "2026-11-08 19:21:43 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1033873",
+   "rin": "2125-ZA30",
+   "meeting_datetime": "07/31/2025 03:30 PM",
+   "agency": "2125-DOT/FHWA",
+   "rule_title": "National Electric Vehicle Infrastructure Formula Program Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2125-ZA30&meetingId=1033873&acronym=2125-DOT/FHWA"
+  },
+  {
+   "meeting_id": "1048873",
+   "rin": "2060-AW76",
+   "meeting_datetime": "07/31/2025 12:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of the Greenhouse Gas Reporting Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW76&meetingId=1048873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1036624",
+   "rin": "0584-AF12",
+   "meeting_datetime": "07/29/2025 10:30 AM",
+   "agency": "0584-USDA/FNS",
+   "rule_title": "Updated Staple Food Stocking Standards for Retailers in the Supplemental Nutrition Assistance Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF12&meetingId=1036624&acronym=0584-USDA/FNS"
+  },
+  {
+   "meeting_id": "1048923",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/28/2025 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1048923&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1041374",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/28/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1041374&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1031373",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1031373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1033923",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1033923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029623",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029623&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1026423",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1026423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1026473",
+   "rin": "1018-BI74",
+   "meeting_datetime": "07/25/2025 03:00 PM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Regulations Pertaining to Endangered and Threatened Wildlife and Plants",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BI74&meetingId=1026473&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1036623",
+   "rin": "2060-AW76",
+   "meeting_datetime": "07/25/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of the Greenhouse Gas Reporting Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW76&meetingId=1036623&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1031523",
+   "rin": "2060-AW76",
+   "meeting_datetime": "07/25/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of the Greenhouse Gas Reporting Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW76&meetingId=1031523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1036523",
+   "rin": "1653-AA95",
+   "meeting_datetime": "07/25/2025 11:30 AM",
+   "agency": "1653-DHS/USICE",
+   "rule_title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1653-AA95&meetingId=1036523&acronym=1653-DHS/USICE"
+  },
+  {
+   "meeting_id": "1036473",
+   "rin": "0584-AF12",
+   "meeting_datetime": "07/25/2025 11:00 AM",
+   "agency": "0584-USDA/FNS",
+   "rule_title": "Updated Staple Food Stocking Standards for Retailers in the Supplemental Nutrition Assistance Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF12&meetingId=1036473&acronym=0584-USDA/FNS"
+  },
+  {
+   "meeting_id": "1029325",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/24/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029325&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029573",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/24/2025 12:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029324",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/24/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029324&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029273",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/24/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029273&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1031423",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/23/2025 02:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1031423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029174",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/23/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029174&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029073",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/23/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024323",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/23/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024323&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1026573",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/23/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1026573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1028923",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/22/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1028923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1031573",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/22/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1031573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1026673",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/22/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1026673&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1028874",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/22/2025 10:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1028874&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1034223",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/21/2025 02:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1034223&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1029223",
+   "rin": "1205-AC11",
+   "meeting_datetime": "07/21/2025 02:30 PM",
+   "agency": "1205-DOL/ETA",
+   "rule_title": "Federal-State Unemployment Compensation (UC) Program; Confidentiality and Disclosure of State UC Information",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1205-AC11&meetingId=1029223&acronym=1205-DOL/ETA"
+  },
+  {
+   "meeting_id": "1036823",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/21/2025 02:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1036823&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1024623",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/21/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024623&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029373",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/21/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029323",
+   "rin": "0625-AB30",
+   "meeting_datetime": "07/21/2025 10:30 AM",
+   "agency": "0625-DOC/ITA",
+   "rule_title": "Adoption and Procedures of the Section 232 Automobile Parts Tariff Inclusions Process",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0625-AB30&meetingId=1029323&acronym=0625-DOC/ITA"
+  },
+  {
+   "meeting_id": "1029123",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/21/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029123&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029173",
+   "rin": "0938-AV45",
+   "meeting_datetime": "07/18/2025 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2026 Rates (CMS-1833)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV45&meetingId=1029173&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1028873",
+   "rin": "1024-AE96",
+   "meeting_datetime": "07/18/2025 11:00 AM",
+   "agency": "1024-DOI/NPS",
+   "rule_title": "Alaska; Hunting and Trapping in National Preserves",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1024-AE96&meetingId=1028873&acronym=1024-DOI/NPS"
+  },
+  {
+   "meeting_id": "1028973",
+   "rin": "1651-AB61",
+   "meeting_datetime": "07/18/2025 11:00 AM",
+   "agency": "1651-DHS/USCBP",
+   "rule_title": "Enhanced Air Cargo Advance Screening (ACAS)",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1651-AB61&meetingId=1028973&acronym=1651-DHS/USCBP"
+  },
+  {
+   "meeting_id": "1024373",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/17/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029023",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/17/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024223",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/16/2025 03:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024223&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024823",
+   "rin": "1018-BI73",
+   "meeting_datetime": "07/16/2025 02:30 PM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Regulations for Listing Endangered and Threatened Species and Designating Critical Habitat",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BI73&meetingId=1024823&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1024473",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/16/2025 01:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1024473&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1024523",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/16/2025 10:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024173",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/15/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024173&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024723",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/15/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024723&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024673",
+   "rin": "0910-ZC29",
+   "meeting_datetime": "07/14/2025 02:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Ultra-Processed Foods; Request for Information",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC29&meetingId=1024673&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1021423",
+   "rin": "0938-AV45",
+   "meeting_datetime": "07/14/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2026 Rates (CMS-1833)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV45&meetingId=1021423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1026373",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/14/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=1026373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1013973",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/14/2025 01:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1013973&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1024773",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/14/2025 12:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1024773&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1024073",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/14/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024023",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/14/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1024023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1024573",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/11/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=1024573&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1021373",
+   "rin": "2060-AW76",
+   "meeting_datetime": "07/11/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of the Greenhouse Gas Reporting Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW76&meetingId=1021373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1023974",
+   "rin": "0910-ZC29",
+   "meeting_datetime": "07/11/2025 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Ultra-Processed Foods; Request for Information",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC29&meetingId=1023974&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1023873",
+   "rin": "2060-AV98",
+   "meeting_datetime": "07/10/2025 03:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Phasedown of Hydrofluorocarbons: Review and Renewal of Eligibility for Application-specific Allowances",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AV98&meetingId=1023873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "994023",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/10/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=994023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1016473",
+   "rin": "0938-AV45",
+   "meeting_datetime": "07/10/2025 01:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals; the Long-Term Care Hospital Prospective Payment System; and FY 2026 Rates (CMS-1833)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV45&meetingId=1016473&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1024423",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/10/2025 01:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1024423&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "999023",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/10/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=999023&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1023973",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/10/2025 11:30 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1023973&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1023923",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/10/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1023923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1016523",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/09/2025 03:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=1016523&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1003923",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/09/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=1003923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "989073",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/09/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=989073&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1013923",
+   "rin": "2900-AS31",
+   "meeting_datetime": "07/09/2025 12:30 PM",
+   "agency": "2900-VA",
+   "rule_title": "Reproductive Health Services",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2900-AS31&meetingId=1013923&acronym=2900-VA"
+  },
+  {
+   "meeting_id": "1008973",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/08/2025 02:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1008973&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1001473",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/08/2025 11:30 AM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1001473&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1018923",
+   "rin": "1651-AB61",
+   "meeting_datetime": "07/07/2025 01:00 PM",
+   "agency": "1651-DHS/USCBP",
+   "rule_title": "Enhanced Air Cargo Advance Screening (ACAS)",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1651-AB61&meetingId=1018923&acronym=1651-DHS/USCBP"
+  },
+  {
+   "meeting_id": "1016423",
+   "rin": "9000-AO77",
+   "meeting_datetime": "07/02/2025 02:00 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2025-004, Restoring Merit-Based Opportunity in Federal Contracts",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO77&meetingId=1016423&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "1013873",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/02/2025 01:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1013873&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1001373",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/02/2025 12:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1001373&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1004123",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/01/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1004123&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "998873",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/01/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=998873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "996373",
+   "rin": "2060-AW61",
+   "meeting_datetime": "07/01/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW61&meetingId=996373&acronym=2060-EPA/OAR"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1033873",
+   "rin": "2125-ZA30",
+   "meeting_datetime": "07/31/2025 03:30 PM",
+   "agency": "2125-DOT/FHWA",
+   "rule_title": "National Electric Vehicle Infrastructure Formula Program Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2125-ZA30&meetingId=1033873&acronym=2125-DOT/FHWA"
+  },
+  {
+   "meeting_id": "1048873",
+   "rin": "2060-AW76",
+   "meeting_datetime": "07/31/2025 12:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Reconsideration of the Greenhouse Gas Reporting Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW76&meetingId=1048873&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1036624",
+   "rin": "0584-AF12",
+   "meeting_datetime": "07/29/2025 10:30 AM",
+   "agency": "0584-USDA/FNS",
+   "rule_title": "Updated Staple Food Stocking Standards for Retailers in the Supplemental Nutrition Assistance Program",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF12&meetingId=1036624&acronym=0584-USDA/FNS"
+  },
+  {
+   "meeting_id": "1048923",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/28/2025 03:30 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1048923&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1041374",
+   "rin": "0906-ZA14",
+   "meeting_datetime": "07/28/2025 03:00 PM",
+   "agency": "0906-HHS/HRSA",
+   "rule_title": "340B Rebate Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0906-ZA14&meetingId=1041374&acronym=0906-HHS/HRSA"
+  },
+  {
+   "meeting_id": "1031373",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 02:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1031373&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1033923",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 01:30 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1033923&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1029623",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 01:00 PM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1029623&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1026423",
+   "rin": "2060-AW71",
+   "meeting_datetime": "07/28/2025 11:00 AM",
+   "agency": "2060-EPA/OAR",
+   "rule_title": "Greenhouse Gas Endangerment Finding and Motor Vehicle Reconsideration Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2060-AW71&meetingId=1026423&acronym=2060-EPA/OAR"
+  },
+  {
+   "meeting_id": "1026473",
+   "rin": "1018-BI74",
+   "meeting_datetime": "07/25/2025 03:00 PM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Regulations Pertaining to Endangered and Threatened Wildlife and Plants",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BI74&meetingId=1026473&acronym=1018-DOI/FWS"
+  }
+ ]
+}

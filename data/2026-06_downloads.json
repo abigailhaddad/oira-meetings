@@ -1,0 +1,810 @@
+{
+ "1223542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"WildEarth Guardians et al. Comment on Grizzly Bear Proposed Rule_3.17.25 (1).pdf\"",
+  "filename": "WildEarth Guardians et al. Comment on Grizzly Bear Proposed Rule_3.17.25 (1).pdf",
+  "size": 4438147,
+  "sha256": "5d15b22f2af826844eb5022c75eaa2c8735d8329002394860899ecd2925206fe"
+ },
+ "1223543": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"FOC et al Comments on Grizzly Bear proposed listing rule_2025.pdf\"",
+  "filename": "FOC et al Comments on Grizzly Bear proposed listing rule_2025.pdf",
+  "size": 88703,
+  "sha256": "2fb8b839be50ca947db471490a87f5169e76ec6b60f64b0dbd90afd1883327ee"
+ },
+ "1223544": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-11-25 Supp griz comments (1).pdf\"",
+  "filename": "2025-11-25 Supp griz comments (1).pdf",
+  "size": 299766,
+  "sha256": "f09090529cf7f4959aaf599c12497a0e8b0d53c8272d1701a84a6628f83443ca"
+ },
+ "1238542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Attachment 1 - Trinity Consultants - CT Technical Comments.pdf\"",
+  "filename": "Attachment 1 - Trinity Consultants - CT Technical Comments.pdf",
+  "size": 1173985,
+  "sha256": "e203a52c84de659afef4b3bf82a4d1f9c3ca558b731c8c88c916b03ff94e9aeb"
+ },
+ "1241042": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CISC Comments_MSHA Respirable Crystalline Silica NPRM_9.11.23.pdf\"",
+  "filename": "CISC Comments_MSHA Respirable Crystalline Silica NPRM_9.11.23.pdf",
+  "size": 182900,
+  "sha256": "cb8fe0496d2dd1e561850049faaf47239be5ef50f16de9f2398a34c6f00b17c1"
+ },
+ "1241092": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Neology_Reponse_To_NextNav_Jan15_Filing_2600319[95].pdf\"",
+  "filename": "Neology_Reponse_To_NextNav_Jan15_Filing_2600319[95].pdf",
+  "size": 938567,
+  "sha256": "52b91ca6783802e3f2195f5e3afda96405a2d299a528835a33b691bc0373f355"
+ },
+ "1241093": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"2026 05 22 - OIRA Paoletta - Neology - JER.docx\"",
+  "filename": "2026 05 22 - OIRA Paoletta - Neology - JER.docx",
+  "size": 38565,
+  "sha256": "d12391162d15efa295f929128d7ffb208e327ad5c4afeb91c36d60627c0c424b"
+ },
+ "1241094": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"2026 05 22 - OMB Vought - Neology - JER.docx\"",
+  "filename": "2026 05 22 - OMB Vought - Neology - JER.docx",
+  "size": 38629,
+  "sha256": "81c6d1c95e36c4e9a125876451f2bf7288e846a4ec927f2668df647ad7805c8d"
+ },
+ "1241095": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"Lower 900 MHz Band One Pager 2.10.26.docx\"",
+  "filename": "Lower 900 MHz Band One Pager 2.10.26.docx",
+  "size": 21972,
+  "sha256": "c054bf18a1c1d9b91e1f44b63e0cd0f63d252930ad0749601dbf6f52363dd77b"
+ },
+ "1243542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"SMI Comments MSHA Silica Proposed Rule- MSHA-2023-001.pdf\"",
+  "filename": "SMI Comments MSHA Silica Proposed Rule- MSHA-2023-001.pdf",
+  "size": 377643,
+  "sha256": "daf04dc0c571d8a41374e3c103e36a61b61ee24e83e6829daae523476172903e"
+ },
+ "1243543": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Appendix A__SMI SLIDES MSHA Silica NPRM Testimony 20230821 Final.pdf\"",
+  "filename": "Appendix A__SMI SLIDES MSHA Silica NPRM Testimony 20230821 Final.pdf",
+  "size": 3517640,
+  "sha256": "e408c99a10b4fae79810031b1ea4004d29d710a9d01ab0c5da58bdb53e04a255"
+ },
+ "1243544": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Appendix B__Silica Surface Research References 20230908-Richard Brown.pdf\"",
+  "filename": "Appendix B__Silica Surface Research References 20230908-Richard Brown.pdf",
+  "size": 203077,
+  "sha256": "2f9299733233701fc8b2718f96c9f1e633ca9c816bc836baacf7be1e57bd936a"
+ },
+ "1243545": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Appendix E -Geology and Map Sorptive Minerals.pdf\"",
+  "filename": "Appendix E -Geology and Map Sorptive Minerals.pdf",
+  "size": 141678,
+  "sha256": "f6f8e688a296cab6691a88b1dd55e1301d00f1f0ca80dcc5300acd587e94bf7a"
+ },
+ "1243546": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Appendix D__OSHA's Final Rule Crystalline Silica 2016-03-25-1.pdf\"",
+  "filename": "Appendix D__OSHA's Final Rule Crystalline Silica 2016-03-25-1.pdf",
+  "size": 809836,
+  "sha256": "bd7c6913ff873fa4d706c4ab85f34bdb54e36c2bf05dca3ab119977ff60e9fc5"
+ },
+ "1243547": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2024.12.20 - P - SMI Opening Brief - Corrected and Accepted.pdf\"",
+  "filename": "2024.12.20 - P - SMI Opening Brief - Corrected and Accepted.pdf",
+  "size": 584727,
+  "sha256": "b0506504e07c90b188bef733f025f29966d957ae8d4016e64c7cf1ac16388c23"
+ },
+ "1243548": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Appendix C - SMI's OSHA Comments with Attachments.pdf\"",
+  "filename": "Appendix C - SMI's OSHA Comments with Attachments.pdf",
+  "size": 10462566,
+  "sha256": "bcc0dd7b2742259f4d6fb8bfec39ffe4b24c318c132b3eaf0e7ee023e0fafb3f"
+ },
+ "1246042": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EEO+Leaders+Response+to+EEO-1+etc+Rescission.pdf\"",
+  "filename": "EEO+Leaders+Response+to+EEO-1+etc+Rescission.pdf",
+  "size": 223743,
+  "sha256": "b684898e763a149335431588e95a4062e8ed43ef233c130de52735b824217555"
+ },
+ "1246092": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ANCOR 2025 State of America's Direct Support Workforce Crisis Report.pdf\"",
+  "filename": "ANCOR 2025 State of America's Direct Support Workforce Crisis Report.pdf",
+  "size": 5286991,
+  "sha256": "3fd4540141fce7225c6f1e4083803c55e77288cfc6b8ce51cf374d6b0828756a"
+ },
+ "1246093": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ANCOR Comments on Access Rule.pdf\"",
+  "filename": "ANCOR Comments on Access Rule.pdf",
+  "size": 8710596,
+  "sha256": "db688f26885d64914cf804d513871a3ce9fc59bfcd15a06b2a4012df5fc84acc"
+ },
+ "1246142": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Comments re docket number FS-2025-0001 - Standing Trees and 38 Co-Signers - FINAL.pdf\"",
+  "filename": "Comments re docket number FS-2025-0001 - Standing Trees and 38 Co-Signers - FINAL.pdf",
+  "size": 2096710,
+  "sha256": "d780237aa0e8691f1d6634627220231b93569f68e94f28f110e98a18d477f81c"
+ },
+ "1246143": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Phillips 2025 - The Economic Value of Vermonts Public Conservation Lands.pdf\"",
+  "filename": "Phillips 2025 - The Economic Value of Vermonts Public Conservation Lands.pdf",
+  "size": 6681209,
+  "sha256": "f4f80381f45098e5dd83fbb29cdbd3fb65224b81e5b014cc0e46c5b3a6687289"
+ },
+ "1248542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Reconsidering the U.S. Radiation Protection Framework under Executive Order 14300 _ NIA.pdf\"",
+  "filename": "Reconsidering the U.S. Radiation Protection Framework under Executive Order 14300 _ NIA.pdf",
+  "size": 137775,
+  "sha256": "7573faaa2730bdfd4f7770f72f8c29f224104ffb6883f9fbfb89a7a85dbfbe60"
+ },
+ "1248592": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025.09.19 NM Stakeholder Comments Opposing Roadless Recission.pdf\"",
+  "filename": "2025.09.19 NM Stakeholder Comments Opposing Roadless Recission.pdf",
+  "size": 457869,
+  "sha256": "668a0bb776a3d980fffccf6a64c9e2067630396f0d972748aa9e182dc8ed2f12"
+ },
+ "1248642": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Alliance-12866-CMS-2450p.pdf\"",
+  "filename": "Alliance-12866-CMS-2450p.pdf",
+  "size": 838086,
+  "sha256": "b0c6de2849e52fcd321a1562466220b04df2428c1ba76d2cacc285229bd4df55"
+ },
+ "1248643": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB Memo and 80-20 Advocacy.pdf\"",
+  "filename": "OMB Memo and 80-20 Advocacy.pdf",
+  "size": 603063,
+  "sha256": "c3a4d90095ba2e20d66e7d86d5d0a2ea0e261dac07a7751215e7339d91bd164b"
+ },
+ "1248644": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Medicaid Access One Pager 2026.pdf\"",
+  "filename": "Medicaid Access One Pager 2026.pdf",
+  "size": 603040,
+  "sha256": "f85708a83b40a6590602e525d2b95e17995fa33890889f449a353cf327afb846"
+ },
+ "1248692": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"OIRA Repair Criteria One Pager.docx\"",
+  "filename": "OIRA Repair Criteria One Pager.docx",
+  "size": 15891,
+  "sha256": "beb5a473c867e8f2d1b8288214ed298f89240cc9e6a7bce2ea20c649b57f8fad"
+ },
+ "1248742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Mass-based Compliance Option.pdf\"",
+  "filename": "Mass-based Compliance Option.pdf",
+  "size": 55932,
+  "sha256": "4eb45e450c4f069e420ee0ce2061a3c52b692a37adb8969ce6b144930573ef44"
+ },
+ "1248743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Compliance options added in final rules.pdf\"",
+  "filename": "Compliance options added in final rules.pdf",
+  "size": 50652,
+  "sha256": "0099b44a09a11927656c9bcc5c3d0896aa596bd8adcd2e0af4e7d92fc510125b"
+ },
+ "1248792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Bikepacking Roots OIRA Roadless Area Conservation Repeal meeting.pdf\"",
+  "filename": "Bikepacking Roots OIRA Roadless Area Conservation Repeal meeting.pdf",
+  "size": 90865,
+  "sha256": "80778bc7b95d92a5db9e48a5efe66027dfc80d289e069c469a8aae7d169804e6"
+ },
+ "1251042": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NAB C-Band Meeting with OIRA - 2026 06 04.pdf\"",
+  "filename": "NAB C-Band Meeting with OIRA - 2026 06 04.pdf",
+  "size": 277581,
+  "sha256": "da5f74d826b0e24c2565b013c4a75b7261d500c7fa5063fec614dcb0e97ffe5f"
+ },
+ "1253542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"MECA-OMB HDV 06122026.pdf\"",
+  "filename": "MECA-OMB HDV 06122026.pdf",
+  "size": 1701270,
+  "sha256": "0955cc954cde2c5ce302717d03ddc40b376d39105da98b72e2d54fdd8657f992"
+ },
+ "1253592": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Breakthrough_Institute_Drawing_the_Line_Radiation_Protection.pdf\"",
+  "filename": "Breakthrough_Institute_Drawing_the_Line_Radiation_Protection.pdf",
+  "size": 3869305,
+  "sha256": "c232ef0905485afee5a104deada8d0159808c28faa4456434c83106ad7f8ef69"
+ },
+ "1253593": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Detectability Frontier of Low-Dose Radiation Epidemiology.pdf\"",
+  "filename": "Detectability Frontier of Low-Dose Radiation Epidemiology.pdf",
+  "size": 448646,
+  "sha256": "f68435890a9fdf650150987d3f721bb4a01d2f0bf5739447787b3f96085b8b43"
+ },
+ "1253594": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Breakthrough_Institute_The_Current_State_of_Radiation_Protection.pdf\"",
+  "filename": "Breakthrough_Institute_The_Current_State_of_Radiation_Protection.pdf",
+  "size": 166821,
+  "sha256": "499d325d9bf0d28e639cf1151cbc084d073016c4d1ff7902878185fa67b8227d"
+ },
+ "1253595": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Breakthrough_Institute_Decay_Fragments.pdf\"",
+  "filename": "Breakthrough_Institute_Decay_Fragments.pdf",
+  "size": 1362261,
+  "sha256": "90667b2db9d342f20184c4c34edeaec3b91054a9cc7239635a747dff4b768d3a"
+ },
+ "1253596": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Breakthrough_Institute_ALARA_and_the_CAA.pdf\"",
+  "filename": "Breakthrough_Institute_ALARA_and_the_CAA.pdf",
+  "size": 221274,
+  "sha256": "66728f83f209fb68c0e44f93030afeedfbdad8f7b5f08f471eb87b13a5546c06"
+ },
+ "1253597": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ADA Letter Klomp 02092026.pdf\"",
+  "filename": "ADA Letter Klomp 02092026.pdf",
+  "size": 282279,
+  "sha256": "12fbf6bc6338484a6367a01a6cfc465caabd09108d147b2e1c916a45f4982176"
+ },
+ "1253598": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"CMS Correspondence ADA 10132025.docx\"",
+  "filename": "CMS Correspondence ADA 10132025.docx",
+  "size": 31527,
+  "sha256": "59d70e139b08062ab8413471b59345aac619acdf27adb3cdc1c68c795e213953"
+ },
+ "1253642": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"340B Data from the ESP and Beacon Platforms Hold Considerable Value for Drug Manufacturers.pdf\"",
+  "filename": "340B Data from the ESP and Beacon Platforms Hold Considerable Value for Drug Manufacturers.pdf",
+  "size": 557445,
+  "sha256": "f90ea57883e3919008ff4b7e7155e2e6bdb25d877ef0c874a79f61927ba25a12"
+ },
+ "1256042": {
+  "status": 200,
+  "content_type": "application/pptx",
+  "content_disposition": "attachment;filename=\"June 2026 OMB Meeting re Registration and Listing-C.pptx\"",
+  "filename": "June 2026 OMB Meeting re Registration and Listing-C.pptx",
+  "size": 344845,
+  "sha256": "8ff7ae7f8d9a44c320d0b8ade8b0c3cfbdb5695df0ed1439df32b794d63bece8"
+ },
+ "1258542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"FINAL 04_20_26_NACHC_Comment Letter_340B Rebate Model Pilot RFI (1).pdf\"",
+  "filename": "FINAL 04_20_26_NACHC_Comment Letter_340B Rebate Model Pilot RFI (1).pdf",
+  "size": 626290,
+  "sha256": "afc185f097162f38b8db8a8f56d1945243cf0ba731ece7a129a9795c9d3ced6e"
+ },
+ "1258543": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"26_06_16 340B Rebate Model One Pager.pdf\"",
+  "filename": "26_06_16 340B Rebate Model One Pager.pdf",
+  "size": 149709,
+  "sha256": "2a6fbdd3f435d6c805716a6a006bda9892e94c3297b164da03938558325bd872"
+ },
+ "1258642": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"AppVoices-Comm-2023.pdf\"",
+  "filename": "AppVoices-Comm-2023.pdf",
+  "size": 174463,
+  "sha256": "fbf35f142d5f9b3c466bfc7f77198808ad8c7cd4b289ecf7ae33fca7fccb364d"
+ },
+ "1258643": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ACLC final comment_2023_proprule.pdf\"",
+  "filename": "ACLC final comment_2023_proprule.pdf",
+  "size": 2669287,
+  "sha256": "466adcb1be169c3e5c076dcb0c4d8a1aadadab614991293ebbf09ac18d91fd41"
+ },
+ "1258692": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"America's Essential Hospitals_340B RFI_Final Comments.pdf\"",
+  "filename": "America's Essential Hospitals_340B RFI_Final Comments.pdf",
+  "size": 471929,
+  "sha256": "2d01753cf9011fc47f227d4e834437d71c6f77ceab1513ff8eaea40ce213cdb1"
+ },
+ "1258742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PACCAR OMB Presentation.pdf\"",
+  "filename": "PACCAR OMB Presentation.pdf",
+  "size": 1540165,
+  "sha256": "d8c30ff6dd0a0d9d098b3818ec08c47c254ef84d23845b43151a827bd62dc30c"
+ },
+ "1261042": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2026-06-17 HDV Rule OMB Testimonies-1.pdf\"",
+  "filename": "2026-06-17 HDV Rule OMB Testimonies-1.pdf",
+  "size": 91875,
+  "sha256": "20bd70125e85e9518c8c92d123e3c6397206abe3274883b67d6c8d67bf9e7dbe"
+ },
+ "1261043": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Op-Ed - NCDOT Corridor Displacement and Title VI_From Salvation to Revitalization - June 2026-1.pdf\"",
+  "filename": "Op-Ed - NCDOT Corridor Displacement and Title VI_From Salvation to Revitalization - June 2026-1.pdf",
+  "size": 174691,
+  "sha256": "c5e1df04e978273a9243e7d096163c477f5bb7a42c7e5bdc4de0b730b36b51d1"
+ },
+ "1263542": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"2026.06.22 Endangered and Threatened Wildlife and Plants; Revision of Listed Entity for the Grizzly Bear Comment.docx\"",
+  "filename": "2026.06.22 Endangered and Threatened Wildlife and Plants; Revision of Listed Entity for the Grizzly Bear Comment.docx",
+  "size": 37977,
+  "sha256": "dd09adbbd40ba8576017fb76a543d4e6deb92dea3e2608b7ec44c3386b7263a2"
+ },
+ "1263592": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Optimizing Postpartum Care.pdf\"",
+  "filename": "Optimizing Postpartum Care.pdf",
+  "size": 414035,
+  "sha256": "9a384e0138f446cef89afcd35f95655ccf05844cfa17e2306ede303f26ecd6c6"
+ },
+ "1263593": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Tailored Prenatal Care Delivery for Pregnant Individuals.pdf\"",
+  "filename": "Tailored Prenatal Care Delivery for Pregnant Individuals.pdf",
+  "size": 222399,
+  "sha256": "9276a0d75d6d51ca5787d321650fbf373d401de8033d21cfcb786c0538ddee2a"
+ },
+ "1263594": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Legislative One-Pager_Final_AMA_ACOG_AAFP-Branded (002).pdf\"",
+  "filename": "Legislative One-Pager_Final_AMA_ACOG_AAFP-Branded (002).pdf",
+  "size": 372053,
+  "sha256": "6e06dccf931e5062fab302940083eee2fb183c1976c0c475c516f18617218672"
+ },
+ "1263642": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NGO Letter to EPA re Vehicle Standards.pdf\"",
+  "filename": "NGO Letter to EPA re Vehicle Standards.pdf",
+  "size": 564742,
+  "sha256": "4fde8c9bf798c3e703aba883b743f1492f0489c2c283f3afdfa583aff69d2240"
+ },
+ "1263643": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Advocates letter to ATA April 2026.pdf\"",
+  "filename": "Advocates letter to ATA April 2026.pdf",
+  "size": 682721,
+  "sha256": "669ec93615ce69e73737b73692f42294502051f2953b883562204196a82ac39c"
+ },
+ "1263692": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"ICT Comment Final.docx\"",
+  "filename": "ICT Comment Final.docx",
+  "size": 26992,
+  "sha256": "a3a8f4f6dfe1fc528eea01327fb4c9dfc71fdb67f8d56e9f7b27b4614be0b4cf"
+ },
+ "1266042": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Examples of use of modifier.pdf\"",
+  "filename": "Examples of use of modifier.pdf",
+  "size": 87896,
+  "sha256": "dc9f754438251b99e197e23de14cc05d54ab0a99650d16708fc24d05fd185440"
+ },
+ "1266043": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Policy Recommendation for Indirect Practice Expense Allocation and List of Current Indirect Practice Expenses.pdf\"",
+  "filename": "Policy Recommendation for Indirect Practice Expense Allocation and List of Current Indirect Practice Expenses.pdf",
+  "size": 136651,
+  "sha256": "2781bff8bd600dcc6f3c80723b219a09335b207a68a70567b03d13b2aff081d3"
+ },
+ "1266044": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CHA CMS NPI Letter 5-11-2026.pdf\"",
+  "filename": "CHA CMS NPI Letter 5-11-2026.pdf",
+  "size": 141424,
+  "sha256": "ed4a5a40cbc61d7ee4268654bb295ed5f065c516b84dbf0c32e9de89a2efd6c7"
+ },
+ "1266092": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"E-Delivery Working Group Letter to DOL.pdf\"",
+  "filename": "E-Delivery Working Group Letter to DOL.pdf",
+  "size": 121775,
+  "sha256": "a616616ede04b269606722799f837175c3beedaa36246f9e90a4d4a93816aa04"
+ },
+ "1266093": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Avalere Health Cost Savings Analysis.pdf\"",
+  "filename": "Avalere Health Cost Savings Analysis.pdf",
+  "size": 687063,
+  "sha256": "08b843e8ddb35c048101489e83cbfb2ee63ca50c57e93aef850d833584733d42"
+ },
+ "1266094": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ERIC_Ipsos E-Delivery Polling Memo.pdf\"",
+  "filename": "ERIC_Ipsos E-Delivery Polling Memo.pdf",
+  "size": 169290,
+  "sha256": "4aec4397fb379304fccf7a7ae163f9c1bbfe6160ac3ad37a491941e2a15c285e"
+ },
+ "1266095": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EPN-Environmental Analysis 2026.pdf\"",
+  "filename": "EPN-Environmental Analysis 2026.pdf",
+  "size": 1515913,
+  "sha256": "8228774c5df439c2d60775f613bef1f0f0f58d5a29da0e3ea89235afbf013f8a"
+ },
+ "1268542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Advancing Regulatory Efficiency - Lessons and Opportunities (5).pdf\"",
+  "filename": "Advancing Regulatory Efficiency - Lessons and Opportunities (5).pdf",
+  "size": 714650,
+  "sha256": "0fb2a7bf166419e27472005b94c07f13718fcd09dc0ce8666711d294fe588105"
+ },
+ "1271042": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"AACS Cosmetology Industry Summary.docx\"",
+  "filename": "AACS Cosmetology Industry Summary.docx",
+  "size": 41440,
+  "sha256": "b0026d0ca0d299177b843e19f6bdc19ed52f9cc10e6e2bbfaa1c3cf6c062b051"
+ },
+ "1271092": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"MolecuLight OMB Presentation June 25 2026.pdf\"",
+  "filename": "MolecuLight OMB Presentation June 25 2026.pdf",
+  "size": 1336241,
+  "sha256": "763eaeeb8c557720bc72f16575beabc633ee3d179024fb07b8bb6d7c863fda93"
+ },
+ "1271093": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EARPC & FG Wildfire Roadless Area Analysis.pdf\"",
+  "filename": "EARPC & FG Wildfire Roadless Area Analysis.pdf",
+  "size": 1200329,
+  "sha256": "01199870598edb7741047c452b0cd70bb0426b47ee57603c187b92f82c457304"
+ },
+ "1271094": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Summary of data presented in story map by EARPC & FG.pdf\"",
+  "filename": "Summary of data presented in story map by EARPC & FG.pdf",
+  "size": 315486,
+  "sha256": "7c8fd41de82826a08b3d6f8a31bd75385d2a94546931dc259bfbe8b34d0ed54c"
+ },
+ "1271142": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"BTI-Comments-on-the-ADVANCE-Act_-Utilizing-Offsite-Meteorological-Data.pdf\"",
+  "filename": "BTI-Comments-on-the-ADVANCE-Act_-Utilizing-Offsite-Meteorological-Data.pdf",
+  "size": 228088,
+  "sha256": "7d4a999b2e767f5aa490c904bb79ebf72c1454860e2f6e67a0c678b444ece2e2"
+ },
+ "1271143": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"BTI Comment on DOE Advanced Reactor CatEx (1).pdf\"",
+  "filename": "BTI Comment on DOE Advanced Reactor CatEx (1).pdf",
+  "size": 217015,
+  "sha256": "70e00e90ef3b8d5453aa9cda76f70f7c07b8162be0cbebfcc668294978eb93dd"
+ },
+ "1271192": {
+  "status": 200,
+  "content_type": "application/png",
+  "content_disposition": "attachment;filename=\"United-States-Child-Medicaid-CHIP-Enrollment-Decline-January-2025-April-2026-ByGeorgetownCCF.png\"",
+  "filename": "United-States-Child-Medicaid-CHIP-Enrollment-Decline-January-2025-April-2026-ByGeorgetownCCF.png",
+  "size": 184313,
+  "sha256": "25e32c11fa79c27cf093d5bcb6b72cb612f7f1909893f491a83014011c2252f6"
+ },
+ "1271193": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Health Impact of Pollution _ State of the Air _ American Lung Association.pdf\"",
+  "filename": "Health Impact of Pollution _ State of the Air _ American Lung Association.pdf",
+  "size": 964437,
+  "sha256": "38366b96a250c80ffec4677d640e06583326c0c08a6e56aaa89071337911bee6"
+ },
+ "1271194": {
+  "status": 200,
+  "content_type": "application/png",
+  "content_disposition": "attachment;filename=\"Percentage-of-U.S.-Adults-Categorized-as-Cost-Desperate-Reaches-a-New-High-of-11-.png\"",
+  "filename": "Percentage-of-U.S.-Adults-Categorized-as-Cost-Desperate-Reaches-a-New-High-of-11-.png",
+  "size": 221589,
+  "sha256": "15d9055edf68f7d0852c1222b6105f4e1146267a96409c655250662e2a7508ab"
+ },
+ "1271195": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ALA-zero-emission-truck-report.pdf\"",
+  "filename": "ALA-zero-emission-truck-report.pdf",
+  "size": 1177282,
+  "sha256": "10b3a922c3139b3a2ce9dfc81c894af000a4a44d4eaa237947d0648bea9db532"
+ },
+ "1273592": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"340B Comment Presentation.pdf\"",
+  "filename": "340B Comment Presentation.pdf",
+  "size": 942850,
+  "sha256": "021939e14f406a91ddbd12b2c4894ba541383d476ba9a7c602c9f668ad878466"
+ },
+ "1278542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Wallace_RoadlessRuleRescission_OMB-OIRA_Comments_6-30-26.pdf\"",
+  "filename": "Wallace_RoadlessRuleRescission_OMB-OIRA_Comments_6-30-26.pdf",
+  "size": 132780,
+  "sha256": "2fcad800a23bde35a82bbced2f1508a3da5f63122db2757383e19d38cffdfd28"
+ },
+ "1278692": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"VA roadless map (SELC March 2026).pdf\"",
+  "filename": "VA roadless map (SELC March 2026).pdf",
+  "size": 2340958,
+  "sha256": "fca45141598093dfe10b2bfed181ec6c14355e7058fa18d3516732a61a6ef276"
+ },
+ "1278693": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Staunton Water Quality Report 2025.pdf\"",
+  "filename": "Staunton Water Quality Report 2025.pdf",
+  "size": 2096046,
+  "sha256": "cc39b01500468a7417ca83060ed1ed5825a6af133cd2f8b55a78a59691fdef75"
+ },
+ "1278694": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Harrisonburg ltr to USFS re drinking water 9-30-10.pdf\"",
+  "filename": "Harrisonburg ltr to USFS re drinking water 9-30-10.pdf",
+  "size": 139618,
+  "sha256": "97e83395527bf6f88f747f4679028a454b1032905b7bd35e78c5807763fe89b4"
+ },
+ "1278695": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Virginia2024_OutdoorRecEconomy_BEA.pdf\"",
+  "filename": "Virginia2024_OutdoorRecEconomy_BEA.pdf",
+  "size": 481812,
+  "sha256": "a02dbebda627ead7a678bbd42cc98b8b313f5396f05c011164b1db38f7bf3ef4"
+ },
+ "1278696": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB_OIRA_MeetingReport_June2026.pdf\"",
+  "filename": "OMB_OIRA_MeetingReport_June2026.pdf",
+  "size": 190456,
+  "sha256": "714f4d1fbfd270e3a6e9a35c9ab7135e728e64e2dc393dafa02dac76c051d954"
+ },
+ "1278697": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Rockingham County Comp. Plan Ch. 5.pdf\"",
+  "filename": "Rockingham County Comp. Plan Ch. 5.pdf",
+  "size": 5189128,
+  "sha256": "e8c01d3c8bf57ed41a1e85f859f029335dffde83b89940bce0c5614ab81d37b2"
+ },
+ "1278698": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EPSAC - SEE PGS 60-61_FocusArea6_Phase I Environmental Action Plan_Harrisonburg.pdf\"",
+  "filename": "EPSAC - SEE PGS 60-61_FocusArea6_Phase I Environmental Action Plan_Harrisonburg.pdf",
+  "size": 1286595,
+  "sha256": "5149404b52538f93b62031b186234907b8c8dec806c2d2c45833cb11d51a5869"
+ },
+ "1278699": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Benefits of Southern Forests for Drinking Water_ Caldwell_et al_2026.pdf\"",
+  "filename": "Benefits of Southern Forests for Drinking Water_ Caldwell_et al_2026.pdf",
+  "size": 9567999,
+  "sha256": "dcb37f07b4cd0745c0f6c3def60b0d2f44fd6f3744ce3c3d079837ddf27a79f7"
+ },
+ "1278700": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"For Virginians, roadless areas mean clean water (2025).pdf\"",
+  "filename": "For Virginians, roadless areas mean clean water (2025).pdf",
+  "size": 1322209,
+  "sha256": "3266e2e4665dfddf19152476422fe1cf4f63aa983cdb46876953bd72cc4fa1fd"
+ },
+ "1278701": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Shenandoah County letter- executed - 06.23.2026 (mailed before comment period).pdf\"",
+  "filename": "Shenandoah County letter- executed - 06.23.2026 (mailed before comment period).pdf",
+  "size": 792790,
+  "sha256": "0c215d326d795cac324a34cb11ec4d1e90f0f5c822ae745e2c0c45a832820418"
+ },
+ "1288542": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"24-240.pdf\"",
+  "filename": "24-240.pdf",
+  "size": 118981,
+  "sha256": "7c91a7970667ac5c37c38c959ca1b9d10c01c0898beff51d722e6bd552f8561b"
+ },
+ "1288543": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2024-9 -- Petition Opposition .pdf\"",
+  "filename": "2024-9 -- Petition Opposition .pdf",
+  "size": 220873,
+  "sha256": "b4fd8d16f3cd1473814f5af0f55656fa051ad1f595d932a0263fabd127d37dff"
+ },
+ "1288544": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2024-9 -- Petition Reply Comments.pdf\"",
+  "filename": "2024-9 -- Petition Reply Comments.pdf",
+  "size": 322946,
+  "sha256": "882f8db3574fa91e77b8710de402b886607db305189416339a64ab8cfaa0e7cf"
+ },
+ "1288545": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-3 -- NOI Ex Parte pdf.pdf\"",
+  "filename": "2025-3 -- NOI Ex Parte pdf.pdf",
+  "size": 121221,
+  "sha256": "945f7c43ee48721693e135c1755a216461c470c8940f61255f9e7ca33e57666f"
+ },
+ "1288546": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-4 -- HFR Economic Study.pdf\"",
+  "filename": "2025-4 -- HFR Economic Study.pdf",
+  "size": 666175,
+  "sha256": "7124dec7de26a336fdddc755242c98d337bf36afc3921aa3a3dc67aaf7a6ac4d"
+ },
+ "1288547": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-4 -- NOI Comments.pdf\"",
+  "filename": "2025-4 -- NOI Comments.pdf",
+  "size": 259102,
+  "sha256": "34c5518b5af21c57628ec0691b63b8ef6d70840a80702939641a4721c3da8251"
+ },
+ "1288548": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-5 -- HFR Deck.pdf\"",
+  "filename": "2025-5 -- HFR Deck.pdf",
+  "size": 1709855,
+  "sha256": "702bb5d377b284e9f6cf2758dfd816299b97d55a10c271a6ac38ea22d017c8c9"
+ },
+ "1288549": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-5 -- HFR Ex Parte.pdf\"",
+  "filename": "2025-5 -- HFR Ex Parte.pdf",
+  "size": 541376,
+  "sha256": "8e46772d1e6c902c5a305edc2ee18150c55684026df109e72868dd8830fcc428"
+ },
+ "1288550": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-12 -- Neology Tech Study.pdf\"",
+  "filename": "2025-12 -- Neology Tech Study.pdf",
+  "size": 1897236,
+  "sha256": "5860f97fc8f2f1e3c61d0d7cee6d4bcf9d4bd0bae950482f404f95caf978887d"
+ },
+ "1288551": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-12 -- Sturza Tech PPT.pdf\"",
+  "filename": "2025-12 -- Sturza Tech PPT.pdf",
+  "size": 139253,
+  "sha256": "2ae084b7b7e40a67e23620f7b4beace88e54e777e5ac32723ffe4302cb948980"
+ },
+ "1288552": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2026-3 -- Cover Letter Tech Reply to NextNav.pdf\"",
+  "filename": "2026-3 -- Cover Letter Tech Reply to NextNav.pdf",
+  "size": 92536,
+  "sha256": "019f7e17d091ef015a129110fcd23d94f0ca9ea7da6c918f86a739c229e9bc57"
+ },
+ "1288553": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2026-3 -- Tech Reply to NextNav.pdf\"",
+  "filename": "2026-3 -- Tech Reply to NextNav.pdf",
+  "size": 938567,
+  "sha256": "52b91ca6783802e3f2195f5e3afda96405a2d299a528835a33b691bc0373f355"
+ },
+ "1288554": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2026-3 -- Tech Reply to NextNav.pdf\"",
+  "filename": "2026-3 -- Tech Reply to NextNav.pdf",
+  "size": 938567,
+  "sha256": "52b91ca6783802e3f2195f5e3afda96405a2d299a528835a33b691bc0373f355"
+ },
+ "1288555": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"Lower 900 MHz Band One Pager 2.10.26.docx\"",
+  "filename": "Lower 900 MHz Band One Pager 2.10.26.docx",
+  "size": 21972,
+  "sha256": "c054bf18a1c1d9b91e1f44b63e0cd0f63d252930ad0749601dbf6f52363dd77b"
+ },
+ "1288556": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Neology_Reponse_To_NextNav_Jan15_Filing_2600319[95] (1).pdf\"",
+  "filename": "Neology_Reponse_To_NextNav_Jan15_Filing_2600319[95] (1).pdf",
+  "size": 938567,
+  "sha256": "52b91ca6783802e3f2195f5e3afda96405a2d299a528835a33b691bc0373f355"
+ }
+}

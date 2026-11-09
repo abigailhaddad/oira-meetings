@@ -1,0 +1,1138 @@
+{
+ "found_banner": 103,
+ "pulled": "2026-11-08 18:15:57 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "1513675",
+   "rin": "0584-AF17",
+   "meeting_datetime": "08/31/2026 03:00 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1513675&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1514073",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/31/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1514073&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1525823",
+   "rin": "0938-AU54",
+   "meeting_datetime": "08/31/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Amendments to Rules Governing Organ Procurement Organizations (CMS-3409)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AU54&meetingId=1525823&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1512673",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/31/2026 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1512673&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1513523",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/28/2026 01:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1513523&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1512123",
+   "rin": "1210-AB37",
+   "meeting_datetime": "08/28/2026 01:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1512123&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1514324",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/28/2026 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1514324&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1513773",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/28/2026 11:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1513773&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1512273",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/28/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1512273&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1513873",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/28/2026 10:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1513873&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1488273",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/27/2026 03:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1488273&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1508273",
+   "rin": "1210-AB37",
+   "meeting_datetime": "08/27/2026 01:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1508273&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1513474",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/27/2026 11:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1513474&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1512623",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/27/2026 11:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1512623&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1512423",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/27/2026 10:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1512423&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1511774",
+   "rin": "1018-BI73",
+   "meeting_datetime": "08/27/2026 10:00 AM",
+   "agency": "1018-DOI/FWS",
+   "rule_title": "Regulations for Listing Endangered and Threatened Species and Designating Critical Habitat",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1018-BI73&meetingId=1511774&acronym=1018-DOI/FWS"
+  },
+  {
+   "meeting_id": "1512373",
+   "rin": "1210-AB37",
+   "meeting_datetime": "08/26/2026 03:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1512373&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1512573",
+   "rin": "1210-AB37",
+   "meeting_datetime": "08/26/2026 02:30 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1512573&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1511673",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/26/2026 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1511673&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1511923",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/26/2026 01:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1511923&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1511874",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/26/2026 01:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1511874&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1511623",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/25/2026 03:30 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1511623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1511523",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/25/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1511523&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1503474",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/25/2026 02:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1503474&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1495923",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/25/2026 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1495923&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1513674",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/25/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1513674&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1511823",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/25/2026 01:00 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1511823&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1513473",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/25/2026 11:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1513473&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1510873",
+   "rin": "1004-AF57",
+   "meeting_datetime": "08/25/2026 11:00 AM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "National Petroleum Reserve in Alaska Production Site Development Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF57&meetingId=1510873&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1513323",
+   "rin": "0584-AE85",
+   "meeting_datetime": "08/25/2026 10:30 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC): WIC Online Ordering and Transactions and Food Delivery Revisions to Meet the Needs of a Modern, Data-Driven Program",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AE85&meetingId=1513323&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1512023",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/24/2026 03:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1512023&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1511973",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/24/2026 03:00 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1511973&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1511073",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/24/2026 02:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1511073&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1511023",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/24/2026 02:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1511023&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1505773",
+   "rin": "9000-AO88",
+   "meeting_datetime": "08/24/2026 01:30 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2026-003, Revolutionary Federal Acquisition Regulation Overhaul parts 8, 12, 13, 15, 38, 44, and 51.",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO88&meetingId=1505773&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "1505774",
+   "rin": "9000-AO84",
+   "meeting_datetime": "08/24/2026 01:00 PM",
+   "agency": "9000-FAR",
+   "rule_title": "Federal Acquisition Regulation (FAR); FAR Case 2026-011, Revolutionary Federal Acquisition Regulation Overhaul parts 9, 27, and 47.",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=9000-AO84&meetingId=1505774&acronym=9000-FAR"
+  },
+  {
+   "meeting_id": "1493373",
+   "rin": "3150-AL48",
+   "meeting_datetime": "08/24/2026 12:30 PM",
+   "agency": "3150-NRC",
+   "rule_title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL48&meetingId=1493373&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1493323",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/24/2026 11:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1493323&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1493473",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/24/2026 10:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1493473&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1493573",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/21/2026 02:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1493573&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1407023",
+   "rin": "0970-AD34",
+   "meeting_datetime": "08/21/2026 02:00 PM",
+   "agency": "0970-HHS/ACF",
+   "rule_title": "Unaccompanied Alien Children Program Foundational Rule; Updates to Accord with the Hyde Amendment",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0970-AD34&meetingId=1407023&acronym=0970-HHS/ACF"
+  },
+  {
+   "meeting_id": "1488423",
+   "rin": "3150-AL48",
+   "meeting_datetime": "08/21/2026 01:30 PM",
+   "agency": "3150-NRC",
+   "rule_title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL48&meetingId=1488423&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1488424",
+   "rin": "3150-AL48",
+   "meeting_datetime": "08/21/2026 01:00 PM",
+   "agency": "3150-NRC",
+   "rule_title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL48&meetingId=1488424&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1503523",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/21/2026 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1503523&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1493673",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/21/2026 11:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1493673&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1512523",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/21/2026 10:30 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1512523&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1488573",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/20/2026 03:30 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1488573&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1511123",
+   "rin": "0938-AW04",
+   "meeting_datetime": "08/20/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AW04&meetingId=1511123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1511723",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/20/2026 11:30 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1511723&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1511873",
+   "rin": "3170-AB39",
+   "meeting_datetime": "08/20/2026 10:00 AM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1511873&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1505823",
+   "rin": "0938-AV88",
+   "meeting_datetime": "08/19/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and PACE (CMS-4214)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV88&meetingId=1505823&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1506023",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/19/2026 02:30 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1506023&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1488323",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/19/2026 02:00 PM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1488323&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1511273",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/19/2026 01:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1511273&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1511323",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/19/2026 10:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1511323&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1486073",
+   "rin": "3150-AL48",
+   "meeting_datetime": "08/18/2026 03:30 PM",
+   "agency": "3150-NRC",
+   "rule_title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL48&meetingId=1486073&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1485873",
+   "rin": "3150-AL48",
+   "meeting_datetime": "08/18/2026 03:00 PM",
+   "agency": "3150-NRC",
+   "rule_title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL48&meetingId=1485873&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1506073",
+   "rin": "0938-AW04",
+   "meeting_datetime": "08/18/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AW04&meetingId=1506073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1498523",
+   "rin": "0938-AV74",
+   "meeting_datetime": "08/18/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Guarding U.S. Medicare Against Rising Drug Costs (GUARD) Model (CMS-5546)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV74&meetingId=1498523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1513573",
+   "rin": "3170-AB39",
+   "meeting_datetime": "08/18/2026 01:30 PM",
+   "agency": "3170-CFPB",
+   "rule_title": "Personal Financial Data Rights Reconsideration",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3170-AB39&meetingId=1513573&acronym=3170-CFPB"
+  },
+  {
+   "meeting_id": "1481073",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/18/2026 11:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1481073&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1510773",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/17/2026 02:30 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1510773&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1480773",
+   "rin": "3150-AL48",
+   "meeting_datetime": "08/17/2026 01:00 PM",
+   "agency": "3150-NRC",
+   "rule_title": "In-situ Recovery Monitoring and Decommissioning Timeliness [NRC-2025-1204]",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3150-AL48&meetingId=1480773&acronym=3150-NRC"
+  },
+  {
+   "meeting_id": "1513373",
+   "rin": "0910-ZD09",
+   "meeting_datetime": "08/14/2026 03:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Action Levels for Cadmium in Processed Food Intended for Babies and Young Children; Draft Guidance for Industry",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD09&meetingId=1513373&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1496023",
+   "rin": "0584-AF17",
+   "meeting_datetime": "08/14/2026 02:00 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1496023&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1506173",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/14/2026 01:00 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1506173&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1511173",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/14/2026 11:00 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1511173&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1506123",
+   "rin": "0584-AF17",
+   "meeting_datetime": "08/13/2026 03:30 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1506123&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1483523",
+   "rin": "0938-AV92",
+   "meeting_datetime": "08/13/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Short-Term, Limited-Duration Insurance (CMS-9881)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV92&meetingId=1483523&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1505923",
+   "rin": "0910-AJ27",
+   "meeting_datetime": "08/13/2026 11:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Nonclinical Testing Terminology",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AJ27&meetingId=1505923&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1503475",
+   "rin": "0579-AE93",
+   "meeting_datetime": "08/13/2026 11:00 AM",
+   "agency": "0579-USDA/APHIS",
+   "rule_title": "Horse Protection Act Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0579-AE93&meetingId=1503475&acronym=0579-USDA/APHIS"
+  },
+  {
+   "meeting_id": "1510973",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/13/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1510973&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1495823",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/12/2026 01:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1495823&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1498723",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/12/2026 01:00 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1498723&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1495873",
+   "rin": "2040-AG47",
+   "meeting_datetime": "08/11/2026 01:30 PM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Updating the Water Quality Certification Rule",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG47&meetingId=1495873&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1485973",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/11/2026 01:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1485973&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1503573",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/11/2026 11:30 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1503573&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1500923",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/11/2026 11:00 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1500923&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1505873",
+   "rin": "0584-AF17",
+   "meeting_datetime": "08/11/2026 10:30 AM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1505873&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1495973",
+   "rin": "0584-AF17",
+   "meeting_datetime": "08/10/2026 03:30 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1495973&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1503423",
+   "rin": "0579-AE93",
+   "meeting_datetime": "08/10/2026 02:30 PM",
+   "agency": "0579-USDA/APHIS",
+   "rule_title": "Horse Protection Act Revisions",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0579-AE93&meetingId=1503423&acronym=0579-USDA/APHIS"
+  },
+  {
+   "meeting_id": "1472073",
+   "rin": "0596-AD66",
+   "meeting_datetime": "08/10/2026 01:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1472073&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1500924",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/10/2026 11:30 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1500924&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1488373",
+   "rin": "0584-AE85",
+   "meeting_datetime": "08/06/2026 03:30 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC): WIC Online Ordering and Transactions and Food Delivery Revisions to Meet the Needs of a Modern, Data-Driven Program",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AE85&meetingId=1488373&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1483623",
+   "rin": "0596-AD66",
+   "meeting_datetime": "08/06/2026 03:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1483623&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1496073",
+   "rin": "0938-AV74",
+   "meeting_datetime": "08/06/2026 01:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Guarding U.S. Medicare Against Rising Drug Costs (GUARD) Model (CMS-5546)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV74&meetingId=1496073&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1500873",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/06/2026 11:30 AM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1500873&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1488473",
+   "rin": "0910-AI05",
+   "meeting_datetime": "08/06/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Administrative Detention of Tobacco Products",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AI05&meetingId=1488473&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1498573",
+   "rin": "0651-AD89",
+   "meeting_datetime": "08/05/2026 03:00 PM",
+   "agency": "0651-DOC/PTO",
+   "rule_title": "Revision to Rules of Practice before the Patent Trial and Appeal Board",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0651-AD89&meetingId=1498573&acronym=0651-DOC/PTO"
+  },
+  {
+   "meeting_id": "1495773",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/05/2026 01:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1495773&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1503273",
+   "rin": "2040-AG44",
+   "meeting_datetime": "08/05/2026 01:00 PM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Updated Definition of \"Waters of the United States\"",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG44&meetingId=1503273&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1488523",
+   "rin": "0596-AD66",
+   "meeting_datetime": "08/04/2026 03:30 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1488523&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1483473",
+   "rin": "0596-AD66",
+   "meeting_datetime": "08/04/2026 03:00 PM",
+   "agency": "0596-USDA/FS",
+   "rule_title": "Special Areas: Roadless Area Conservation Repeal",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0596-AD66&meetingId=1483473&acronym=0596-USDA/FS"
+  },
+  {
+   "meeting_id": "1481024",
+   "rin": "0938-AV66",
+   "meeting_datetime": "08/04/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model (CMS-5545)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV66&meetingId=1481024&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1481023",
+   "rin": "0938-AV74",
+   "meeting_datetime": "08/04/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Guarding U.S. Medicare Against Rising Drug Costs (GUARD) Model (CMS-5546)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV74&meetingId=1481023&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1477923",
+   "rin": "0938-AV74",
+   "meeting_datetime": "08/04/2026 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Guarding U.S. Medicare Against Rising Drug Costs (GUARD) Model (CMS-5546)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV74&meetingId=1477923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1498423",
+   "rin": "2040-AG44",
+   "meeting_datetime": "08/04/2026 11:00 AM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Updated Definition of \"Waters of the United States\"",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG44&meetingId=1498423&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1500773",
+   "rin": "2040-AG47",
+   "meeting_datetime": "08/04/2026 10:00 AM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Updating the Water Quality Certification Rule",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG47&meetingId=1500773&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1486123",
+   "rin": "0938-AW04",
+   "meeting_datetime": "08/03/2026 03:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Cutting Administrative Requirements for Excellence in Patient Care (CMS-3484)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AW04&meetingId=1486123&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1477723",
+   "rin": "0938-AV66",
+   "meeting_datetime": "08/03/2026 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model (CMS-5545)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV66&meetingId=1477723&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1483373",
+   "rin": "2040-AG44",
+   "meeting_datetime": "08/03/2026 02:00 PM",
+   "agency": "2040-EPA/OW",
+   "rule_title": "Updated Definition of \"Waters of the United States\"",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2040-AG44&meetingId=1483373&acronym=2040-EPA/OW"
+  },
+  {
+   "meeting_id": "1486124",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/03/2026 01:00 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1486124&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1490773",
+   "rin": "0910-AI05",
+   "meeting_datetime": "08/03/2026 11:00 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Administrative Detention of Tobacco Products",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-AI05&meetingId=1490773&acronym=0910-HHS/FDA"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "1513675",
+   "rin": "0584-AF17",
+   "meeting_datetime": "08/31/2026 03:00 PM",
+   "agency": "0584-USDA/FNA",
+   "rule_title": "Child Nutrition Programs: Aligning Program Requirements with the 2025-2030 Dietary Guidelines for Americans",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0584-AF17&meetingId=1513675&acronym=0584-USDA/FNA"
+  },
+  {
+   "meeting_id": "1514073",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/31/2026 01:30 PM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1514073&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1525823",
+   "rin": "0938-AU54",
+   "meeting_datetime": "08/31/2026 11:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Amendments to Rules Governing Organ Procurement Organizations (CMS-3409)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AU54&meetingId=1525823&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "1512673",
+   "rin": "0910-ZD60",
+   "meeting_datetime": "08/31/2026 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "White Paper: Proposed Definition of Ultra-Processed Food",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZD60&meetingId=1512673&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "1513523",
+   "rin": "1004-AF53",
+   "meeting_datetime": "08/28/2026 01:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Planning and Designation of Areas of Critical Environmental Concern",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF53&meetingId=1513523&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "1512123",
+   "rin": "1210-AB37",
+   "meeting_datetime": "08/28/2026 01:00 PM",
+   "agency": "1210-DOL/EBSA",
+   "rule_title": "Improving Transparency into Pharmacy Benefit Manager Fee Disclosure",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1210-AB37&meetingId=1512123&acronym=1210-DOL/EBSA"
+  },
+  {
+   "meeting_id": "1514324",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/28/2026 11:30 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1514324&acronym=2120-DOT/FAA"
+  },
+  {
+   "meeting_id": "1513773",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/28/2026 11:00 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1513773&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1512273",
+   "rin": "3010-AA10",
+   "meeting_datetime": "08/28/2026 10:30 AM",
+   "agency": "3010-ACHP",
+   "rule_title": "Amendments to the Implementing Regulations for Section 106 of the National Historic Preservation Act",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=3010-AA10&meetingId=1512273&acronym=3010-ACHP"
+  },
+  {
+   "meeting_id": "1513873",
+   "rin": "2120-AL82",
+   "meeting_datetime": "08/28/2026 10:00 AM",
+   "agency": "2120-DOT/FAA",
+   "rule_title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Scheduled",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2120-AL82&meetingId=1513873&acronym=2120-DOT/FAA"
+  }
+ ]
+}

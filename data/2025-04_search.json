@@ -1,0 +1,318 @@
+{
+ "found_banner": 21,
+ "pulled": "2026-11-08 19:34:55 EST",
+ "rows_viewall": [
+  {
+   "meeting_id": "908873",
+   "rin": "1004-AF03",
+   "meeting_datetime": "04/30/2025 02:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Rescission of Conservation and Landscape Health Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF03&meetingId=908873&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "916423",
+   "rin": "0938-AV58",
+   "meeting_datetime": "04/30/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Preserving Medicaid Funding for Vulnerable Populations \u2013 Closing a Health Care-Related Tax Loophole (CMS-2448)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV58&meetingId=916423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "911373",
+   "rin": "0710-AB56",
+   "meeting_datetime": "04/29/2025 03:30 PM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Reissuance and Modification of Nationwide Permits",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-AB56&meetingId=911373&acronym=0710-DOD/COE"
+  },
+  {
+   "meeting_id": "916473",
+   "rin": "0910-ZC18",
+   "meeting_datetime": "04/29/2025 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Recommendations to Reduce the Risk of Transmission of Mycobacterium tuberculosis (Mtb) by Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Draft Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC18&meetingId=916473&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "916624",
+   "rin": "0910-ZC18",
+   "meeting_datetime": "04/29/2025 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Recommendations to Reduce the Risk of Transmission of Mycobacterium tuberculosis (Mtb) by Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Draft Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC18&meetingId=916624&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "916623",
+   "rin": "0910-ZC19",
+   "meeting_datetime": "04/29/2025 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Recommendations to Reduce the Risk of Transmission of Disease Agents Associated with Sepsis by Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps)",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC19&meetingId=916623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "916523",
+   "rin": "0694-AK13",
+   "meeting_datetime": "04/24/2025 03:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Adoption and Procedures of the Section 232 Steel and Aluminum Tariff Inclusions Process",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AK13&meetingId=916523&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "916373",
+   "rin": "0694-AK13",
+   "meeting_datetime": "04/24/2025 02:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Adoption and Procedures of the Section 232 Steel and Aluminum Tariff Inclusions Process",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AK13&meetingId=916373&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "898873",
+   "rin": "0610-AA83",
+   "meeting_datetime": "04/24/2025 01:00 PM",
+   "agency": "0610-DOC/EDA",
+   "rule_title": "Update to PWEDA Minimum Grant Rate",
+   "stage": "Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0610-AA83&meetingId=898873&acronym=0610-DOC/EDA"
+  },
+  {
+   "meeting_id": "898923",
+   "rin": "0710-AB56",
+   "meeting_datetime": "04/24/2025 11:30 AM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Reissuance and Modification of Nationwide Permits",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-AB56&meetingId=898923&acronym=0710-DOD/COE"
+  },
+  {
+   "meeting_id": "903873",
+   "rin": "0710-AB56",
+   "meeting_datetime": "04/22/2025 11:00 AM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Reissuance and Modification of Nationwide Permits",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-AB56&meetingId=903873&acronym=0710-DOD/COE"
+  },
+  {
+   "meeting_id": "883923",
+   "rin": "2900-AS31",
+   "meeting_datetime": "04/09/2025 01:00 PM",
+   "agency": "2900-VA",
+   "rule_title": "Reproductive Health Services",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2900-AS31&meetingId=883923&acronym=2900-VA"
+  },
+  {
+   "meeting_id": "886373",
+   "rin": "2900-AS31",
+   "meeting_datetime": "04/08/2025 03:00 PM",
+   "agency": "2900-VA",
+   "rule_title": "Reproductive Health Services",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2900-AS31&meetingId=886373&acronym=2900-VA"
+  },
+  {
+   "meeting_id": "896373",
+   "rin": "2900-AS31",
+   "meeting_datetime": "04/08/2025 01:30 PM",
+   "agency": "2900-VA",
+   "rule_title": "Reproductive Health Services",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2900-AS31&meetingId=896373&acronym=2900-VA"
+  },
+  {
+   "meeting_id": "876473",
+   "rin": "2900-AS31",
+   "meeting_datetime": "04/03/2025 01:00 PM",
+   "agency": "2900-VA",
+   "rule_title": "Reproductive Health Services",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2900-AS31&meetingId=876473&acronym=2900-VA"
+  },
+  {
+   "meeting_id": "861423",
+   "rin": "0938-AV40",
+   "meeting_datetime": "04/02/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Contract Year 2026 Policy and Technical Changes to the Medicare Advantage, Medicare Prescription Drug Benefit, and Medicare Cost Plan Programs, and PACE (CMS-4208)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV40&meetingId=861423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "883873",
+   "rin": "2105-AF32",
+   "meeting_datetime": "04/02/2025 01:30 PM",
+   "agency": "2105-DOT/OST",
+   "rule_title": "Administrative Rulemaking, Guidance, and Enforcement Procedures",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2105-AF32&meetingId=883873&acronym=2105-DOT/OST"
+  },
+  {
+   "meeting_id": "881373",
+   "rin": "0938-AV40",
+   "meeting_datetime": "04/02/2025 10:00 AM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Contract Year 2026 Policy and Technical Changes to the Medicare Advantage, Medicare Prescription Drug Benefit, and Medicare Cost Plan Programs, and PACE (CMS-4208)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV40&meetingId=881373&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "873923",
+   "rin": "0938-AV40",
+   "meeting_datetime": "04/01/2025 02:30 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Contract Year 2026 Policy and Technical Changes to the Medicare Advantage, Medicare Prescription Drug Benefit, and Medicare Cost Plan Programs, and PACE (CMS-4208)",
+   "stage": "Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV40&meetingId=873923&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "876373",
+   "rin": "2125-AG16",
+   "meeting_datetime": "04/01/2025 01:00 PM",
+   "agency": "2125-DOT/FHWA",
+   "rule_title": "National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2125-AG16&meetingId=876373&acronym=2125-DOT/FHWA"
+  },
+  {
+   "meeting_id": "866373",
+   "rin": "2501-AE12",
+   "meeting_datetime": "04/01/2025 11:00 AM",
+   "agency": "2501-HUD/HUDSEC",
+   "rule_title": "Equal Access to Housing in HUD Programs Revisions (FR-6518)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=2501-AE12&meetingId=866373&acronym=2501-HUD/HUDSEC"
+  }
+ ],
+ "rows_paginated": [
+  {
+   "meeting_id": "908873",
+   "rin": "1004-AF03",
+   "meeting_datetime": "04/30/2025 02:30 PM",
+   "agency": "1004-DOI/BLM",
+   "rule_title": "Rescission of Conservation and Landscape Health Rule",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=1004-AF03&meetingId=908873&acronym=1004-DOI/BLM"
+  },
+  {
+   "meeting_id": "916423",
+   "rin": "0938-AV58",
+   "meeting_datetime": "04/30/2025 02:00 PM",
+   "agency": "0938-HHS/CMS",
+   "rule_title": "Preserving Medicaid Funding for Vulnerable Populations \u2013 Closing a Health Care-Related Tax Loophole (CMS-2448)",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0938-AV58&meetingId=916423&acronym=0938-HHS/CMS"
+  },
+  {
+   "meeting_id": "911373",
+   "rin": "0710-AB56",
+   "meeting_datetime": "04/29/2025 03:30 PM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Reissuance and Modification of Nationwide Permits",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-AB56&meetingId=911373&acronym=0710-DOD/COE"
+  },
+  {
+   "meeting_id": "916473",
+   "rin": "0910-ZC18",
+   "meeting_datetime": "04/29/2025 02:00 PM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Recommendations to Reduce the Risk of Transmission of Mycobacterium tuberculosis (Mtb) by Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Draft Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC18&meetingId=916473&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "916624",
+   "rin": "0910-ZC18",
+   "meeting_datetime": "04/29/2025 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Recommendations to Reduce the Risk of Transmission of Mycobacterium tuberculosis (Mtb) by Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Draft Guidance",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC18&meetingId=916624&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "916623",
+   "rin": "0910-ZC19",
+   "meeting_datetime": "04/29/2025 10:30 AM",
+   "agency": "0910-HHS/FDA",
+   "rule_title": "Recommendations to Reduce the Risk of Transmission of Disease Agents Associated with Sepsis by Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps)",
+   "stage": "Notice Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0910-ZC19&meetingId=916623&acronym=0910-HHS/FDA"
+  },
+  {
+   "meeting_id": "916523",
+   "rin": "0694-AK13",
+   "meeting_datetime": "04/24/2025 03:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Adoption and Procedures of the Section 232 Steel and Aluminum Tariff Inclusions Process",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AK13&meetingId=916523&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "916373",
+   "rin": "0694-AK13",
+   "meeting_datetime": "04/24/2025 02:00 PM",
+   "agency": "0694-DOC/BIS",
+   "rule_title": "Adoption and Procedures of the Section 232 Steel and Aluminum Tariff Inclusions Process",
+   "stage": "Interim Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0694-AK13&meetingId=916373&acronym=0694-DOC/BIS"
+  },
+  {
+   "meeting_id": "898873",
+   "rin": "0610-AA83",
+   "meeting_datetime": "04/24/2025 01:00 PM",
+   "agency": "0610-DOC/EDA",
+   "rule_title": "Update to PWEDA Minimum Grant Rate",
+   "stage": "Final Rule Stage",
+   "meeting_type": "No Show",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0610-AA83&meetingId=898873&acronym=0610-DOC/EDA"
+  },
+  {
+   "meeting_id": "898923",
+   "rin": "0710-AB56",
+   "meeting_datetime": "04/24/2025 11:30 AM",
+   "agency": "0710-DOD/COE",
+   "rule_title": "Reissuance and Modification of Nationwide Permits",
+   "stage": "Proposed Rule Stage",
+   "meeting_type": "Completed",
+   "href": "/public/do/viewEO12866Meeting?viewRule=false&rin=0710-AB56&meetingId=898923&acronym=0710-DOD/COE"
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+{
+ "885992": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB Meeting on 340B Rebate Models_Final.pdf\"",
+  "filename": "OMB Meeting on 340B Rebate Models_Final.pdf",
+  "size": 2720650,
+  "sha256": "354e36d9ebf02b1a0d2c7ad01f44ad024b7cfc36d584228ca61f64129c25f535"
+ },
+ "895742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"AbbVie - OMB Engagement Deck v.6.25.25 FINAL.pdf\"",
+  "filename": "AbbVie - OMB Engagement Deck v.6.25.25 FINAL.pdf",
+  "size": 131443,
+  "sha256": "705e0f220bf4ac03369af41b25307ab0eeaaea001c9c2e19d30d6dd0ca15a028"
+ },
+ "898242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Comments on Enhanced ACAS IFR FINAL.pdf\"",
+  "filename": "Comments on Enhanced ACAS IFR FINAL.pdf",
+  "size": 168367,
+  "sha256": "83bb0551818d07fa2a7ea53fb127926f8a52b9c321d829683f0cf02357ce6244"
+ },
+ "900742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"RxParadigm OMB EO 12866 .pdf\"",
+  "filename": "RxParadigm OMB EO 12866 .pdf",
+  "size": 1321253,
+  "sha256": "c90b1efe885af8c44ef9f9b98e36cf97e607a37d073f25e9496b609bdf2f0e73"
+ },
+ "900792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Humacyte FY2026 IPPS Proposed Rule Comment Letter.pdf\"",
+  "filename": "Humacyte FY2026 IPPS Proposed Rule Comment Letter.pdf",
+  "size": 2053152,
+  "sha256": "2455b06bfb89b208cc477b169edce91f8271660dc73e0310a73dd0b398ec5d3b"
+ },
+ "900793": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Symvess NTAP Surgeon Support Letters.pdf\"",
+  "filename": "Symvess NTAP Surgeon Support Letters.pdf",
+  "size": 3203493,
+  "sha256": "593d88c0d0035c138a8f49057e7d45dff142b3be0f8625d0ef1a7427f8f336b8"
+ },
+ "900794": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Humacyte OMB Presentation.pdf\"",
+  "filename": "Humacyte OMB Presentation.pdf",
+  "size": 3595649,
+  "sha256": "8b907fef5eca51b1c61409f6d70f7349f1209915ca4d5f2695cc54a89660b2d2"
+ },
+ "903242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025.07.09 VA 12866 Comment Submission.pdf\"",
+  "filename": "2025.07.09 VA 12866 Comment Submission.pdf",
+  "size": 262473,
+  "sha256": "3226fe52943b159f69a3ca48fc0e3d6176191e5dda45ebf87ecb048e380c6084"
+ },
+ "905742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ATRI Understanding CO2 Impacts of Zero-Emission Trucks 05 2022.pdf\"",
+  "filename": "ATRI Understanding CO2 Impacts of Zero-Emission Trucks 05 2022.pdf",
+  "size": 5807883,
+  "sha256": "5bbab86a1ee14348ee473c5d4e33ce3e374889486d659e5af099073d456df564"
+ },
+ "908242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"HW25 - FMI UPF RFI 7.11.25.pdf\"",
+  "filename": "HW25 - FMI UPF RFI 7.11.25.pdf",
+  "size": 74894,
+  "sha256": "f4ff54f95a202fc032c5dfd9bb07565f4a278f3421f1b0c7beef2a58bb040281"
+ },
+ "908392": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"BIO letter to HRSA on 340B rebate model_10_10_2024_FINAL.pdf\"",
+  "filename": "BIO letter to HRSA on 340B rebate model_10_10_2024_FINAL.pdf",
+  "size": 160554,
+  "sha256": "4e4323c70318369fddaa64998d2c73298aaf57f140ebf64b0f439eda664c2319"
+ },
+ "908393": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"BIO 340B Rebate Model One Pager.pdf\"",
+  "filename": "BIO 340B Rebate Model One Pager.pdf",
+  "size": 187088,
+  "sha256": "4bb39f8116141455f904ad09286752c2bb22ea55641a59131df82fc4773edf4a"
+ },
+ "908394": {
+  "status": 200,
+  "content_type": "application/pptx",
+  "content_disposition": "attachment;filename=\"BIO-OMB Meeting 340B Rebate Guidance _FINAL.pptx\"",
+  "filename": "BIO-OMB Meeting 340B Rebate Guidance _FINAL.pptx",
+  "size": 2239518,
+  "sha256": "459d58327cbd084f399606eddcf831d2d6b3699f3e0d8ae6dc1fef794892b6c6"
+ },
+ "913242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Sanofi Final_OMB_340B Credit Model Meeting .pdf\"",
+  "filename": "Sanofi Final_OMB_340B Credit Model Meeting .pdf",
+  "size": 287309,
+  "sha256": "1c43887f127bbd96795701e27f169199818186066f8ed131a05c247a5a3ef4bf"
+ },
+ "915742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Industry_UPF_RFI_Letter.pdf\"",
+  "filename": "Industry_UPF_RFI_Letter.pdf",
+  "size": 38479,
+  "sha256": "e65e7bd98b189adcaf73afce6b421d23deefb646f147be4d92c006af1cbac014"
+ },
+ "915792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CMS-2025-0028-0156_attachment_1.pdf\"",
+  "filename": "CMS-2025-0028-0156_attachment_1.pdf",
+  "size": 514014,
+  "sha256": "e6a6312be7fdac41cc6e5bd041ca1574f1512f656cc35abe14d102a5f98385c7"
+ },
+ "915793": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Granite MS-DRG Mapping Request (SI-BONE) October 31 2024.pdf\"",
+  "filename": "Granite MS-DRG Mapping Request (SI-BONE) October 31 2024.pdf",
+  "size": 1188079,
+  "sha256": "b0f3bb68dea84663cde80718a255dc178cb040f51116fb2562134f023aa664e6"
+ },
+ "915794": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB - CMS Support of Advanced Spinopelvic - 7-14-25.pdf\"",
+  "filename": "OMB - CMS Support of Advanced Spinopelvic - 7-14-25.pdf",
+  "size": 3828403,
+  "sha256": "97152f252904747fadaa48c2c827597ce65115495832e08e65fc1ecc3c4cc7c4"
+ },
+ "915795": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB - Key References and Publications - Advanced Spinopelvic Procedures (7-14-25).pdf\"",
+  "filename": "OMB - Key References and Publications - Advanced Spinopelvic Procedures (7-14-25).pdf",
+  "size": 209508,
+  "sha256": "9f32988676ae5e48c1aac32269c477bee6d0aaed0c69f92290152aa35bbe4e5a"
+ },
+ "915796": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Rep Tenney Letter to CMS.pdf\"",
+  "filename": "Rep Tenney Letter to CMS.pdf",
+  "size": 390469,
+  "sha256": "e94d193b28d6a4a0b061411cef07e5bbfb81e01ad664bf12cef6214c3f8fca27"
+ },
+ "915797": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CMS-2025-0028-0089_attachment_1.pdf\"",
+  "filename": "CMS-2025-0028-0089_attachment_1.pdf",
+  "size": 57065,
+  "sha256": "d73dac3cc4f3ceb12878b25ad1ed1683ceddde80d6ac6aa26642fede31aaeff8"
+ },
+ "915842": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ESA Recovery Chart 2025.pdf\"",
+  "filename": "ESA Recovery Chart 2025.pdf",
+  "size": 254840,
+  "sha256": "ea6898683c7bc186217197abe7711bae02a855a3cdc01d9da3e3d15cd3f7a2e5"
+ },
+ "918242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"IDEM 06-23-2009 Endangerment Comments.pdf\"",
+  "filename": "IDEM 06-23-2009 Endangerment Comments.pdf",
+  "size": 891672,
+  "sha256": "857cb0efdbaaa13f63eb0b9d317b77b1a8264fa9cdb66ae78427294ae38aa53e"
+ },
+ "920742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Combined Testimonies for Endangerment OMB Meeting.pdf\"",
+  "filename": "Combined Testimonies for Endangerment OMB Meeting.pdf",
+  "size": 244578,
+  "sha256": "98041c71e3df5cb2c4395b0850452dc523467ebb9e85f5bce9e38da3f3fffbd4"
+ },
+ "920792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025 07 17 Handout - Changes in Regulations.pdf\"",
+  "filename": "2025 07 17 Handout - Changes in Regulations.pdf",
+  "size": 655005,
+  "sha256": "d5e4bd29416a9f1669ee9d73c0bdee9836bb0d0b0f3777e24556a25889e94b0c"
+ },
+ "920793": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025 Letter in Support re Rescission AK NPS Rule.pdf\"",
+  "filename": "2025 Letter in Support re Rescission AK NPS Rule.pdf",
+  "size": 3594350,
+  "sha256": "fef12d14ee3e3bd82068c968d2110dbf0572102f9ab2e4587b55623cfcccd7ec"
+ },
+ "920794": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025 07 17 Handout - Requested Changes.pdf\"",
+  "filename": "2025 07 17 Handout - Requested Changes.pdf",
+  "size": 71308,
+  "sha256": "d632c3e2b9cee5761551cbf145bbc350e83c1dd59c16147c30b5e3494aa6a827"
+ },
+ "923242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"IATA Comments to OIRA on CBP IFR on Enhanced Air Cargo Advance Screening (Final).pdf\"",
+  "filename": "IATA Comments to OIRA on CBP IFR on Enhanced Air Cargo Advance Screening (Final).pdf",
+  "size": 189076,
+  "sha256": "8fd662be6d6dc1f4a4e4ab56342b5e87e7fad8332f53ddaa8c1b22ead5444881"
+ },
+ "925742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"DRAFT COMMENT TO OIRA - Google Docs.pdf\"",
+  "filename": "DRAFT COMMENT TO OIRA - Google Docs.pdf",
+  "size": 70213,
+  "sha256": "7d90e40412d81f08e3fd9c5b0d5f2e84c70dac21fcc52e5780205a52f1ce7a3c"
+ },
+ "925792": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"MECA GHG+Motor_Vehicle_Reconsideration--OMB NPRM 07212025 Final.pdf\"",
+  "filename": "MECA GHG+Motor_Vehicle_Reconsideration--OMB NPRM 07212025 Final.pdf",
+  "size": 1881226,
+  "sha256": "64e57d8b9ac883f0bfd240140be477dd8efb8a2c6fd5ad1f45d9d6ae01623f1a"
+ },
+ "925842": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Get Connected EV Quarterly Report 2025 Q1.pdf\"",
+  "filename": "Get Connected EV Quarterly Report 2025 Q1.pdf",
+  "size": 4187305,
+  "sha256": "6c0a5e8207f738f48dccbdcd2a2ebc7dc2a2fdfa95c54c51783d0284b2846f15"
+ },
+ "928242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CHA Rebate Model to HHS final version.pdf\"",
+  "filename": "CHA Rebate Model to HHS final version.pdf",
+  "size": 140384,
+  "sha256": "6f3cff7f6bb4d7365f15d22744fda04cac5d45b98b126642e03882314a3e1f4d"
+ },
+ "928243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"340B Fact Sheet.pdf\"",
+  "filename": "340B Fact Sheet.pdf",
+  "size": 106383,
+  "sha256": "c5252cbf9d3d1cdea1759da1ce3005a12af1f9386e43d2bac7acca98bb1a9913"
+ },
+ "928244": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Scientists Warning on Fossil Fuels.pdf\"",
+  "filename": "Scientists Warning on Fossil Fuels.pdf",
+  "size": 1525569,
+  "sha256": "ccbcb2802c2e5922389c218fa362aa6b7ce961805a1355c9d1093aa0dfbc8627"
+ },
+ "928292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB Endangerment Testimony Anderson 07_2025 .pdf\"",
+  "filename": "OMB Endangerment Testimony Anderson 07_2025 .pdf",
+  "size": 248552,
+  "sha256": "5d4c4055fb8bdf3ae9f4d9f8c40c547b63538aeb8ea9d15cb659c668eb1d9a2b"
+ },
+ "928342": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"072225_Endangerment Finding and Outdoor Recreation.pdf\"",
+  "filename": "072225_Endangerment Finding and Outdoor Recreation.pdf",
+  "size": 247768,
+  "sha256": "7246fd58c0de7db79e81b348ee64ed9e0e680780cb49186a9a462e6a74d9d874"
+ },
+ "928445": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NGO Comments on LMD Proposal - 2023-07-05 (UCS is signee).pdf\"",
+  "filename": "NGO Comments on LMD Proposal - 2023-07-05 (UCS is signee).pdf",
+  "size": 2923203,
+  "sha256": "73d8f306d2ab1b2672bec178c712a765ed3f6645d293e76be08ac7f2cae963d4"
+ },
+ "928446": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EPA-HQ-OAR-2022-0985-1638_attachment_1.pdf\"",
+  "filename": "EPA-HQ-OAR-2022-0985-1638_attachment_1.pdf",
+  "size": 2246034,
+  "sha256": "3d9c412733c5413ddd8abba8c0f20be403b6cc9056913422f035cb825fdca7cd"
+ },
+ "930742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Tracking-the-State-of-U.S.-EV-Manufacturing.pdf\"",
+  "filename": "Tracking-the-State-of-U.S.-EV-Manufacturing.pdf",
+  "size": 1250191,
+  "sha256": "9769df16c200897a5ce8772a14576770901292fde8cd39562f68f8ba512a2157"
+ },
+ "930743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Supplying-Ingenuity-vFINAL-low-res.pdf\"",
+  "filename": "Supplying-Ingenuity-vFINAL-low-res.pdf",
+  "size": 1304658,
+  "sha256": "90c2e2fd1ab1b8b376c6ab7ca6a684e6670dc050862798968891682aba24f19b"
+ },
+ "930744": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"VISUALIZING THE CLEAN ECONOMY_THE AUTOMOTIVE SECTOR.docx\"",
+  "filename": "VISUALIZING THE CLEAN ECONOMY_THE AUTOMOTIVE SECTOR.docx",
+  "size": 375215,
+  "sha256": "4918e52e3b487bcdede229e47491764c25e19063889f91d7156970e4b5c2d6d9"
+ },
+ "930792": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"CR-OMB_EPA rule meeting.docx\"",
+  "filename": "CR-OMB_EPA rule meeting.docx",
+  "size": 15122,
+  "sha256": "25077a04ae74f40a08333e691cb3524b9ee1f96cdbc4fe4f68355e7ab5ad0bcd"
+ },
+ "930793": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CR Blog EPA multipollutant vehicle standards 2024.pdf\"",
+  "filename": "CR Blog EPA multipollutant vehicle standards 2024.pdf",
+  "size": 730645,
+  "sha256": "ee055da8f20313409e9e284c1ea87c910a9b8c3db9dcfc774a82bec5fa157a7a"
+ },
+ "930794": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ICF-CR Cost of Climate Change Final Report 4-15-24.pdf\"",
+  "filename": "ICF-CR Cost of Climate Change Final Report 4-15-24.pdf",
+  "size": 1333885,
+  "sha256": "6ac2e31e5eb472987f7038458813b326f50951bf27eb59f045f43650f72c3305"
+ },
+ "930842": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"2025-07-23 OMB Testimony Endangerment + Clean Cars.pdf\"",
+  "filename": "2025-07-23 OMB Testimony Endangerment + Clean Cars.pdf",
+  "size": 114829,
+  "sha256": "462d10265e6a22d6cb66fc78f13ba4770c33d04ce94842eb41695700dba9c3a6"
+ },
+ "933242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"CCC_GHGRP-Fact-Sheet.pdf\"",
+  "filename": "CCC_GHGRP-Fact-Sheet.pdf",
+  "size": 126845,
+  "sha256": "2e6dcda30dd59908545a2f3afb9d2f079be7dfa58b9a1885d84de4a6005f727e"
+ },
+ "933243": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"GHGRP-FAQ.pdf\"",
+  "filename": "GHGRP-FAQ.pdf",
+  "size": 648507,
+  "sha256": "aadbc6c5c299ea3a35348ed61fb1d3a4edbcd729dd9333bf83524673b069af1a"
+ },
+ "933244": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"About-us-Fact-Sheet.pdf\"",
+  "filename": "About-us-Fact-Sheet.pdf",
+  "size": 86430,
+  "sha256": "2594a3785f633a53b6c346630e63b2d3907f42c2d5a5ed9dc716a4ddc0a75fcc"
+ },
+ "933245": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"What-is-carbon-management.pdf\"",
+  "filename": "What-is-carbon-management.pdf",
+  "size": 98566,
+  "sha256": "d8672501ee1f11ecc47bfd5f9863583accb316ec68d495a2b51864eef9b5a757"
+ },
+ "933292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"EO12866 Meeting re_ Blanket Rule.pdf\"",
+  "filename": "EO12866 Meeting re_ Blanket Rule.pdf",
+  "size": 189646,
+  "sha256": "58ade88eb7e9a3dcd39c21e372c1efdd3af3617aa331eec9ebf85b3be6c3a41f"
+ },
+ "933293": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PERC-4dComment-8212023 (2).pdf\"",
+  "filename": "PERC-4dComment-8212023 (2).pdf",
+  "size": 292910,
+  "sha256": "063954ed12d267cc10e3f9a8e614953aad12f69621ffab3c7c2d9e4ab8c66056"
+ },
+ "933294": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"PERC-RMEF_USFWS4dcomplaint2025.pdf\"",
+  "filename": "PERC-RMEF_USFWS4dcomplaint2025.pdf",
+  "size": 477454,
+  "sha256": "3834af6a5f7d7e201abdbe9bf5754c3a4d5ba4452df55c2fdba4ccd9d36bc0fa"
+ },
+ "935742": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Sales  Price Data Re OBBBA Tax Credit Changes.pdf\"",
+  "filename": "Sales  Price Data Re OBBBA Tax Credit Changes.pdf",
+  "size": 861794,
+  "sha256": "327d7f84361376e8f109b46ddc6b592f18b6f4de87f2aa7e23e8100ac5d56495"
+ },
+ "935842": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ClimateChangeReport2019.pdf\"",
+  "filename": "ClimateChangeReport2019.pdf",
+  "size": 7145674,
+  "sha256": "1183683b80dce96f52d66ee5923ec6313658f5518f2af36b4881ef435cdf5137"
+ },
+ "935843": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ELPC_ClimateChangeUpdate_Final2025.pdf\"",
+  "filename": "ELPC_ClimateChangeUpdate_Final2025.pdf",
+  "size": 2227499,
+  "sha256": "cbb4c33517e491bc445d073d11f205256ea7e119eb7b6ee30f63f595cbf868a0"
+ },
+ "935892": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"ICCT meeting with OMB July 2025.pdf\"",
+  "filename": "ICCT meeting with OMB July 2025.pdf",
+  "size": 1050832,
+  "sha256": "6f51ff03c86ccc579116eee132144b4621f93f876ad59864eecf955f33f179d3"
+ },
+ "938242": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"NACS SIGMA Comments on Variety Proposed Rule 2019.pdf\"",
+  "filename": "NACS SIGMA Comments on Variety Proposed Rule 2019.pdf",
+  "size": 280986,
+  "sha256": "dc49605b75ba96f51dbee46edc75fdc9de833e4dcbf9e4fcb1b12f33deeae1dc"
+ },
+ "938292": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"OMB GHG and Tier 3 Rule Oregon comments July 28 2025.pdf\"",
+  "filename": "OMB GHG and Tier 3 Rule Oregon comments July 28 2025.pdf",
+  "size": 222600,
+  "sha256": "cde3257f1106e7db72a7087a4b49fb2e8931b41f71d2700c543440154b088a20"
+ },
+ "938293": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"Talking Points for OMB 7-27-2025.docx\"",
+  "filename": "Talking Points for OMB 7-27-2025.docx",
+  "size": 18844,
+  "sha256": "2b460e20eaace70342132ce31350e400afd3646c21c38af39ccf70ebc19dfdfe"
+ },
+ "938294": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"250728 Kassel closing remarks - CALSTART OIRA Meeting (prepared for filing).docx\"",
+  "filename": "250728 Kassel closing remarks - CALSTART OIRA Meeting (prepared for filing).docx",
+  "size": 17646,
+  "sha256": "1a2061c7f00f28afefaa39e98bf3e61cba4efe2c8103eb7e18ac87c0fdead920"
+ },
+ "940742": {
+  "status": 200,
+  "content_type": "application/pptx",
+  "content_disposition": "attachment;filename=\"RWC Fact Sheet Rebate Models (D1162981-2).pptx\"",
+  "filename": "RWC Fact Sheet Rebate Models (D1162981-2).pptx",
+  "size": 129410,
+  "sha256": "3f17a76743ae04bc8bb9980aae654513ec40d4db7c0157067e1229c12d3adf13"
+ },
+ "940743": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Rebate Models 2025.01.pdf\"",
+  "filename": "Rebate Models 2025.01.pdf",
+  "size": 166686,
+  "sha256": "257b9dd4ed5dfe0c1b0f8063013807c3599856f03eff1c184b081d49d5880613"
+ },
+ "940744": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Quill-Letter-L20840-Letter-to-HHS-on-JJ-340B-Rebate-Model-Version-1-09-27-2024-@-03-08-PM.pdf\"",
+  "filename": "Quill-Letter-L20840-Letter-to-HHS-on-JJ-340B-Rebate-Model-Version-1-09-27-2024-@-03-08-PM.pdf",
+  "size": 4307539,
+  "sha256": "1d313efcc86b8f6a67fda23fa93ae754439af7ca84c10985edfccf5aa8b61fa8"
+ },
+ "940745": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"OMB Summary Opposition to Rebate Model.docx\"",
+  "filename": "OMB Summary Opposition to Rebate Model.docx",
+  "size": 14804,
+  "sha256": "1097d82ed71d62b10368af9a9257eed6efab15383f0b4ee103df38cdcebc3998"
+ },
+ "940746": {
+  "status": 200,
+  "content_type": "application/docx",
+  "content_disposition": "attachment;filename=\"RWC-340B Talking Points on Rebate Model (D1140643) (002).docx\"",
+  "filename": "RWC-340B Talking Points on Rebate Model (D1140643) (002).docx",
+  "size": 37851,
+  "sha256": "ed0a42ead184e31ab192cbdb17dd2481678651fc7052230fecf90ea8f38e9ed4"
+ },
+ "940747": {
+  "status": 200,
+  "content_type": "application/pdf",
+  "content_disposition": "attachment;filename=\"Rebate Model - Operational Considerations.pdf\"",
+  "filename": "Rebate Model - Operational Considerations.pdf",
+  "size": 548579,
+  "sha256": "1c765761a30f3b43b11db89bf0a74f907be48756486a1ceec4829dae96f09593"
+ }
+}
