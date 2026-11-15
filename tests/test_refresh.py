@@ -21,3 +21,15 @@ def test_attendees_replaced_per_meeting():
     new = pd.DataFrame({"meeting_id": ["1"], "name": ["z"]})
     a = refresh.merge_attendees(old, new, ["1"])
     assert sorted(a["name"]) == ["c", "z"]
+
+
+def test_card_counts_come_from_the_tables():
+    import card
+    m = pd.DataFrame({"meeting_id": ["1", "2", "3"]})
+    a = pd.DataFrame({"meeting_id": ["1", "1", "2"]})
+    d = pd.DataFrame({"document_id": ["10", "11", "12"], "sha256": ["x", "x", "y"],
+                      "text_path": ["text/a.txt", "", None]})
+    c = card.render(m, a, d, "2026-11-15")
+    assert "3 meetings" in c and "3 attendee rows" in c and "list none (1)" in c
+    assert "1 listings are byte-identical" in c and "extracted text for 1 of them" in c
+    assert "2 handouts have no extracted text" in c and "last read on 2026-11-15" in c
