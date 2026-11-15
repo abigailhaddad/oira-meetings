@@ -135,6 +135,10 @@ def main():
     os.makedirs(os.path.join(ROOT, "out"), exist_ok=True)
     for name, df in (("meetings", meetings), ("attendees", attendees), ("documents", docs)):
         df.to_parquet(os.path.join(ROOT, "out", f"{name}.parquet"), index=False)
+    import card
+    card_path = os.path.join(ROOT, "out", "README.md")
+    with open(card_path, "w") as f:
+        f.write(card.render(meetings, attendees, docs, today.isoformat()))
     if dry:
         print("dry run: nothing uploaded")
         return
@@ -145,6 +149,7 @@ def main():
     adds = [CommitOperationAdd(path_in_repo=f"data/{n}.parquet", path_or_fileobj=os.path.join(ROOT, "out", f"{n}.parquet"))
             for n in ("meetings", "attendees", "documents")]
     adds += [CommitOperationAdd(path_in_repo=rel, path_or_fileobj=src) for rel, src in ops]
+    adds.append(CommitOperationAdd(path_in_repo="README.md", path_or_fileobj=card_path))
     HfApi().create_commit(repo_id=REPO, repo_type="dataset", operations=adds,
                           commit_message=f"Refresh {today}: +{added_m} meetings, {changed_m} changed, {len(ops)} files")
 
