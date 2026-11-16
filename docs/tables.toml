@@ -1,0 +1,87 @@
+# Column descriptions for the published tables. scripts/data_docs.py reads this file and the parquet files
+# and writes docs/data_dictionary.md; it stops with an error if a parquet column is missing here or a column
+# here is not in the parquet, so the dictionary can't drift from the schema.
+#
+# Each description comes from the code that builds the column (scripts/01_list_month.py,
+# 02_fetch_meetings.py, 05_extract_text.py, 13_add_requestor_client.py, 15_build_hf.py, refresh.py) or from
+# the labels on reginfo.gov's search results and meeting pages. A column listed in `unconfirmed` is one whose
+# meaning the source doesn't define; the dictionary marks it.
+#
+# Every column is stored as text, numbers included, because the tables are built from CSV files read as text.
+
+dataset = "abigailhaddad/oira-eo12866-meetings"
+
+[tables.meetings]
+file = "data/meetings.parquet"
+config = "none (the card defines no configs)"
+grain = "One row per EO 12866 meeting listed in reginfo.gov's meeting search, meetings dated 2025-01-20 onward."
+primary_key = "meeting_id"
+
+[tables.meetings.columns]
+month = "The month (YYYY-MM) whose search the meeting came from; the month of `meeting_datetime`."
+meeting_id = "reginfo.gov's meeting id, from the meeting page link."
+rin = "Regulation Identifier Number of the rule the meeting is about (e.g. `2060-AW71`)."
+meeting_datetime = "The meeting page's Meeting Date/Time, as shown (MM/DD/YYYY HH:MM AM/PM); the search results' value when the page has none."
+list_meeting_datetime = "Meeting Date/Time as shown in the search results."
+agency = "The meeting page's Agency/Subagency, as shown: agency code, hyphen, acronym (e.g. `2060-EPA/OAR`)."
+rule_title = "The meeting page's Title (the rule's title)."
+stage = "The meeting page's Stage of Rulemaking (e.g. `Proposed Rule Stage`)."
+meeting_type = "The search results' Meeting Type column: `Completed`, `Scheduled` or `No Show`."
+requestor = "The meeting page's Requestor: the organization that asked for the meeting."
+requestor_name = "The meeting page's Requestor's Name."
+n_documents = "Number of handouts listed on the meeting page (rows in `documents` for this meeting)."
+n_attendees = "Number of attendee rows on the meeting page (rows in `attendees` for this meeting)."
+url = "Link to the meeting page on reginfo.gov."
+requestor_client = "The meeting page's Requestor's Client, when the page shows one; usually blank."
+
+[tables.attendees]
+file = "data/attendees.parquet"
+config = "none (the card defines no configs)"
+grain = "One row per line of a meeting page's attendee list. No key: some meetings list the same person twice, and those rows are kept."
+
+[tables.attendees.columns]
+month = "Same as `meetings.month` for the meeting."
+meeting_id = "The meeting (`meetings.meeting_id`)."
+name = "The attendee's name: the text before ` - ` in the attendee list."
+affiliation = "The text after ` - `, as shown (e.g. `OMB`, `EPA`, a company or group). Not standardized."
+participation = "The Participation column: `Teleconference`, `In Person` or `Did Not Attend`."
+
+[tables.documents]
+file = "data/documents.parquet"
+config = "none (the card defines no configs)"
+grain = "One row per handout listed on a meeting page. A byte-identical file listed under two meetings is a row under each (same `sha256`)."
+primary_key = "document_id"
+
+[tables.documents.columns]
+month = "Same as `meetings.month` for the meeting."
+meeting_id = "The meeting (`meetings.meeting_id`)."
+document_id = "reginfo.gov's document id, from the download button on the meeting page."
+listed_title = "The handout's title as shown on the meeting page."
+file_name = "The file name from the download's Content-Disposition header. Blank when the server sent none."
+file_name_source = "`Content-Disposition`, or `missing (no Content-Disposition; see listed_title)`."
+content_type = "The download's Content-Type header as sent (e.g. `application/pdf`, `application/docx`)."
+file_cmd = "What the Unix `file` command says the downloaded bytes are (e.g. `PDF document, version 1.7`)."
+size_bytes = "Size of the downloaded file in bytes."
+sha256 = "SHA-256 of the downloaded file."
+sha256_matches_download_log = "`True` if the hash computed at extraction matches the one logged at download."
+pages_or_slides = "PDF page count from pdfinfo, or slide count for a PowerPoint file. Blank for other files and Word documents."
+text_chars = "Characters of extracted text, not counting whitespace."
+text_extracted = "`yes` (at least 50 characters and, for a counted file, at least 100 per page or slide), `partial/low` (some text, below that) or `no`. No OCR was run."
+note = "Extraction notes, e.g. `OOXML text scraped from XML; pages not counted`, `no text layer (likely scanned/image-only); no OCR performed`, or a pdfinfo/pdftotext error."
+title = "The title from the meeting page's document list (the same text as `listed_title`)."
+handout_path = "Path of the file in this dataset: `handouts/<month>/<document_id><extension from file_name>` (`.bin` when there is none)."
+text_path = "Path of the extracted text in this dataset, `text/<month>/<document_id>.txt`. Blank unless `text_extracted` is `yes`."
+
+[[joins]]
+left = "meetings.meeting_id"
+right = "attendees.meeting_id"
+kind = "||--o{"
+label = "meeting_id"
+note = "Exact join. Every attendee row has a meeting; some meetings list no attendees."
+
+[[joins]]
+left = "meetings.meeting_id"
+right = "documents.meeting_id"
+kind = "||--o{"
+label = "meeting_id"
+note = "Exact join. Every document has a meeting; most meetings have no handouts."

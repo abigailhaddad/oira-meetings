@@ -36,3 +36,18 @@ Full-range run: `cd scripts && ../.venv/bin/python run_backfill.py` (resumable; 
 ## Weekly refresh
 
 `.github/workflows/refresh.yml` runs Wednesdays. `scripts/refresh.py` re-reads the previous month and this month, merges into https://huggingface.co/datasets/abigailhaddad/oira-eo12866-meetings (new data wins by meeting and document id; nothing is removed), and uploads only if something was added or changed. `python scripts/refresh.py --dry-run` does everything but the upload. See HANDOFF.md.
+
+## Data dictionary
+
+[`docs/data_dictionary.md`](docs/data_dictionary.md) lists every column of the three tables with its type, a description, the share of rows that have a value, and an example, plus a diagram of how the tables join. Types, counts and examples are read from the published parquet files; descriptions are in [`docs/tables.toml`](docs/tables.toml), written from the code that builds each column. Regenerate it with
+
+    python scripts/data_docs.py fetch hf_data   # download the current tables from Hugging Face (not the handouts)
+    python scripts/data_docs.py write hf_data   # write docs/data_dictionary.md
+
+`scripts/refresh.py` puts the same section on the Hugging Face dataset card. `scripts/data_docs.py` stops with an error if a parquet column has no description in `docs/tables.toml` or a described column is gone, and the weekly workflow runs that check too.
+
+## SQLite download
+
+The weekly workflow builds `oira-eo12866-meetings.sqlite` from the files on Hugging Face (tables `meetings`, `attendees` and `documents`, plus `_source`, which records the Hugging Face commit; the handout files themselves stay on Hugging Face) and attaches it to the GitHub release [`latest-data`](https://github.com/abigailhaddad/oira-meetings/releases/tag/latest-data). The release is replaced whenever the Hugging Face commit changes. To build it yourself:
+
+    python scripts/build_sqlite.py hf_data oira-eo12866-meetings.sqlite

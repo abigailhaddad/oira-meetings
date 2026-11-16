@@ -4,3 +4,5 @@ downloads/
 raw/
 *.bin
 out/
+hf_data/
+*.sqlite
