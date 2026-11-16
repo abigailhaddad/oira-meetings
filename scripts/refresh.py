@@ -135,10 +135,13 @@ def main():
     os.makedirs(os.path.join(ROOT, "out"), exist_ok=True)
     for name, df in (("meetings", meetings), ("attendees", attendees), ("documents", docs)):
         df.to_parquet(os.path.join(ROOT, "out", f"{name}.parquet"), index=False)
-    import card
+    import card, data_docs
+    # Data dictionary from the out/*.parquet files just written and docs/tables.toml; stops if the columns no
+    # longer match the descriptions.
+    dictionary = data_docs.markdown(os.path.join(ROOT, "out"), level=2, source="the files in this dataset", flat=True)
     card_path = os.path.join(ROOT, "out", "README.md")
     with open(card_path, "w") as f:
-        f.write(card.render(meetings, attendees, docs, today.isoformat()))
+        f.write(card.render(meetings, attendees, docs, today.isoformat(), dictionary))
     if dry:
         print("dry run: nothing uploaded")
         return

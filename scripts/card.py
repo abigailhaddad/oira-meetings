@@ -8,7 +8,8 @@ import pandas as pd
 START = "2025-01-20"
 
 
-def render(meetings: pd.DataFrame, attendees: pd.DataFrame, docs: pd.DataFrame, as_of: str) -> str:
+def render(meetings: pd.DataFrame, attendees: pd.DataFrame, docs: pd.DataFrame, as_of: str, dictionary: str = "") -> str:
+    """`dictionary` is the data dictionary section from scripts/data_docs.py, placed before the closing line."""
     n_m = len(meetings)
     n_a = len(attendees)
     no_att = int((~meetings["meeting_id"].isin(set(attendees["meeting_id"]))).sum())
@@ -37,5 +38,6 @@ The first collection (2025-01-20 through 2026-11-08) was checked two ways for ea
 
 Text extraction: {n_no_text:,} handouts have no extracted text (mostly scanned PDFs and images); no OCR was run. Two documents (1118292, 1118293) come back from the site as zero bytes. One PDF (1396392) appears truncated at the source.
 
+{dictionary}
 Code and checks: https://github.com/abigailhaddad/oira-meetings
 """
